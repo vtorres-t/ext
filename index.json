@@ -13412,12 +13412,12 @@
       "name": "Emperor Scan",
       "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.emperorscan-v1.4.63.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.emperorscan-v1.4.64.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.emperorscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 63,
-      "versionName": "1.4.63",
+      "versionCode": 64,
+      "versionName": "1.4.64",
       "sources": [
         {
           "id": "4562754350961964148",
