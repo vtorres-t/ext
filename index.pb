@@ -1,6 +1,6 @@
 
-	KeiyoushiKEI@9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2"<
-https://keiyoushi.github.iohttps://discord.gg/3FbCpdKbdY*Ð
+	KeiyoushiKEI@DE0FDC4BC621BC9F68495CB030F4F23421D3257BA9A6DEBF3295C4076841C77B"
+https://keiyoushi.github.io*Ð
 AHottie)eu.kanade.tachiyomi.extension.all.ahottieÚ
 dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.ahottie-v1.4.3.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.ahottie.png"1.4(21.4.3:/ãæ‹åà®ç¤WAHottieall"https://ahottie.top0*½
 Akuma'eu.kanade.tachiyomi.extension.all.akumaÖ
