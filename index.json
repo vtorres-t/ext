@@ -15155,18 +15155,18 @@
       "name": "Olympus Scanlation",
       "packageName": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.olympusscanlation-v1.4.17.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.olympusscanlation-v1.4.18.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.olympusscanlation.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 17,
-      "versionName": "1.4.17",
+      "versionCode": 18,
+      "versionName": "1.4.18",
       "sources": [
         {
           "id": "1596411039134168890",
           "name": "Olympus Scanlation",
           "language": "es",
-          "homeUrl": "https://olympusbiblioteca.com"
+          "homeUrl": "https://olympusxyz.com"
         }
       ]
     },
