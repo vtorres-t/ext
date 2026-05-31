@@ -1404,7 +1404,7 @@ Eljeksreales"(https://capibaratraductor.com/eljeksreal*„
 El Scan Semanal.eu.kanade.tachiyomi.extension.es.elscansemanalä
 ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.elscansemanal-v1.4.4.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.elscansemanal.png"1.4(21.4.4:LŞâÑÄ¹Ê˜TEl Scan Semanales"+https://capibaratraductor.com/elscansemanal*è
 Emperor Scan,eu.kanade.tachiyomi.extension.es.emperorscaná
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.emperorscan-v1.4.64.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.emperorscan.png"1.4(@21.4.64:7ôèÒó…Š©?Emperor Scanes"https://imperiomanhua.com*
+hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.emperorscan-v1.4.65.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.emperorscan.png"1.4(A21.4.65:7ôèÒó…Š©?Emperor Scanes"https://imperiomanhua.com*
 EnchiladaScan.eu.kanade.tachiyomi.extension.es.enchiladascanä
 ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.enchiladascan-v1.4.1.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.enchiladascan.png"1.4(21.4.1:Kºõ‚ß¸êÀ¥{EnchiladaScanes",https://enchiladascan.github.io/enchiladaweb*Ã
 Eris Greyrat Translations8eu.kanade.tachiyomi.extension.es.erisgreyrattranslationsù
