@@ -3930,24 +3930,6 @@
           "name": "xkcd",
           "language": "es",
           "homeUrl": "https://es.xkcd.com"
-        },
-        {
-          "id": "8162821425156695837",
-          "name": "xkcd",
-          "language": "zh",
-          "homeUrl": "https://xkcd.tw"
-        },
-        {
-          "id": "987306860406766740",
-          "name": "xkcd",
-          "language": "fr",
-          "homeUrl": "https://xkcd.lapin.org"
-        },
-        {
-          "id": "3742763978853704441",
-          "name": "xkcd",
-          "language": "ru",
-          "homeUrl": "https://xkcd.ru"
         }
       ]
     },

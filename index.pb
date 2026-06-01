@@ -288,9 +288,9 @@ Xinmeitulu,eu.kanade.tachiyomi.extension.all.xinmeituluà
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.xinmeitulu-v1.4.7.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.xinmeitulu.png"1.4(21.4.7:9ï¯ÂĞº…›Æi
 Xinmeituluall"https://www.xinmeitulu.com0*Ğ
 Xiutaku)eu.kanade.tachiyomi.extension.all.xiutakuÚ
-dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.xiutaku-v1.4.3.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.xiutaku.png"1.4(21.4.3:/ÚääƒÖ“¿ZXiutakuall"https://xiutaku.com0*ä
+dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.xiutaku-v1.4.3.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.xiutaku.png"1.4(21.4.3:/ÚääƒÖ“¿ZXiutakuall"https://xiutaku.com0*è
 xkcd&eu.kanade.tachiyomi.extension.all.xkcdÕ
-bhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.xkcd-v1.4.16.apkohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.xkcd.png"1.4(21.4.16:&ô¦”ƒ€·½¬xkcden"https://xkcd.com:)¼¤ú¨üÊ¼ã_xkcdes"https://es.xkcd.com:%Î¦›çÚŠ¤qxkcdzh"https://xkcd.tw:,”ùçÖ¼ËçÙxkcdfr"https://xkcd.lapin.org:%ùÅÏí£€¾ø3xkcdru"https://xkcd.ru*Ã
+bhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.xkcd-v1.4.16.apkohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.xkcd.png"1.4(21.4.16:&ô¦”ƒ€·½¬xkcden"https://xkcd.com:)¼¤ú¨üÊ¼ã_xkcdes"https://es.xkcd.com*Ã
 Yabai'eu.kanade.tachiyomi.extension.all.yabaiÖ
 bhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.yabai-v1.4.3.apkphttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.yabai.png"1.4(21.4.3:*®³Í‡§ƒÅâYabaiall"https://yabai.si0*„
 Yaoi Manga Online1eu.kanade.tachiyomi.extension.all.yaoimangaonlineê
