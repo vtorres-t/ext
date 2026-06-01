@@ -1595,7 +1595,7 @@ Okami.Scan*eu.kanade.tachiyomi.extension.es.okamiscanÜ
 ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.okamiscan-v1.4.4.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.okamiscan.png"1.4(21.4.4:?­üúƒÒ«—âL
 Okami.Scanes"#https://capibaratraductor.com/okami*ƒ
 Olympus Scanlation2eu.kanade.tachiyomi.extension.es.olympusscanlationí
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.olympusscanlation-v1.4.18.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.olympusscanlation.png"1.4(21.4.18::ºîê¸œìå“Olympus Scanlationes"https://olympusxyz.com*
+nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.olympusscanlation-v1.4.19.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.olympusscanlation.png"1.4(21.4.19::ºîê¸œìå“Olympus Scanlationes"https://olympusxyz.com*
 Omega Scanlation0eu.kanade.tachiyomi.extension.es.omegascanlationè
 khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.omegascanlation-v1.4.4.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.omegascanlation.png"1.4(21.4.4:Qìà±âÁ‡„årOmega Scanlationes"-https://capibaratraductor.com/omegascanlation0*Ú
 
