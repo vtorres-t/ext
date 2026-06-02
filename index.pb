@@ -1426,7 +1426,7 @@ jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Hachimitsu Tsuki0eu.kanade.tachiyomi.extension.es.hachimitsutsukiè
 khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hachimitsutsuki-v1.4.4.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hachimitsutsuki.png"1.4(21.4.4:K±””›ÓãëÌ<Hachimitsu Tsukies")https://capibaratraductor.com/shojopapers*ş
 Hades no Fansub.eu.kanade.tachiyomi.extension.es.hadesnofansubå
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hadesnofansub-v1.4.56.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hadesnofansub.png"1.4(821.4.56:D‹ˆË‡ß¼™¬sHades no Fansubes"!https://lectorhades.latamtoon.com0*°
+jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hadesnofansub-v1.4.57.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hadesnofansub.png"1.4(921.4.57:D‹ˆË‡ß¼™¬sHades no Fansubes"!https://lectorhades.latamtoon.com0*°
 Hangyaku no Scanlation5eu.kanade.tachiyomi.extension.es.hangyakunoscanlationò
 phttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hangyakunoscanlation-v1.4.4.apk~https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hangyakunoscanlation.png"1.4(21.4.4:\ƒ‰ÒçİŞñÁtHangyaku no Scanlationes"2https://capibaratraductor.com/hangyakunoscanlation0*ê
 Harem de Kira,eu.kanade.tachiyomi.extension.es.haremdekiraá
