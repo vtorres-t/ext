@@ -15863,12 +15863,12 @@
       "name": "Taurus Fansub",
       "packageName": "eu.kanade.tachiyomi.extension.es.taurusfansub",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.taurusfansub-v1.4.58.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.taurusfansub-v1.4.59.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.taurusfansub.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 58,
-      "versionName": "1.4.58",
+      "versionCode": 59,
+      "versionName": "1.4.59",
       "sources": [
         {
           "id": "5157867187592331768",

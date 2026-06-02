@@ -1688,7 +1688,7 @@ ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Sword Of Oblivion0eu.kanade.tachiyomi.extension.es.swordofoblivioné
 lhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.swordofoblivion-v1.4.50.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.swordofoblivion.png"1.4(221.4.50:>ŠŠô´·í·TSword Of Obliviones"https://swordofoblivion.com*ì
 Taurus Fansub-eu.kanade.tachiyomi.extension.es.taurusfansubã
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.taurusfansub-v1.4.58.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.taurusfansub.png"1.4(:21.4.58:7øƒÖØ’œ›ÊGTaurus Fansubes"https://lectortaurus.com*ğ
+ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.taurusfansub-v1.4.59.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.taurusfansub.png"1.4(;21.4.59:7øƒÖØ’œ›ÊGTaurus Fansubes"https://lectortaurus.com*ğ
 Temple Scan.eu.kanade.tachiyomi.extension.es.templescanespå
 jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.templescanesp-v1.4.60.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.templescanesp.png"1.4(<21.4.60::’™Ì»î§Çò/Temple Scanes"https://aedexnox.akan01.com0*€
 Templo de Jeny-eu.kanade.tachiyomi.extension.es.templodejenyâ
