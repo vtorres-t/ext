@@ -13210,12 +13210,12 @@
       "name": "Es.Mi2Manga",
       "packageName": "eu.kanade.tachiyomi.extension.es.esmi2manga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.esmi2manga-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.esmi2manga-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.esmi2manga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "1024617013674150903",

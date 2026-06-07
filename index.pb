@@ -1400,7 +1400,7 @@ shttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Escaneo de Leyendas2eu.kanade.tachiyomi.extension.es.escaneodeleyendasí
 nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.escaneodeleyendas-v1.4.50.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.escaneodeleyendas.png"1.4(221.4.50:Bâ–¥ûÑ¸òÃdEscaneo de Leyendases"https://escaneodeleyendas.com*ã
 Es.Mi2Manga+eu.kanade.tachiyomi.extension.es.esmi2mangaß
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.esmi2manga-v1.4.50.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.esmi2manga.png"1.4(221.4.50:6÷—úÖì÷ŠœEs.Mi2Mangaes"https://es.mi2manga.com0*ò
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.esmi2manga-v1.4.51.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.esmi2manga.png"1.4(321.4.51:6÷—úÖì÷ŠœEs.Mi2Mangaes"https://es.mi2manga.com0*ò
 EternalMangas.eu.kanade.tachiyomi.extension.es.eternalmangaså
 jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.eternalmangas-v1.4.23.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.eternalmangas.png"1.4(21.4.23::»ëª¬ÒÛà¤EternalMangases"https://eternalmangas.org0*Ì
 Fafa%eu.kanade.tachiyomi.extension.es.fafaÒ
