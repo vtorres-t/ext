@@ -4760,12 +4760,12 @@
       "name": "Comix",
       "packageName": "eu.kanade.tachiyomi.extension.en.comix",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.27.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.28.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 27,
-      "versionName": "1.4.27",
+      "versionCode": 28,
+      "versionName": "1.4.28",
       "sources": [
         {
           "id": "7537715367149829912",
@@ -9110,6 +9110,26 @@
           "name": "MurimScan",
           "language": "en",
           "homeUrl": "https://www.murimscans.site",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "MyAdultComics",
+      "packageName": "eu.kanade.tachiyomi.extension.en.myadultcomics",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.myadultcomics-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.myadultcomics.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "4116931674173505341",
+          "name": "MyAdultComics",
+          "language": "en",
+          "homeUrl": "https://myadultcomics.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
