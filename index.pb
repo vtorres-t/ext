@@ -615,7 +615,7 @@ hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.kappabeast-v1.4.33.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kappabeast.png"1.4(!21.4.33:5·›µŸë¾€ˆ$Kappa Beasten"https://kappabeast.com0*Ù
 
 Kayn Scans*eu.kanade.tachiyomi.extension.en.kaynscansİ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.kaynscans-v1.4.25.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kaynscans.png"1.4(21.4.25:0º¦•óÒï£/
+fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.kaynscans-v1.4.26.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kaynscans.png"1.4(21.4.26:0º¦•óÒï£/
 Kayn Scansen"https://kaynscan.org*â
 keenspot)eu.kanade.tachiyomi.extension.en.keenspotÚ
 dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.keenspot-v1.4.3.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.keenspot.png"1.4(21.4.3:@’ä¼‘£ô³¾+Keenspot TwoKindsen"https://twokinds.keenspot.com*Õ
@@ -726,7 +726,7 @@ ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Manga District.eu.kanade.tachiyomi.extension.en.mangadistrictå
 jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadistrict-v1.4.66.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadistrict.png"1.4(B21.4.66:;Š‘À±“´’)Manga Districten"https://mangadistrict.com0*á
 Mangadotnet,eu.kanade.tachiyomi.extension.en.mangadotnetà
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.8.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png"1.4(21.4.8:3¹÷Ù™âÉ•òQMangadotneten"https://mangadot.net0*â
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.9.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png"1.4(	21.4.9:3¹÷Ù™âÉ•òQMangadotneten"https://mangadot.net0*â
 Manga Drama+eu.kanade.tachiyomi.extension.en.mangadramaß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadrama-v1.4.50.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadrama.png"1.4(221.4.50:5ù¨œæ¥à›‡,Manga Dramaen"https://mangadrama.com0*ı
 Mangaforfree.com0eu.kanade.tachiyomi.extension.en.mangaforfreecomé
