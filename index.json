@@ -61,12 +61,12 @@
       "name": "AllPornComics.co",
       "packageName": "eu.kanade.tachiyomi.extension.all.allporncomicsco",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.allporncomicsco-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.allporncomicsco-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.allporncomicsco.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6353068724409812158",
@@ -287,12 +287,12 @@
       "name": "Comics Valley",
       "packageName": "eu.kanade.tachiyomi.extension.all.comicsvalley",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.comicsvalley-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.comicsvalley-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.comicsvalley.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "1103204227230640533",
@@ -748,12 +748,12 @@
       "name": "Grabber Zone",
       "packageName": "eu.kanade.tachiyomi.extension.all.grabberzone",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.grabberzone-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.grabberzone-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.grabberzone.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "7008887237419113673",
@@ -1510,12 +1510,12 @@
       "name": "Kodoku Studio",
       "packageName": "eu.kanade.tachiyomi.extension.all.kodokustudio",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.kodokustudio-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.kodokustudio-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.kodokustudio.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "1835150489344342556",
@@ -1807,12 +1807,12 @@
       "name": "MangaCrazy",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangacrazy",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.mangacrazy-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.mangacrazy-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.mangacrazy.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6812667365653325714",
@@ -1969,12 +1969,12 @@
       "name": "MangaForFree.net",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangaforfree",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.mangaforfree-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.mangaforfree-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.mangaforfree.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "7450882931813509619",
@@ -2182,12 +2182,12 @@
       "name": "Manhuarm",
       "packageName": "eu.kanade.tachiyomi.extension.all.manhuarm",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhuarm-v1.4.73.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhuarm-v1.4.75.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhuarm.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 73,
-      "versionName": "1.4.73",
+      "versionCode": 75,
+      "versionName": "1.4.75",
       "sources": [
         {
           "id": "797946349800265191",
@@ -2244,12 +2244,12 @@
       "name": "Manhwa18.cc",
       "packageName": "eu.kanade.tachiyomi.extension.all.manhwa18cc",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwa18cc-v1.4.56.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwa18cc-v1.4.57.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhwa18cc.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 56,
-      "versionName": "1.4.56",
+      "versionCode": 57,
+      "versionName": "1.4.57",
       "sources": [
         {
           "id": "4841602236575491202",
@@ -2298,12 +2298,12 @@
       "name": "Manhwa 18 Uncensored",
       "packageName": "eu.kanade.tachiyomi.extension.all.manhwa18uncensored",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwa18uncensored-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwa18uncensored-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhwa18uncensored.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "8685111429822831257",
@@ -2325,12 +2325,12 @@
       "name": "ManhwaClub.net",
       "packageName": "eu.kanade.tachiyomi.extension.all.manhwaclubnet",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwaclubnet-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwaclubnet-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhwaclubnet.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6720687475375335817",
@@ -2352,12 +2352,12 @@
       "name": "Manhwa-raw",
       "packageName": "eu.kanade.tachiyomi.extension.all.manhwadashraw",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwadashraw-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwadashraw-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhwadashraw.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "5617855959190673282",
@@ -2822,68 +2822,6 @@
       ]
     },
     {
-      "name": "NineManga",
-      "packageName": "eu.kanade.tachiyomi.extension.all.ninemanga",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.ninemanga-v1.4.26.apk",
-        "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.ninemanga.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 26,
-      "versionName": "1.4.26",
-      "sources": [
-        {
-          "id": "120391793502126753",
-          "name": "NineMangaEn",
-          "language": "en",
-          "homeUrl": "https://www.ninemanga.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        },
-        {
-          "id": "4097111295486074350",
-          "name": "NineMangaEs",
-          "language": "es",
-          "homeUrl": "https://es.ninemanga.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        },
-        {
-          "id": "7162569729467394726",
-          "name": "NineMangaBr",
-          "language": "pt-BR",
-          "homeUrl": "https://br.ninemanga.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        },
-        {
-          "id": "6531002958728774729",
-          "name": "NineMangaRu",
-          "language": "ru",
-          "homeUrl": "https://ru.ninemanga.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        },
-        {
-          "id": "8454920920230076882",
-          "name": "NineMangaDe",
-          "language": "de",
-          "homeUrl": "https://de.ninemanga.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        },
-        {
-          "id": "4312023446566221911",
-          "name": "NineMangaIt",
-          "language": "it",
-          "homeUrl": "https://it.ninemanga.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        },
-        {
-          "id": "3415116372640359218",
-          "name": "NineMangaFr",
-          "language": "fr",
-          "homeUrl": "https://fr.ninemanga.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "NovelCool",
       "packageName": "eu.kanade.tachiyomi.extension.all.novelcool",
       "resources": {
@@ -3211,12 +3149,12 @@
       "name": "SeraphicDeviltry",
       "packageName": "eu.kanade.tachiyomi.extension.all.seraphicdeviltry",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.seraphicdeviltry-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.seraphicdeviltry-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.seraphicdeviltry.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "5395306515630347602",
@@ -3528,12 +3466,12 @@
       "name": "Uncensored Manhwa",
       "packageName": "eu.kanade.tachiyomi.extension.all.uncensoredmanhwa",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.uncensoredmanhwa-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.uncensoredmanhwa-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.uncensoredmanhwa.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "1409770063172935539",
@@ -3547,6 +3485,26 @@
           "name": "Uncensored Manhwa",
           "language": "all",
           "homeUrl": "https://uncensoredmanhwa.us",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
+      "name": "V2PH",
+      "packageName": "eu.kanade.tachiyomi.extension.all.v2ph",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.v2ph-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.v2ph.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "4511819378822109646",
+          "name": "V2PH",
+          "language": "all",
+          "homeUrl": "https://www.v2ph.com",
           "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
         }
       ]
@@ -3903,12 +3861,12 @@
       "name": "AllPornComic",
       "packageName": "eu.kanade.tachiyomi.extension.en.allporncomic",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.allporncomic-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.allporncomic-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.allporncomic.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "8547397037512613554",
@@ -3923,12 +3881,12 @@
       "name": "AllPornComic.io",
       "packageName": "eu.kanade.tachiyomi.extension.en.allporncomicio",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.allporncomicio-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.allporncomicio-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.allporncomicio.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6660493687892371703",
@@ -3943,12 +3901,12 @@
       "name": "Anisa Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.anisascans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.anisascans-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.anisascans-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.anisascans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "8904806262353429205",
@@ -3963,12 +3921,12 @@
       "name": "AP Comics",
       "packageName": "eu.kanade.tachiyomi.extension.en.apcomics",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.apcomics-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.apcomics-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.apcomics.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "7848750588298461115",
@@ -3983,12 +3941,12 @@
       "name": "Aqua Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.aquamanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.aquamanga-v1.4.61.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.aquamanga-v1.4.62.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.aquamanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 61,
-      "versionName": "1.4.61",
+      "versionCode": 62,
+      "versionName": "1.4.62",
       "sources": [
         {
           "id": "626267698662819838",
@@ -4079,12 +4037,12 @@
       "name": "Arven Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.arvencomics",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.arvencomics-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.arvencomics-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.arvencomics.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "1644996696929251104",
@@ -4117,12 +4075,12 @@
       "name": "Arya Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.aryascans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.aryascans-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.aryascans-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.aryascans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "7621724834621233483",
@@ -4368,12 +4326,12 @@
       "name": "Battle In 5 Seconds After Meeting",
       "packageName": "eu.kanade.tachiyomi.extension.en.battleinfivesecondsaftermeeting",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.battleinfivesecondsaftermeeting-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.battleinfivesecondsaftermeeting-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.battleinfivesecondsaftermeeting.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "2529980242070778875",
@@ -4447,12 +4405,12 @@
       "name": "Borat Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.boratscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.boratscans-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.boratscans-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.boratscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "7909401032149692930",
@@ -4485,12 +4443,12 @@
       "name": "Bun Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.bunmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.bunmanga-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.bunmanga-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.bunmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5944672760629857205",
@@ -4582,12 +4540,12 @@
       "name": "Cocomic",
       "packageName": "eu.kanade.tachiyomi.extension.en.cocomic",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.cocomic-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.cocomic-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.cocomic.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "3544369893051520689",
@@ -4602,12 +4560,12 @@
       "name": "Coffee Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.coffeemanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.coffeemanga-v1.4.55.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.coffeemanga-v1.4.56.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.coffeemanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 55,
-      "versionName": "1.4.55",
+      "versionCode": 56,
+      "versionName": "1.4.56",
       "sources": [
         {
           "id": "7570643086791062929",
@@ -4799,12 +4757,12 @@
       "name": "Cucumber Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.cucumbermanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.cucumbermanga-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.cucumbermanga-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.cucumbermanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3890119680043332770",
@@ -4955,12 +4913,12 @@
       "name": "Decadence Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.decadencescans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.decadencescans-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.decadencescans-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.decadencescans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "7432245132662185058",
@@ -5073,12 +5031,12 @@
       "name": "DragonTea",
       "packageName": "eu.kanade.tachiyomi.extension.en.dragontea",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.dragontea-v1.4.55.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.dragontea-v1.4.56.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.dragontea.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 55,
-      "versionName": "1.4.55",
+      "versionCode": 56,
+      "versionName": "1.4.56",
       "sources": [
         {
           "id": "6573506892686767219",
@@ -5268,12 +5226,12 @@
       "name": "EpicManga",
       "packageName": "eu.kanade.tachiyomi.extension.en.epicmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.epicmanga-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.epicmanga-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.epicmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "8018442833412213616",
@@ -5308,12 +5266,12 @@
       "name": "Ero18x",
       "packageName": "eu.kanade.tachiyomi.extension.en.ero18x",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.ero18x-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.ero18x-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.ero18x.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5861653560535486832",
@@ -5483,12 +5441,12 @@
       "name": "Firescans",
       "packageName": "eu.kanade.tachiyomi.extension.en.firescans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.firescans-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.firescans-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.firescans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "5761461704760730187",
@@ -5521,12 +5479,12 @@
       "name": "Frieren Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.frierenonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.frierenonline-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.frierenonline-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.frierenonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "27704135061035291",
@@ -5540,12 +5498,12 @@
       "name": "GakaMangas",
       "packageName": "eu.kanade.tachiyomi.extension.en.gakamangas",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.gakamangas-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.gakamangas-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.gakamangas.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5246625723235112128",
@@ -5559,12 +5517,12 @@
       "name": "GalaxyDegenScans",
       "packageName": "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.galaxydegenscans-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.galaxydegenscans-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.galaxydegenscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "4598626990187882152",
@@ -5599,12 +5557,12 @@
       "name": "GEDE Comix",
       "packageName": "eu.kanade.tachiyomi.extension.en.gedecomix",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.gedecomix-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.gedecomix-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.gedecomix.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3956136651279281107",
@@ -5619,12 +5577,12 @@
       "name": "GingeRTooN",
       "packageName": "eu.kanade.tachiyomi.extension.en.gingertoon",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.gingertoon-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.gingertoon-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.gingertoon.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "4205510315534778593",
@@ -5678,12 +5636,12 @@
       "name": "Gourmet Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.gourmetscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.gourmetscans-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.gourmetscans-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.gourmetscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3694940277826033657",
@@ -5848,26 +5806,6 @@
       ]
     },
     {
-      "name": "Harimanga",
-      "packageName": "eu.kanade.tachiyomi.extension.en.harimanga",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.harimanga-v1.4.55.apk",
-        "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.harimanga.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 55,
-      "versionName": "1.4.55",
-      "sources": [
-        {
-          "id": "4088566215115473619",
-          "name": "Harimanga",
-          "language": "en",
-          "homeUrl": "https://harimanga.me",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "Hentai3z.CC",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentai3zcc",
       "resources": {
@@ -5891,12 +5829,12 @@
       "name": "Hentai4Free",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentai4free",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentai4free-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentai4free-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentai4free.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6625474581258090106",
@@ -5948,6 +5886,26 @@
       ]
     },
     {
+      "name": "HentaiKisu",
+      "packageName": "eu.kanade.tachiyomi.extension.en.hentaikisu",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentaikisu-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentaikisu.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "5345672200867563334",
+          "name": "HentaiKisu",
+          "language": "en",
+          "homeUrl": "https://hentaikisu.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "HentaiKun",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentaikun",
       "resources": {
@@ -5991,12 +5949,12 @@
       "name": "HentaiRead",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentairead",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentairead-v1.4.60.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentairead-v1.4.61.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentairead.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 60,
-      "versionName": "1.4.60",
+      "versionCode": 61,
+      "versionName": "1.4.61",
       "sources": [
         {
           "id": "2299981010822511979",
@@ -6031,12 +5989,12 @@
       "name": "HentaiSco",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentaisco",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentaisco-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentaisco-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentaisco.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6741034623728813910",
@@ -6051,12 +6009,12 @@
       "name": "HentaiXComic",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentaixcomic",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentaixcomic-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentaixcomic-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentaixcomic.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "7664311260874726882",
@@ -6071,12 +6029,12 @@
       "name": "HentaiXDickgirl",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentaixdickgirl",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentaixdickgirl-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentaixdickgirl-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentaixdickgirl.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "918523496924275699",
@@ -6091,12 +6049,12 @@
       "name": "HentaiXYuri",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentaixyuri",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentaixyuri-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hentaixyuri-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hentaixyuri.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "1089473637776666044",
@@ -6170,12 +6128,12 @@
       "name": "Hiperdex",
       "packageName": "eu.kanade.tachiyomi.extension.en.hiperdex",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hiperdex-v1.4.79.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hiperdex-v1.4.80.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hiperdex.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 79,
-      "versionName": "1.4.79",
+      "versionCode": 80,
+      "versionName": "1.4.80",
       "sources": [
         {
           "id": "3064755045370217842",
@@ -6209,12 +6167,12 @@
       "name": "HM2D",
       "packageName": "eu.kanade.tachiyomi.extension.en.hm2d",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hm2d-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.hm2d-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.hm2d.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "7329798563365402763",
@@ -6366,12 +6324,12 @@
       "name": "IsekaiScan.top (unoriginal)",
       "packageName": "eu.kanade.tachiyomi.extension.en.isekaiscantop",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.isekaiscantop-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.isekaiscantop-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.isekaiscantop.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "2873205829711053655",
@@ -6386,12 +6344,12 @@
       "name": "Jinmangas",
       "packageName": "eu.kanade.tachiyomi.extension.en.jinmangas",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.jinmangas-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.jinmangas-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.jinmangas.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5727368826344311935",
@@ -6620,12 +6578,12 @@
       "name": "Kissmanga.in",
       "packageName": "eu.kanade.tachiyomi.extension.en.kissmangain",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.kissmangain-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.kissmangain-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kissmangain.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "3112384885023225761",
@@ -6679,12 +6637,12 @@
       "name": "KSGroupScans",
       "packageName": "eu.kanade.tachiyomi.extension.en.ksgroupscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.ksgroupscans-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.ksgroupscans-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.ksgroupscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "4307007494151154546",
@@ -6696,35 +6654,15 @@
       ]
     },
     {
-      "name": "Kun Manga",
-      "packageName": "eu.kanade.tachiyomi.extension.en.kunmanga",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.kunmanga-v1.4.51.apk",
-        "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kunmanga.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
-      "sources": [
-        {
-          "id": "987549744200556532",
-          "name": "Kun Manga",
-          "language": "en",
-          "homeUrl": "https://kunmanga.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "Kun Manga Online",
       "packageName": "eu.kanade.tachiyomi.extension.en.kunmangaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.kunmangaonline-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.kunmangaonline-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.kunmangaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "7947062020376654174",
@@ -6797,12 +6735,12 @@
       "name": "LHTranslation",
       "packageName": "eu.kanade.tachiyomi.extension.en.lhtranslation",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.lhtranslation-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.lhtranslation-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.lhtranslation.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "8802607595629671202",
@@ -6835,12 +6773,12 @@
       "name": "MangaYY",
       "packageName": "eu.kanade.tachiyomi.extension.en.likemangain",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.likemangain-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.likemangain-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.likemangain.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "828698548689586603",
@@ -6855,12 +6793,12 @@
       "name": "Lily Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.lilymanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.lilymanga-v1.4.57.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.lilymanga-v1.4.58.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.lilymanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 57,
-      "versionName": "1.4.57",
+      "versionCode": 58,
+      "versionName": "1.4.58",
       "sources": [
         {
           "id": "4480996639887718467",
@@ -6875,12 +6813,12 @@
       "name": "LinkManga",
       "packageName": "eu.kanade.tachiyomi.extension.en.linkmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.linkmanga-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.linkmanga-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.linkmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "8622937201319058235",
@@ -6969,15 +6907,35 @@
       ]
     },
     {
+      "name": "LustToon",
+      "packageName": "eu.kanade.tachiyomi.extension.en.lusttoon",
+      "resources": {
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.lusttoon-v1.4.1.apk",
+        "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.lusttoon.png"
+      },
+      "extensionLib": "1.4",
+      "versionCode": 1,
+      "versionName": "1.4.1",
+      "sources": [
+        {
+          "id": "5466172882050312169",
+          "name": "LustToon",
+          "language": "en",
+          "homeUrl": "https://lustoon.com",
+          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
+        }
+      ]
+    },
+    {
       "name": "MadaraDex",
       "packageName": "eu.kanade.tachiyomi.extension.en.madaradex",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.madaradex-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.madaradex-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.madaradex.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "2136088453725931591",
@@ -7049,12 +7007,12 @@
       "name": "Mahouirexnohentaikarte",
       "packageName": "eu.kanade.tachiyomi.extension.en.mahouirexnohentaikarte",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mahouirexnohentaikarte-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mahouirexnohentaikarte-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mahouirexnohentaikarte.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "1698910827692369662",
@@ -7089,12 +7047,12 @@
       "name": "Manga18Free",
       "packageName": "eu.kanade.tachiyomi.extension.en.manga18free",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manga18free-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manga18free-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manga18free.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "4446818596127611511",
@@ -7109,12 +7067,12 @@
       "name": "Manga18fx",
       "packageName": "eu.kanade.tachiyomi.extension.en.manga18fx",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manga18fx-v1.4.55.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manga18fx-v1.4.56.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manga18fx.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 55,
-      "versionName": "1.4.55",
+      "versionCode": 56,
+      "versionName": "1.4.56",
       "sources": [
         {
           "id": "3157287889751723714",
@@ -7129,12 +7087,12 @@
       "name": "Manga 18x",
       "packageName": "eu.kanade.tachiyomi.extension.en.manga18x",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manga18x-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manga18x-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manga18x.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "6802623574377987877",
@@ -7189,12 +7147,12 @@
       "name": "MangaBlaze",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangablaze",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangablaze-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangablaze-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangablaze.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6145388266378605164",
@@ -7247,12 +7205,12 @@
       "name": "MangaK",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangabuddy",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangabuddy-v1.4.29.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangabuddy-v1.4.30.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangabuddy.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 29,
-      "versionName": "1.4.29",
+      "versionCode": 30,
+      "versionName": "1.4.30",
       "sources": [
         {
           "id": "5020395055978987501",
@@ -7286,12 +7244,12 @@
       "name": "MangaClash",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangaclash",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaclash-v1.4.56.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaclash-v1.4.57.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaclash.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 56,
-      "versionName": "1.4.56",
+      "versionCode": 57,
+      "versionName": "1.4.57",
       "sources": [
         {
           "id": "5214196327345905951",
@@ -7325,12 +7283,12 @@
       "name": "Manga Dass",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangadass",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadass-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadass-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadass.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "5571661567325096882",
@@ -7384,12 +7342,12 @@
       "name": "MangaDia",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangadia",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadia-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadia-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadia.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "408151224123746617",
@@ -7403,12 +7361,12 @@
       "name": "Manga District",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangadistrict",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadistrict-v1.4.66.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadistrict-v1.4.67.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadistrict.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 66,
-      "versionName": "1.4.66",
+      "versionCode": 67,
+      "versionName": "1.4.67",
       "sources": [
         {
           "id": "2964723819258267786",
@@ -7443,12 +7401,12 @@
       "name": "Manga Drama",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangadrama",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadrama-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadrama-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadrama.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3174596843279946873",
@@ -7463,12 +7421,12 @@
       "name": "Mangaforfree.com",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangaforfreecom",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaforfreecom-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaforfreecom-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaforfreecom.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "1099222169691387069",
@@ -7543,12 +7501,12 @@
       "name": "Mangafree",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangafree",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangafree-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangafree-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangafree.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3386549954655095711",
@@ -7563,12 +7521,12 @@
       "name": "MangaGG",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangagg",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangagg-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangagg-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangagg.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "8173282214298911566",
@@ -7603,12 +7561,12 @@
       "name": "MangaGo.fun",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangagofun",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangagofun-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangagofun-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangagofun.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6389620462589488124",
@@ -7622,12 +7580,12 @@
       "name": "MangaHe",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangahe",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangahe-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangahe-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangahe.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "1406386535599331231",
@@ -7662,12 +7620,12 @@
       "name": "Manga Hentai",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangahentai",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangahentai-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangahentai-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangahentai.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "8728648053438602039",
@@ -7742,12 +7700,12 @@
       "name": "MangaKa",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangaka",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaka-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaka-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaka.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3253856465912445981",
@@ -7821,12 +7779,12 @@
       "name": "Manga Kiss",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangakiss",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangakiss-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangakiss-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangakiss.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "2402699562771779060",
@@ -7840,12 +7798,12 @@
       "name": "MangaManiacs",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangamaniacs",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangamaniacs-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangamaniacs-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangamaniacs.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5502656519292762717",
@@ -7997,12 +7955,12 @@
       "name": "MangaOwl.io (unoriginal)",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangaowlio",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaowlio-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaowlio-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaowlio.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "2031498907928923621",
@@ -8076,12 +8034,12 @@
       "name": "Manga Read",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangaread",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaread-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangaread-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangaread.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "8850383356117730479",
@@ -8135,12 +8093,12 @@
       "name": "MangaRead.org",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangareadorg",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangareadorg-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangareadorg-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangareadorg.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "2681651342533848540",
@@ -8155,12 +8113,12 @@
       "name": "Mangasushi",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangasushi",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangasushi-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangasushi-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangasushi.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "3606721916149050760",
@@ -8253,12 +8211,12 @@
       "name": "ManhuaFast",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuafast",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuafast-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuafast-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuafast.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "5432970425689607116",
@@ -8273,12 +8231,12 @@
       "name": "ManhuaFast.net (unoriginal)",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuafastnet",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuafastnet-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuafastnet-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuafastnet.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3913016041409072217",
@@ -8292,12 +8250,12 @@
       "name": "ManhuaHot",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuahot",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuahot-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuahot-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuahot.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "7638481723868333116",
@@ -8311,12 +8269,12 @@
       "name": "Manhuanext",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuanext",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuanext-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuanext-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuanext.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3544957587727489204",
@@ -8330,12 +8288,12 @@
       "name": "Manhua Plus",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuaplus",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuaplus-v1.4.57.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuaplus-v1.4.58.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuaplus.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 57,
-      "versionName": "1.4.57",
+      "versionCode": 58,
+      "versionName": "1.4.58",
       "sources": [
         {
           "id": "9030178752551947945",
@@ -8407,12 +8365,12 @@
       "name": "ManhuaTop",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuatop",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuatop-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuatop-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuatop.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "1903782575226230108",
@@ -8427,12 +8385,12 @@
       "name": "ManhuaUS",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuaus",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuaus-v1.4.55.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuaus-v1.4.56.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuaus.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 55,
-      "versionName": "1.4.55",
+      "versionCode": 56,
+      "versionName": "1.4.56",
       "sources": [
         {
           "id": "4005973248538140146",
@@ -8446,12 +8404,12 @@
       "name": "Manhua Zonghe",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuazonghe",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuazonghe-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuazonghe-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuazonghe.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "6077132944162952766",
@@ -8486,12 +8444,12 @@
       "name": "Manhwa18.org",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwa18org",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwa18org-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwa18org-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwa18org.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "8997140045479125847",
@@ -8506,12 +8464,12 @@
       "name": "Manhwa68",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwa68",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwa68-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwa68-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwa68.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "2676315620251021475",
@@ -8543,35 +8501,15 @@
       ]
     },
     {
-      "name": "ManhwaClan",
-      "packageName": "eu.kanade.tachiyomi.extension.en.manhwaclan",
-      "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwaclan-v1.4.52.apk",
-        "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwaclan.png"
-      },
-      "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
-      "sources": [
-        {
-          "id": "3313733609433811176",
-          "name": "ManhwaClan",
-          "language": "en",
-          "homeUrl": "https://manhwaclan.com",
-          "contentRating": "CONTENT_RATING_PORNOGRAPHIC"
-        }
-      ]
-    },
-    {
       "name": "Manhwa Comics",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwacomics",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwacomics-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwacomics-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwacomics.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3386088694317815151",
@@ -8586,12 +8524,12 @@
       "name": "ManhwaDen",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwaden",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwaden-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwaden-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwaden.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "7672439791159944710",
@@ -8606,12 +8544,12 @@
       "name": "ManhwaGet",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwaget",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwaget-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwaget-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwaget.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "2979406394980750413",
@@ -8645,12 +8583,12 @@
       "name": "Manhwajoy",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwajoy",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwajoy-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwajoy-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwajoy.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "2207753120313827859",
@@ -8705,12 +8643,12 @@
       "name": "ManhwaManhua",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwamanhua",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwamanhua-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwamanhua-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwamanhua.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "8935586841672178004",
@@ -8725,12 +8663,12 @@
       "name": "ManhwaNex",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwanex",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwanex-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwanex-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwanex.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3663840686576348637",
@@ -8764,12 +8702,12 @@
       "name": "Manhwa Reads",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwareads",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwareads-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwareads-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwareads.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3315938131690984352",
@@ -8784,12 +8722,12 @@
       "name": "Manhwa Toon",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwatoon",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwatoon-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwatoon-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwatoon.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "3590279382085161370",
@@ -8804,12 +8742,12 @@
       "name": "Manhwatop",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwatop",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwatop-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhwatop-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhwatop.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "5177484976652938680",
@@ -8982,12 +8920,12 @@
       "name": "Milftoon",
       "packageName": "eu.kanade.tachiyomi.extension.en.milftoon",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.milftoon-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.milftoon-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.milftoon.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "4002667303103881826",
@@ -9336,12 +9274,12 @@
       "name": "24HNovel",
       "packageName": "eu.kanade.tachiyomi.extension.en.novel24h",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.novel24h-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.novel24h-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.novel24h.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "8392183862780411192",
@@ -9356,12 +9294,12 @@
       "name": "NovelCrow",
       "packageName": "eu.kanade.tachiyomi.extension.en.novelcrow",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.novelcrow-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.novelcrow-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.novelcrow.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "4344163117450761946",
@@ -9472,12 +9410,12 @@
       "name": "OctopusManga",
       "packageName": "eu.kanade.tachiyomi.extension.en.octopusmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.octopusmanga-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.octopusmanga-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.octopusmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "2527256034272235453",
@@ -9670,12 +9608,12 @@
       "name": "Orchisasia",
       "packageName": "eu.kanade.tachiyomi.extension.en.orchisasia",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.orchisasia-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.orchisasia-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.orchisasia.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "4403086215261921832",
@@ -9729,12 +9667,12 @@
       "name": "Paritehaber",
       "packageName": "eu.kanade.tachiyomi.extension.en.paritehaber",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.paritehaber-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.paritehaber-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.paritehaber.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "3740623306758763677",
@@ -9768,12 +9706,12 @@
       "name": "Paw Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.pawmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.pawmanga-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.pawmanga-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.pawmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "4515785594129735633",
@@ -9788,12 +9726,12 @@
       "name": "Petrotechsociety",
       "packageName": "eu.kanade.tachiyomi.extension.en.petrotechsociety",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.petrotechsociety-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.petrotechsociety-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.petrotechsociety.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "20045885295638720",
@@ -9808,12 +9746,12 @@
       "name": "Philia Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.philiascans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.philiascans-v1.4.55.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.philiascans-v1.4.56.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.philiascans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 55,
-      "versionName": "1.4.55",
+      "versionCode": 56,
+      "versionName": "1.4.56",
       "sources": [
         {
           "id": "5404809838386240671",
@@ -9827,12 +9765,12 @@
       "name": "FlameScans.lol",
       "packageName": "eu.kanade.tachiyomi.extension.en.plutoscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.plutoscans-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.plutoscans-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.plutoscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "1001157238479601077",
@@ -9885,18 +9823,18 @@
       "name": "Qi Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.qiscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.qiscans-v1.4.25.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.qiscans-v1.4.26.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.qiscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 25,
-      "versionName": "1.4.25",
+      "versionCode": 26,
+      "versionName": "1.4.26",
       "sources": [
         {
           "id": "5806040666300479660",
           "name": "QiScans",
           "language": "en",
-          "homeUrl": "https://qimanhwa.com"
+          "homeUrl": "https://qimanga.com"
         }
       ]
     },
@@ -10000,12 +9938,12 @@
       "name": "RD Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.rdscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.rdscans-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.rdscans-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.rdscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "2492552743813599108",
@@ -10420,12 +10358,12 @@
       "name": "Reset Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.resetscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.62.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.63.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.resetscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 62,
-      "versionName": "1.4.62",
+      "versionCode": 63,
+      "versionName": "1.4.63",
       "sources": [
         {
           "id": "8358008083447218926",
@@ -10593,12 +10531,12 @@
       "name": "Rose Squad Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.rosesquadscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.rosesquadscans-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.rosesquadscans-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.rosesquadscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "5475936177780301452",
@@ -10632,12 +10570,12 @@
       "name": "S2Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.s2manga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.s2manga-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.s2manga-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.s2manga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "4870917758913494428",
@@ -10729,12 +10667,12 @@
       "name": "Setsu Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.setsuscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.setsuscans-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.setsuscans-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.setsuscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "8546397272954539389",
@@ -10748,12 +10686,12 @@
       "name": "Shiba Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.shibamanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.shibamanga-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.shibamanga-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.shibamanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "2460171050002652675",
@@ -10826,12 +10764,12 @@
       "name": "Sleepy Translations",
       "packageName": "eu.kanade.tachiyomi.extension.en.sleepytranslations",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.sleepytranslations-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.sleepytranslations-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.sleepytranslations.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "5756634909776784131",
@@ -10864,12 +10802,12 @@
       "name": "Spmanhwa",
       "packageName": "eu.kanade.tachiyomi.extension.en.spmanhwa",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.spmanhwa-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.spmanhwa-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.spmanhwa.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "4735212915018805501",
@@ -11195,12 +11133,12 @@
       "name": "Toon18",
       "packageName": "eu.kanade.tachiyomi.extension.en.toon18",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.toon18-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.toon18-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.toon18.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "8464554716285026308",
@@ -11215,12 +11153,12 @@
       "name": "ToonGod",
       "packageName": "eu.kanade.tachiyomi.extension.en.toongod",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.toongod-v1.4.55.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.toongod-v1.4.56.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.toongod.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 55,
-      "versionName": "1.4.55",
+      "versionCode": 56,
+      "versionName": "1.4.56",
       "sources": [
         {
           "id": "2054192099319007885",
@@ -11235,12 +11173,12 @@
       "name": "Toonily",
       "packageName": "eu.kanade.tachiyomi.extension.en.toonily",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.toonily-v1.4.64.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.toonily-v1.4.65.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.toonily.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 64,
-      "versionName": "1.4.64",
+      "versionCode": 65,
+      "versionName": "1.4.65",
       "sources": [
         {
           "id": "5190569675461947007",
@@ -11295,12 +11233,12 @@
       "name": "Toonizy",
       "packageName": "eu.kanade.tachiyomi.extension.en.toonizy",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.toonizy-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.toonizy-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.toonizy.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5404499323728358840",
@@ -11315,12 +11253,12 @@
       "name": "Top Manhua",
       "packageName": "eu.kanade.tachiyomi.extension.en.topmanhua",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.topmanhua-v1.4.57.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.topmanhua-v1.4.58.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.topmanhua.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 57,
-      "versionName": "1.4.57",
+      "versionCode": 58,
+      "versionName": "1.4.58",
       "sources": [
         {
           "id": "368848319592333339",
@@ -11335,12 +11273,12 @@
       "name": "TopManhua.fan",
       "packageName": "eu.kanade.tachiyomi.extension.en.topmanhuafan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.topmanhuafan-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.topmanhuafan-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.topmanhuafan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6293890187960663957",
@@ -11355,12 +11293,12 @@
       "name": "TopManhua.net",
       "packageName": "eu.kanade.tachiyomi.extension.en.topmanhuanet",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.topmanhuanet-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.topmanhuanet-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.topmanhuanet.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6421630287504544593",
@@ -11375,12 +11313,12 @@
       "name": "TritiniaScans",
       "packageName": "eu.kanade.tachiyomi.extension.en.tritiniascans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.tritiniascans-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.tritiniascans-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.tritiniascans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "6032516943051342273",
@@ -11394,12 +11332,12 @@
       "name": "Utoon",
       "packageName": "eu.kanade.tachiyomi.extension.en.utoon",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.utoon-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.utoon-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.utoon.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "3650631607354829018",
@@ -11534,12 +11472,12 @@
       "name": "VyvyManga.org",
       "packageName": "eu.kanade.tachiyomi.extension.en.vyvymangaorg",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.vyvymangaorg-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.vyvymangaorg-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.vyvymangaorg.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "2440423058759310563",
@@ -11573,12 +11511,12 @@
       "name": "KokoMangas",
       "packageName": "eu.kanade.tachiyomi.extension.en.wearehunger",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.wearehunger-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.wearehunger-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.wearehunger.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "58992897252080929",
@@ -11612,15 +11550,15 @@
       "name": "Webdex Scans",
       "packageName": "eu.kanade.tachiyomi.extension.en.webdexscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.webdexscans-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.webdexscans-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.webdexscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
-          "id": "7342583497283400166",
+          "id": "8642723584365423504",
           "name": "Webdex Scans",
           "language": "en",
           "homeUrl": "https://webdexscans.com"
@@ -11650,12 +11588,12 @@
       "name": "WebtoonScan",
       "packageName": "eu.kanade.tachiyomi.extension.en.webtoonscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.webtoonscan-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.webtoonscan-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.webtoonscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3062846066388633553",
@@ -11670,12 +11608,12 @@
       "name": "WebtoonXYZ",
       "packageName": "eu.kanade.tachiyomi.extension.en.webtoonxyz",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.webtoonxyz-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.webtoonxyz-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.webtoonxyz.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "6750082404202711318",
@@ -11710,12 +11648,12 @@
       "name": "Whale Manga",
       "packageName": "eu.kanade.tachiyomi.extension.en.whalemanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.whalemanga-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.whalemanga-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.whalemanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5662367258369038433",
@@ -11749,12 +11687,12 @@
       "name": "WoopRead",
       "packageName": "eu.kanade.tachiyomi.extension.en.woopread",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.woopread-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.woopread-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.woopread.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "8919726581572234359",
@@ -11787,12 +11725,12 @@
       "name": "WuxiaWorld",
       "packageName": "eu.kanade.tachiyomi.extension.en.wuxiaworld",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.wuxiaworld-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.wuxiaworld-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.wuxiaworld.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "6540843430852844328",
@@ -11884,12 +11822,12 @@
       "name": "YakshaComics",
       "packageName": "eu.kanade.tachiyomi.extension.en.yakshacomics",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.yakshacomics-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.yakshacomics-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.yakshacomics.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "4871612284225100668",
@@ -11923,12 +11861,12 @@
       "name": "Yaoihub",
       "packageName": "eu.kanade.tachiyomi.extension.en.yaoihub",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.yaoihub-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.yaoihub-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.yaoihub.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "6718273076571980404",
@@ -11943,12 +11881,12 @@
       "name": "YaoiScan",
       "packageName": "eu.kanade.tachiyomi.extension.en.yaoiscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.yaoiscan-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.yaoiscan-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.yaoiscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "4439807782838127935",
@@ -12002,12 +11940,12 @@
       "name": "Zazamanga",
       "packageName": "eu.kanade.tachiyomi.extension.en.zazamanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zazamanga-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zazamanga-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.zazamanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "1264036757248780997",
@@ -12022,12 +11960,12 @@
       "name": "ZinChanManga",
       "packageName": "eu.kanade.tachiyomi.extension.en.zinchanmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zinchanmanga-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zinchanmanga-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.zinchanmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "1345447568467813585",
@@ -12042,12 +11980,12 @@
       "name": "ZinChanManga.com",
       "packageName": "eu.kanade.tachiyomi.extension.en.zinchanmangacom",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zinchanmangacom-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zinchanmangacom-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.zinchanmangacom.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "8436939591318965973",
@@ -12062,12 +12000,12 @@
       "name": "Zinmanga",
       "packageName": "eu.kanade.tachiyomi.extension.en.zinmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zinmanga-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zinmanga-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.zinmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "5990114708086767078",
@@ -12082,12 +12020,12 @@
       "name": "Zinmanga.net",
       "packageName": "eu.kanade.tachiyomi.extension.en.zinmanganet",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zinmanganet-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zinmanganet-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.zinmanganet.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "1987105317893699901",
@@ -12217,12 +12155,12 @@
       "name": "ApollComics",
       "packageName": "eu.kanade.tachiyomi.extension.es.apollcomics",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.apollcomics-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.apollcomics-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.apollcomics.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "3044113561993269522",
@@ -12353,12 +12291,12 @@
       "name": "BarManga",
       "packageName": "eu.kanade.tachiyomi.extension.es.barmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.barmanga-v1.4.61.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.barmanga-v1.4.62.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.barmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 61,
-      "versionName": "1.4.61",
+      "versionCode": 62,
+      "versionName": "1.4.62",
       "sources": [
         {
           "id": "404674447362480247",
@@ -12392,12 +12330,12 @@
       "name": "Bega Translation",
       "packageName": "eu.kanade.tachiyomi.extension.es.begatranslation",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.begatranslation-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.begatranslation-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.begatranslation.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "6757330205319558057",
@@ -12431,12 +12369,12 @@
       "name": "Biblio Panda",
       "packageName": "eu.kanade.tachiyomi.extension.es.bibliopanda",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bibliopanda-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bibliopanda-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bibliopanda.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "8219271831795034464",
@@ -12589,12 +12527,12 @@
       "name": "Catharsis World",
       "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.catharsisworld-v1.4.64.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.catharsisworld-v1.4.65.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.catharsisworld.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 64,
-      "versionName": "1.4.64",
+      "versionCode": 65,
+      "versionName": "1.4.65",
       "sources": [
         {
           "id": "2856082375563763469",
@@ -12727,12 +12665,12 @@
       "name": "Code Arc Mangas",
       "packageName": "eu.kanade.tachiyomi.extension.es.codearc",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.codearc-v1.4.2.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.codearc-v1.4.3.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.codearc.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 2,
-      "versionName": "1.4.2",
+      "versionCode": 3,
+      "versionName": "1.4.3",
       "sources": [
         {
           "id": "5491278213927672737",
@@ -12747,12 +12685,12 @@
       "name": "Codex Zero",
       "packageName": "eu.kanade.tachiyomi.extension.es.codexzero",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.codexzero-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.codexzero-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.codexzero.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "5416462601349591349",
@@ -12865,12 +12803,12 @@
       "name": "DapRob",
       "packageName": "eu.kanade.tachiyomi.extension.es.daprob",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.daprob-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.daprob-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.daprob.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5193352988321008008",
@@ -13002,12 +12940,12 @@
       "name": "DoujinsHell",
       "packageName": "eu.kanade.tachiyomi.extension.es.doujinshell",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.doujinshell-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.doujinshell-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.doujinshell.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "7008709488397053596",
@@ -13022,12 +12960,12 @@
       "name": "DragonTranslation.org",
       "packageName": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.dragontranslationorg-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.dragontranslationorg-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.dragontranslationorg.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "4647982373411241498",
@@ -13100,12 +13038,12 @@
       "name": "Emperor Scan",
       "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.emperorscan-v1.4.66.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.emperorscan-v1.4.67.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.emperorscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 66,
-      "versionName": "1.4.66",
+      "versionCode": 67,
+      "versionName": "1.4.67",
       "sources": [
         {
           "id": "4562754350961964148",
@@ -13158,12 +13096,12 @@
       "name": "Escaneo de Leyendas",
       "packageName": "eu.kanade.tachiyomi.extension.es.escaneodeleyendas",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.escaneodeleyendas-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.escaneodeleyendas-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.escaneodeleyendas.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "7243980374121466722",
@@ -13177,12 +13115,12 @@
       "name": "Es.Mi2Manga",
       "packageName": "eu.kanade.tachiyomi.extension.es.esmi2manga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.esmi2manga-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.esmi2manga-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.esmi2manga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "1024617013674150903",
@@ -13316,12 +13254,12 @@
       "name": "Gremory Mangas",
       "packageName": "eu.kanade.tachiyomi.extension.es.gremorymangas",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.gremorymangas-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.gremorymangas-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.gremorymangas.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "6911130909796364094",
@@ -13354,12 +13292,12 @@
       "name": "Hades no Fansub",
       "packageName": "eu.kanade.tachiyomi.extension.es.hadesnofansub",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hadesnofansub-v1.4.57.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hadesnofansub-v1.4.58.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hadesnofansub.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 57,
-      "versionName": "1.4.57",
+      "versionCode": 58,
+      "versionName": "1.4.58",
       "sources": [
         {
           "id": "8311505150576608267",
@@ -13394,12 +13332,12 @@
       "name": "Harem de Kira",
       "packageName": "eu.kanade.tachiyomi.extension.es.haremdekira",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.haremdekira-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.haremdekira-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.haremdekira.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "1480472727871484054",
@@ -13533,12 +13471,12 @@
       "name": "House Of Otakus",
       "packageName": "eu.kanade.tachiyomi.extension.es.houseofotakus",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.houseofotakus-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.houseofotakus-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.houseofotakus.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "1968531533450563052",
@@ -13593,12 +13531,12 @@
       "name": "InfraFandub",
       "packageName": "eu.kanade.tachiyomi.extension.es.infrafandub",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.infrafandub-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.infrafandub-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.infrafandub.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "5594696691862732725",
@@ -13631,12 +13569,12 @@
       "name": "Inmortal Scan",
       "packageName": "eu.kanade.tachiyomi.extension.es.inmortalscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.inmortalscan-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.inmortalscan-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.inmortalscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "8879875375160764811",
@@ -13669,12 +13607,12 @@
       "name": "Inventario Oculto",
       "packageName": "eu.kanade.tachiyomi.extension.es.inventariooculto",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.inventariooculto-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.inventariooculto-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.inventariooculto.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "609477585841458199",
@@ -13804,12 +13742,12 @@
       "name": "Kazoku Den",
       "packageName": "eu.kanade.tachiyomi.extension.es.kazokuden",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kazokuden-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kazokuden-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.kazokuden.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "475788948976592183",
@@ -13861,12 +13799,12 @@
       "name": "Knight No Scanlation",
       "packageName": "eu.kanade.tachiyomi.extension.es.knightnoscanlation",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.knightnoscanlation-v1.4.58.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.knightnoscanlation-v1.4.59.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.knightnoscanlation.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 58,
-      "versionName": "1.4.58",
+      "versionCode": 59,
+      "versionName": "1.4.59",
       "sources": [
         {
           "id": "6482794816533233181",
@@ -14079,12 +14017,12 @@
       "name": "LectorManga.lat",
       "packageName": "eu.kanade.tachiyomi.extension.es.lectormangalat",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.lectormangalat-v1.4.54.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.lectormangalat-v1.4.55.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.lectormangalat.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 54,
-      "versionName": "1.4.54",
+      "versionCode": 55,
+      "versionName": "1.4.55",
       "sources": [
         {
           "id": "3701714196729780447",
@@ -14138,12 +14076,12 @@
       "name": "LeerManga",
       "packageName": "eu.kanade.tachiyomi.extension.es.leermanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.leermanga-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.leermanga-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.leermanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "3329502392382757058",
@@ -14277,12 +14215,12 @@
       "name": "Manga Crab",
       "packageName": "eu.kanade.tachiyomi.extension.es.mangacrab",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mangacrab-v1.4.73.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mangacrab-v1.4.74.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mangacrab.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 73,
-      "versionName": "1.4.73",
+      "versionCode": 74,
+      "versionName": "1.4.74",
       "sources": [
         {
           "id": "6167683270485370369",
@@ -14315,12 +14253,12 @@
       "name": "MangaLector",
       "packageName": "eu.kanade.tachiyomi.extension.es.mangalector",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mangalector-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mangalector-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mangalector.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "4511021728515980527",
@@ -14355,12 +14293,12 @@
       "name": "Manga Romance",
       "packageName": "eu.kanade.tachiyomi.extension.es.mangaromance",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mangaromance-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mangaromance-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mangaromance.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3857421120061111113",
@@ -14415,12 +14353,12 @@
       "name": "Mangas No Sekai",
       "packageName": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mangasnosekai-v1.4.69.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mangasnosekai-v1.4.70.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mangasnosekai.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 69,
-      "versionName": "1.4.69",
+      "versionCode": 70,
+      "versionName": "1.4.70",
       "sources": [
         {
           "id": "829053423099062956",
@@ -14454,12 +14392,12 @@
       "name": "SamuraiScan",
       "packageName": "eu.kanade.tachiyomi.extension.es.manhuaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.manhuaonline-v1.4.67.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.manhuaonline-v1.4.68.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.manhuaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 67,
-      "versionName": "1.4.67",
+      "versionCode": 68,
+      "versionName": "1.4.68",
       "sources": [
         {
           "id": "5713083996691468192",
@@ -14473,12 +14411,12 @@
       "name": "Manhwa-Latino",
       "packageName": "eu.kanade.tachiyomi.extension.es.manhwalatino",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.manhwalatino-v1.4.61.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.manhwalatino-v1.4.62.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.manhwalatino.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 61,
-      "versionName": "1.4.61",
+      "versionCode": 62,
+      "versionName": "1.4.62",
       "sources": [
         {
           "id": "3548601371328353875",
@@ -14493,12 +14431,12 @@
       "name": "ManhwaOnline",
       "packageName": "eu.kanade.tachiyomi.extension.es.manhwaonline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.manhwaonline-v1.4.51.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.manhwaonline-v1.4.52.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.manhwaonline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 51,
-      "versionName": "1.4.51",
+      "versionCode": 52,
+      "versionName": "1.4.52",
       "sources": [
         {
           "id": "5414998368888208528",
@@ -14553,12 +14491,12 @@
       "name": "Marmota",
       "packageName": "eu.kanade.tachiyomi.extension.es.marmota",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.marmota-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.marmota-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.marmota.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5937472249278743372",
@@ -14591,12 +14529,12 @@
       "name": "MHScans",
       "packageName": "eu.kanade.tachiyomi.extension.es.mhscans",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mhscans-v1.4.64.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mhscans-v1.4.65.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mhscans.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 64,
-      "versionName": "1.4.64",
+      "versionCode": 65,
+      "versionName": "1.4.65",
       "sources": [
         {
           "id": "3253304651550496369",
@@ -14630,12 +14568,12 @@
       "name": "Monopoly Scan",
       "packageName": "eu.kanade.tachiyomi.extension.es.monopolyscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.monopolyscan-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.monopolyscan-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.monopolyscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5862188113261788590",
@@ -14649,12 +14587,12 @@
       "name": "Mundo Manhwa",
       "packageName": "eu.kanade.tachiyomi.extension.es.mundomanhwa",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mundomanhwa-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mundomanhwa-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mundomanhwa.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "7121772696835562045",
@@ -14669,12 +14607,12 @@
       "name": "Traducciones Amistosas",
       "packageName": "eu.kanade.tachiyomi.extension.es.nartag",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.nartag-v1.4.56.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.nartag-v1.4.57.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nartag.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 56,
-      "versionName": "1.4.56",
+      "versionCode": 57,
+      "versionName": "1.4.57",
       "sources": [
         {
           "id": "1424373335432920755",
@@ -14767,12 +14705,12 @@
       "name": "Noblesse Translations",
       "packageName": "eu.kanade.tachiyomi.extension.es.noblessetranslations",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.noblessetranslations-v1.4.57.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.noblessetranslations-v1.4.58.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.noblessetranslations.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 57,
-      "versionName": "1.4.57",
+      "versionCode": 58,
+      "versionName": "1.4.58",
       "sources": [
         {
           "id": "5125011410949702843",
@@ -15019,12 +14957,12 @@
       "name": "Ragnarok Scanlation",
       "packageName": "eu.kanade.tachiyomi.extension.es.ragnarokscanlation",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.ragnarokscanlation-v1.4.53.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.ragnarokscanlation-v1.4.54.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.ragnarokscanlation.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 53,
-      "versionName": "1.4.53",
+      "versionCode": 54,
+      "versionName": "1.4.54",
       "sources": [
         {
           "id": "1348827658894665970",
@@ -15114,12 +15052,12 @@
       "name": "RichtoScan",
       "packageName": "eu.kanade.tachiyomi.extension.es.richtoscan",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.richtoscan-v1.4.55.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.richtoscan-v1.4.56.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.richtoscan.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 55,
-      "versionName": "1.4.55",
+      "versionCode": 56,
+      "versionName": "1.4.56",
       "sources": [
         {
           "id": "1245067583654716116",
@@ -15483,12 +15421,12 @@
       "name": "Stick Horse",
       "packageName": "eu.kanade.tachiyomi.extension.es.stickhorse",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.stickhorse-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.stickhorse-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.stickhorse.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "8230044165601692864",
@@ -15563,12 +15501,12 @@
       "name": "Sword Of Oblivion",
       "packageName": "eu.kanade.tachiyomi.extension.es.swordofoblivion",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.swordofoblivion-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.swordofoblivion-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.swordofoblivion.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6084280098324546826",
@@ -15582,12 +15520,12 @@
       "name": "Taurus Fansub",
       "packageName": "eu.kanade.tachiyomi.extension.es.taurusfansub",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.taurusfansub-v1.4.59.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.taurusfansub-v1.4.60.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.taurusfansub.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 59,
-      "versionName": "1.4.59",
+      "versionCode": 60,
+      "versionName": "1.4.60",
       "sources": [
         {
           "id": "5157867187592331768",
@@ -15601,12 +15539,12 @@
       "name": "Temple Scan",
       "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.templescanesp-v1.4.61.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.templescanesp-v1.4.62.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.templescanesp.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 61,
-      "versionName": "1.4.61",
+      "versionCode": 62,
+      "versionName": "1.4.62",
       "sources": [
         {
           "id": "3451196845457607826",
@@ -15759,12 +15697,12 @@
       "name": "Toon-es",
       "packageName": "eu.kanade.tachiyomi.extension.es.toones",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.toones-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.toones-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.toones.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "5035285034268559598",
@@ -15779,12 +15717,12 @@
       "name": "TopComicPorno",
       "packageName": "eu.kanade.tachiyomi.extension.es.topcomicporno",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.topcomicporno-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.topcomicporno-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.topcomicporno.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6716313068102878996",
@@ -15799,12 +15737,12 @@
       "name": "TopComicPorno.net",
       "packageName": "eu.kanade.tachiyomi.extension.es.topcomicpornonet",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.topcomicpornonet-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.topcomicpornonet-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.topcomicpornonet.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "6831269326708750162",
@@ -16002,12 +15940,12 @@
       "name": "Ver Manhwas",
       "packageName": "eu.kanade.tachiyomi.extension.es.vermanhwas",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.vermanhwas-v1.4.52.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.vermanhwas-v1.4.53.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.vermanhwas.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 52,
-      "versionName": "1.4.52",
+      "versionCode": 53,
+      "versionName": "1.4.53",
       "sources": [
         {
           "id": "4150746388640244220",
@@ -16081,12 +16019,12 @@
       "name": "Yupmanga",
       "packageName": "eu.kanade.tachiyomi.extension.es.yupmanga",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.yupmanga-v1.4.14.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.yupmanga-v1.4.15.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.yupmanga.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 14,
-      "versionName": "1.4.14",
+      "versionCode": 15,
+      "versionName": "1.4.15",
       "sources": [
         {
           "id": "4437245120973625796",
@@ -16101,12 +16039,12 @@
       "name": "Yuri-Online",
       "packageName": "eu.kanade.tachiyomi.extension.es.yurionline",
       "resources": {
-        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.yurionline-v1.4.50.apk",
+        "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.yurionline-v1.4.51.apk",
         "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.yurionline.png"
       },
       "extensionLib": "1.4",
-      "versionCode": 50,
-      "versionName": "1.4.50",
+      "versionCode": 51,
+      "versionName": "1.4.51",
       "sources": [
         {
           "id": "3410370616110029377",
