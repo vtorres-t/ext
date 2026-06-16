@@ -188,7 +188,7 @@ dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-a
 Mango'eu.kanade.tachiyomi.extension.all.mango×
 chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.mango-v1.4.11.apkphttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.mango.png"1.4(21.4.11:Ï‡«ûóœ(Mangoen*”
 Manhuarm*eu.kanade.tachiyomi.extension.all.manhuarmİ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhuarm-v1.4.75.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhuarm.png"1.4(K21.4.75:2ç«¨Í£ÿ·‰Manhuarmar"https://manhuarmtl.com0:2îÃ§û¸İjManhuarmen"https://manhuarmtl.com0:2õ¾ï±ÿ£éÎvManhuarmes"https://manhuarmtl.com0:2ÜëÑñ×÷½vManhuarmfr"https://manhuarmtl.com0:2¢ÙúÙÖİYManhuarmid"https://manhuarmtl.com0:2±îŸË´Û£ĞiManhuarmit"https://manhuarmtl.com0:5ÅÜ¢ĞÆûäûMManhuarmpt-BR"https://manhuarmtl.com0*Ë
+fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhuarm-v1.4.76.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhuarm.png"1.4(L21.4.76:2ç«¨Í£ÿ·‰Manhuarmar"https://manhuarmtl.com0:2îÃ§û¸İjManhuarmen"https://manhuarmtl.com0:2õ¾ï±ÿ£éÎvManhuarmes"https://manhuarmtl.com0:2ÜëÑñ×÷½vManhuarmfr"https://manhuarmtl.com0:2¢ÙúÙÖİYManhuarmid"https://manhuarmtl.com0:2±îŸË´Û£ĞiManhuarmit"https://manhuarmtl.com0:5ÅÜ¢ĞÆûäûMManhuarmpt-BR"https://manhuarmtl.com0*Ë
 Manhwa18.cc,eu.kanade.tachiyomi.extension.all.manhwa18ccá
 hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwa18cc-v1.4.57.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhwa18cc.png"1.4(921.4.57:2‚ÉÆöĞò´˜CManhwa18.ccen"https://manhwa18.cc0:2ß‡“ùøš‡¢_Manhwa18.ccko"https://manhwa18.cc0:3ôêªÔÃÌÂäManhwa18.ccall"https://manhwa18.cc0*è
 Manhwa18.net-eu.kanade.tachiyomi.extension.all.manhwa18netã
@@ -202,7 +202,7 @@ Manhwa-raw/eu.kanade.tachiyomi.extension.all.manhwadashrawç
 khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manhwadashraw-v1.4.53.apkxhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manhwadashraw.png"1.4(521.4.53:5‚¯üö®Ç¨ûM
 Manhwa-rawall"https://manhwa-raw.com0*ü
 Manta Comics'eu.kanade.tachiyomi.extension.all.mantaÖ
-bhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manta-v1.4.8.apkphttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manta.png"1.4(21.4.8:-Î‡ËúÎÏ¼yMantaen"https://manta.net/en0:-¡«Œ³î‚Ô'Mantaes"https://manta.net/es0*ƒ
+bhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.manta-v1.4.9.apkphttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.manta.png"1.4(	21.4.9:-Î‡ËúÎÏ¼yMantaen"https://manta.net/en0:-¡«Œ³î‚Ô'Mantaes"https://manta.net/es0*ƒ
 MayoTune*eu.kanade.tachiyomi.extension.all.mayotuneÜ
 ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.mayotune-v1.4.2.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.mayotune.png"1.4(21.4.2:.ßáÒœ’„ªÆMayoTuneen"https://mayochuu.xyz:.ú‚’±¯•›\MayoTuneja"https://mayochuu.xyz*ô
 Metart Hunter.eu.kanade.tachiyomi.extension.all.metarthunterä
@@ -415,7 +415,9 @@ ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Comics Land+eu.kanade.tachiyomi.extension.en.comicslandß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.comicsland-v1.4.32.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comicsland.png"1.4( 21.4.32:5¥±Ãú±Èƒ´ Comics Landen"https://comicsland.org0*Á
 Comix&eu.kanade.tachiyomi.extension.en.comixÕ
-bhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.29.apkohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"1.4(21.4.29:)˜şßç‰†ÖÍhComixen"https://comix.to0*Ú
+bhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.30.apkohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"1.4(21.4.30:)˜şßç‰†ÖÍhComixen"https://comix.to0*Ë
+Coolmic(eu.kanade.tachiyomi.extension.en.coolmicØ
+chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.coolmic-v1.4.1.apkqhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.coolmic.png"1.4(21.4.1:-¡¸©£î‚Í¡ICoolmicen"https://coolmic.me0*Ú
 
 Crow Scans*eu.kanade.tachiyomi.extension.en.crowscansİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.crowscans-v1.4.32.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.crowscans.png"1.4( 21.4.32:1ôà‰µÉ“ŸŞ
@@ -664,7 +666,7 @@ fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Loading Artist.eu.kanade.tachiyomi.extension.en.loadingartistä
 ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.loadingartist-v1.4.3.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.loadingartist.png"1.4(21.4.3:9şé¾Æñ¾üÊLoading Artisten"https://loadingartist.com*Ô
 	Lua Scans)eu.kanade.tachiyomi.extension.en.luascansÛ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.luascans-v1.4.50.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.luascans.png"1.4(221.4.50:/¡¯‘¦Ì÷Œ¿	Lua Scansen"https://luacomic.org*š
+ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.luascans-v1.4.51.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.luascans.png"1.4(321.4.51:/¡¯‘¦Ì÷Œ¿	Lua Scansen"https://luacomic.org*š
 Luminare Translations5eu.kanade.tachiyomi.extension.en.luminaretranslationsò
 phttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.luminaretranslations-v1.4.3.apk~https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.luminaretranslations.png"1.4(21.4.3:G¡ ‡³¯µÉLuminare Translationsen" https://luminaretranslations.com*Ü
 
@@ -726,9 +728,10 @@ ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 MangaDia)eu.kanade.tachiyomi.extension.en.mangadiaÛ
 ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadia-v1.4.51.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadia.png"1.4(321.4.51:.¹Ò¥Äƒì‚ÕMangaDiaen"https://mangadia.com*ô
 Manga District.eu.kanade.tachiyomi.extension.en.mangadistrictå
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadistrict-v1.4.67.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadistrict.png"1.4(C21.4.67:;Š‘À±“´’)Manga Districten"https://mangadistrict.com0*á
-Mangadotnet,eu.kanade.tachiyomi.extension.en.mangadotnetà
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.9.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png"1.4(	21.4.9:3¹÷Ù™âÉ•òQMangadotneten"https://mangadot.net0*â
+jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadistrict-v1.4.67.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadistrict.png"1.4(C21.4.67:;Š‘À±“´’)Manga Districten"https://mangadistrict.com0*ã
+Mangadotnet,eu.kanade.tachiyomi.extension.en.mangadotnetá
+hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadotnet-v1.4.10.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadotnet.png"1.4(
+21.4.10:3¹÷Ù™âÉ•òQMangadotneten"https://mangadot.net0*â
 Manga Drama+eu.kanade.tachiyomi.extension.en.mangadramaß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangadrama-v1.4.51.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangadrama.png"1.4(321.4.51:5ù¨œæ¥à›‡,Manga Dramaen"https://mangadrama.com0*ı
 Mangaforfree.com0eu.kanade.tachiyomi.extension.en.mangaforfreecomé
@@ -833,7 +836,7 @@ jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuahot-v1.4.51.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuahot.png"1.4(321.4.51:0¼ˆñó„ÕÕ€j	ManhuaHoten"https://manhuahot.com*Ş
 
 Manhuanext+eu.kanade.tachiyomi.extension.en.manhuanextß
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuanext-v1.4.51.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuanext.png"1.4(321.4.51:2´±Ê‚Î„™1
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuanext-v1.4.52.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuanext.png"1.4(421.4.52:2´±Ê‚Î„™1
 Manhuanexten"https://manhuanext.com*à
 Manhua Plus+eu.kanade.tachiyomi.extension.en.manhuaplusß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuaplus-v1.4.58.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manhuaplus.png"1.4(:21.4.58:3©¡´÷è¨}Manhua Plusen"https://manhuaplus.com*ÿ
@@ -976,7 +979,7 @@ ahttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Oh Joy Sex Toy,eu.kanade.tachiyomi.extension.en.ohjoysextoyà
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.ohjoysextoy-v1.4.3.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.ohjoysextoy.png"1.4(21.4.3:=Á¸èŸˆğš¾>Oh Joy Sex Toyen"https://www.ohjoysextoy.com0*â
 Omega Scans+eu.kanade.tachiyomi.extension.en.omegascansß
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.omegascans-v1.4.49.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.omegascans.png"1.4(121.4.49:5 Ö¢­ëçİ¥Omega Scansen"https://omegascans.org0*Ù
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.omegascans-v1.4.50.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.omegascans.png"1.4(221.4.50:5 Ö¢­ëçİ¥Omega Scansen"https://omegascans.org0*Ù
 	1Manga.co+eu.kanade.tachiyomi.extension.en.onemangacoß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.onemangaco-v1.4.35.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.onemangaco.png"1.4(#21.4.35:.ó´é™¾ÆËĞW	1Manga.coen"https://1manga.co0*ë
 OneManga.info-eu.kanade.tachiyomi.extension.en.onemangainfoã
@@ -1006,7 +1009,7 @@ ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Petrotechsociety1eu.kanade.tachiyomi.extension.en.petrotechsocietyë
 mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.petrotechsociety-v1.4.51.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.petrotechsociety.png"1.4(321.4.51:CÀñ„‚†ôÍ#Petrotechsocietyen" https://www.petrotechsociety.org0*æ
 Philia Scans,eu.kanade.tachiyomi.extension.en.philiascansá
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.philiascans-v1.4.56.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.philiascans.png"1.4(821.4.56:5Ÿ¹±ü—½ï€KPhilia Scansen"https://philiascans.org*æ
+hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.philiascans-v1.4.57.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.philiascans.png"1.4(921.4.57:5Ÿ¹±ü—½ï€KPhilia Scansen"https://philiascans.org*æ
 FlameScans.lol+eu.kanade.tachiyomi.extension.en.plutoscansß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.plutoscans-v1.4.52.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.plutoscans.png"1.4(421.4.52:6µûŒßÃæ´òFlameScans.lolen"https://flamescans.lol*Î
 Rackus(eu.kanade.tachiyomi.extension.en.pmscansÙ
@@ -1076,7 +1079,7 @@ dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 	Renascans*eu.kanade.tachiyomi.extension.en.renascansİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.renascans-v1.4.23.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.renascans.png"1.4(21.4.23:0›ëÛ—ÀÕöë/	Renascansen"https://renascans.net*á
 Reset Scans+eu.kanade.tachiyomi.extension.en.resetscansß
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.63.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.resetscans.png"1.4(?21.4.63:4î…Üİ›‚çşsReset Scansen"https://reset-scans.org*Ü
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.resetscans-v1.4.64.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.resetscans.png"1.4(@21.4.64:4î…Üİ›‚çşsReset Scansen"https://reset-scans.org*Ü
 
 Rest Scans*eu.kanade.tachiyomi.extension.en.restscansİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.restscans-v1.4.32.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.restscans.png"1.4( 21.4.32:3Ï‘Íí¿ÊòÚ7
@@ -1198,7 +1201,7 @@ jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Utoon&eu.kanade.tachiyomi.extension.en.utoonÕ
 bhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.utoon-v1.4.55.apkohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.utoon.png"1.4(721.4.55:(ÚÑÊ‘®ÃéÔ2Utoonen"https://utoon.net*à
 Valir Scans+eu.kanade.tachiyomi.extension.en.valirscansß
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.valirscans-v1.4.21.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.valirscans.png"1.4(21.4.21:3üô£•€·äuValir Scansen"https://valirscans.org*ì
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.valirscans-v1.4.22.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.valirscans.png"1.4(21.4.22:3üô£•€·äuValir Scansen"https://valirscans.org*ì
 Vanilla Scans-eu.kanade.tachiyomi.extension.en.vanillascansã
 ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.vanillascans-v1.4.23.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.vanillascans.png"1.4(21.4.23:7™ŸÆŸÃ®“Vanilla Scansen"https://vanillascans.org*æ
 vgperson)eu.kanade.tachiyomi.extension.en.vgpersonÚ
@@ -1278,61 +1281,29 @@ ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Zinmanga.net,eu.kanade.tachiyomi.extension.en.zinmanganetá
 hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.zinmanganet-v1.4.51.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.zinmanganet.png"1.4(321.4.51:2½òßâ¢¸çÉZinmanga.neten"https://zinmanga.net*¿
 AKAYA&eu.kanade.tachiyomi.extension.es.akayaÔ
-ahttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.akaya-v1.4.3.apkohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.akaya.png"1.4(21.4.3:)ô‘ÅÕ‹Ï§	AKAYAes"https://akaya.io0*‚
-Alpha Centauri.eu.kanade.tachiyomi.extension.es.alphacentauriä
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.alphacentauri-v1.4.5.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.alphacentauri.png"1.4(21.4.5:KôäûÀ©¬ş'Alpha Centauries"+https://capibaratraductor.com/alphacentauri*ä
-
-Ame Fansub*eu.kanade.tachiyomi.extension.es.amefansubÜ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.amefansub-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.amefansub.png"1.4(21.4.5:=Ÿ¸Ÿ¾ÂÀè
-Ame Fansubes"!https://capibaratraductor.com/ame*ˆ
-Animu No Mansebia0eu.kanade.tachiyomi.extension.es.animunomansebiaè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.animunomansebia-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.animunomansebia.png"1.4(21.4.5:H«‘œ›Õ÷±#Animu No Mansebiaes"%https://capibaratraductor.com/animunm*Œ
-AntiPatreon Scan0eu.kanade.tachiyomi.extension.es.antipatreonscanè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.antipatreonscan-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.antipatreonscan.png"1.4(21.4.5:M¶°çã¢¢–óTAntiPatreon Scanes")https://capibaratraductor.com/antipatreon0*Ö
+ahttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.akaya-v1.4.3.apkohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.akaya.png"1.4(21.4.3:)ô‘ÅÕ‹Ï§	AKAYAes"https://akaya.io0*Ö
 AnzManga)eu.kanade.tachiyomi.extension.es.anzmangaÚ
 dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.anzmanga-v1.4.1.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.anzmanga.png"1.4(21.4.1:4µ†ÓÖòŞ«fAnzMangaes"https://www.anzmanga25.com*å
 ApollComics,eu.kanade.tachiyomi.extension.es.apollcomicsá
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.apollcomics-v1.4.54.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.apollcomics.png"1.4(621.4.54:5’¢»ôÿ¤·Ÿ*ApollComicses"https://apollcomics.es0*ì
-Arigato S.A*eu.kanade.tachiyomi.extension.es.arigatosaÜ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.arigatosa-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.arigatosa.png"1.4(21.4.5:D¬À±‚ĞÜî…Arigato S.Aes"'https://capibaratraductor.com/arigatosa*İ
+hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.apollcomics-v1.4.54.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.apollcomics.png"1.4(621.4.54:5’¢»ôÿ¤·Ÿ*ApollComicses"https://apollcomics.es0*İ
 
 Asia Lotus*eu.kanade.tachiyomi.extension.es.asialotusİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.asialotus-v1.4.33.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.asialotus.png"1.4(!21.4.33:4’ú¢ÀêóçÜ2
-Asia Lotuses"https://asialotuss.com0*ˆ
-Asperuas Tradus/eu.kanade.tachiyomi.extension.es.asperuastradusæ
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.asperuastradus-v1.4.5.apkxhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.asperuastradus.png"1.4(21.4.5:MÁœ×¶³ŠóÑUAsperuas Traduses",https://capibaratraductor.com/asperuastradus*Â
-Asuka Langley Translations9eu.kanade.tachiyomi.extension.es.asukalangleytranslationsû
-thttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.asukalangleytranslations-v1.4.5.apk‚https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.asukalangleytranslations.png"1.4(21.4.5:]ìÇÁ¢ç¥}Asuka Langley Translationses"/https://capibaratraductor.com/asukatranslations0*ğ
-Azure Bloom+eu.kanade.tachiyomi.extension.es.azurebloomŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.azurebloom-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.azurebloom.png"1.4(21.4.5:E›²¼¦¾÷ÚvAzure Bloomes"(https://capibaratraductor.com/azurebloom*–
-Bakaguya Scanlation3eu.kanade.tachiyomi.extension.es.bakaguyascanlationî
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bakaguyascanlation-v1.4.5.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bakaguyascanlation.png"1.4(21.4.5:KÏÀ£Á‚˜Ãü%Bakaguya Scanlationes"&https://capibaratraductor.com/bakaguya*Ø
+Asia Lotuses"https://asialotuss.com0*Ø
 BarManga)eu.kanade.tachiyomi.extension.es.barmangaÛ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.barmanga-v1.4.62.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.barmanga.png"1.4(>21.4.62:4÷°ßåÀ¨ìÎBarMangaes"https://archiviumbar.com0*ä
-	Beeg Gimp)eu.kanade.tachiyomi.extension.es.beeggimpÚ
-dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.beeggimp-v1.4.5.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.beeggimp.png"1.4(21.4.5:Aá³ìä½™‚Îq	Beeg Gimpes"&https://capibaratraductor.com/beeggimp*€
+ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.barmanga-v1.4.62.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.barmanga.png"1.4(>21.4.62:4÷°ßåÀ¨ìÎBarMangaes"https://archiviumbar.com0*€
 Bega Translation0eu.kanade.tachiyomi.extension.es.begatranslationé
-lhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.begatranslation-v1.4.53.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.begatranslation.png"1.4(521.4.53:?©çÛ°Ñ€·ã]Bega Translationes"https://begatranslation.com0*¢
-Beyond Birthday Subs3eu.kanade.tachiyomi.extension.es.beyondbirthdaysubsî
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.beyondbirthdaysubs-v1.4.5.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.beyondbirthdaysubs.png"1.4(21.4.5:V¢Ê½‡°™ôç~Beyond Birthday Subses"0https://capibaratraductor.com/beyondbirthdaysubs*æ
+lhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.begatranslation-v1.4.53.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.begatranslation.png"1.4(521.4.53:?©çÛ°Ñ€·ã]Bega Translationes"https://begatranslation.com0*æ
 Biblio Panda,eu.kanade.tachiyomi.extension.es.bibliopandaá
 hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bibliopanda-v1.4.54.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bibliopanda.png"1.4(621.4.54:5àÒ‘´ï…®ˆrBiblio Pandaes"https://bibliopanda.com*â
 Bloom Scans+eu.kanade.tachiyomi.extension.es.bloomscansß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bloomscans-v1.4.34.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bloomscans.png"1.4("21.4.34:5÷ù±¯·Õ¡ˆ$Bloom Scanses"https://bloomscans.com0*…
 BokugenTranslation3eu.kanade.tachiyomi.extension.es.bokugentranslationï
-ohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bokugentranslation-v1.4.50.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bokugentranslation.png"1.4(221.4.50:9Ñ´¯Ã˜Æü—BokugenTranslationes"https://bokugents.com*–
-Bonbon Scanlation1eu.kanade.tachiyomi.extension.es.bonbonscanlationê
-lhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bonbonscanlation-v1.4.5.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bonbonscanlation.png"1.4(21.4.5:SÆş÷á¸ÙŞÒ+Bonbon Scanlationes".https://capibaratraductor.com/bonbonscanlation0*’
-Bored Slayer Scan0eu.kanade.tachiyomi.extension.es.boredslayerscanè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.boredslayerscan-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.boredslayerscan.png"1.4(21.4.5:RçÄÁš†—Ş}Bored Slayer Scanes"-https://capibaratraductor.com/boredslayerscan0*ì
-
-Break Scan*eu.kanade.tachiyomi.extension.es.breakscanÜ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.breakscan-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.breakscan.png"1.4(21.4.5:EÎ¹¤½Í¼‡#
-Break Scanes"'https://capibaratraductor.com/breakscan0*æ
+ohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bokugentranslation-v1.4.50.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bokugentranslation.png"1.4(221.4.50:9Ñ´¯Ã˜Æü—BokugenTranslationes"https://bokugents.com*æ
 Bymichi Scan,eu.kanade.tachiyomi.extension.es.bymichiscaná
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bymichiscan-v1.4.33.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bymichiscan.png"1.4(!21.4.33:5°Š£İÂ­¦É=Bymichi Scanes"https://bymichiby.com0*–
-CathalTraducciones3eu.kanade.tachiyomi.extension.es.cathaltraduccionesî
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.cathaltraducciones-v1.4.5.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.cathaltraducciones.png"1.4(21.4.5:L÷ô‚ÀˆŞÊ›{CathalTraduccioneses"&https://capibaratraductor.com/cathaltl0*‚
+hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.bymichiscan-v1.4.33.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.bymichiscan.png"1.4(!21.4.33:5°Š£İÂ­¦É=Bymichi Scanes"https://bymichiby.com0*ˆ
+CapibaraTraductor2eu.kanade.tachiyomi.extension.es.capibaratraductorì
+mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.capibaratraductor-v1.4.1.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.capibaratraductor.png"1.4(21.4.1:Bœ‡ÔÅÏ±Ç¤.CapibaraTraductores"https://capibaratraductor.com0*‚
 Catharsis World/eu.kanade.tachiyomi.extension.es.catharsisworldç
 khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.catharsisworld-v1.4.65.apkxhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.catharsisworld.png"1.4(A21.4.65:E¾í¥ùµÑ'Catharsis Worldes""https://catharsisworld.dig-it.info0*×
 Catoons+eu.kanade.tachiyomi.extension.es.catmanhwasß
@@ -1340,13 +1311,9 @@ ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Celestial Moon.eu.kanade.tachiyomi.extension.es.celestialmoonå
 jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.celestialmoon-v1.4.33.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.celestialmoon.png"1.4(!21.4.33:>Á—ş¤¦ÃìkCelestial Moones"https://celestialmoonscan.es0*ø
 Cerberus Series/eu.kanade.tachiyomi.extension.es.cerberusseriesç
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.cerberusseries-v1.4.33.apkxhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.cerberusseries.png"1.4(!21.4.33:;ÄÄØù©ÿ’—Cerberus Serieses"https://legionscans.com/wp*î
-Chibis Scan+eu.kanade.tachiyomi.extension.es.chibisscanŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.chibisscan-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.chibisscan.png"1.4(21.4.5:C«ÅşÌü¿¼\Chibis Scanes"$https://capibaratraductor.com/chibis0*Ì
+khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.cerberusseries-v1.4.33.apkxhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.cerberusseries.png"1.4(!21.4.33:;ÄÄØù©ÿ’—Cerberus Serieses"https://legionscans.com/wp*Ì
 ChoChoX(eu.kanade.tachiyomi.extension.es.chochoxØ
-chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.chochox-v1.4.3.apkqhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.chochox.png"1.4(21.4.3:.¨é§ôÚçóChoChoXes"https://chochox.com0*»
-Chunchunmaru Translations9eu.kanade.tachiyomi.extension.es.chunchunmarutranslationsû
-thttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.chunchunmarutranslations-v1.4.5.apk‚https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.chunchunmarutranslations.png"1.4(21.4.5:W‚©İÊ‹½İ†,Chunchunmaru Translationses",https://capibaratraductor.com/chunchunmarutl*ï
+chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.chochox-v1.4.3.apkqhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.chochox.png"1.4(21.4.3:.¨é§ôÚçóChoChoXes"https://chochox.com0*ï
 Code Arc Mangas(eu.kanade.tachiyomi.extension.es.codearcØ
 chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.codearc-v1.4.3.apkqhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.codearc.png"1.4(21.4.3:I¡·€À¼šLCode Arc Mangases"&https://mangas.codearctraducciones.com0*ß
 
@@ -1354,29 +1321,13 @@ Codex Zero*eu.kanade.tachiyomi.extension.es.codexzeroİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.codexzero-v1.4.53.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.codexzero.png"1.4(521.4.53:6µâ…åœÉ•K
 Codex Zeroes"https://codex.readkisho.me*ò
 Colorcito Scan.eu.kanade.tachiyomi.extension.es.colorcitoscanä
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.colorcitoscan-v1.4.3.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.colorcitoscan.png"1.4(21.4.3:;¶×‚É»•ÁColorcito Scanes"https://colorcitoscan.com0*ø
-Crimson Scan,eu.kanade.tachiyomi.extension.es.crimsonscanà
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.crimsonscan-v1.4.5.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.crimsonscan.png"1.4(21.4.5:Iâç§—Ë†ëÍVCrimson Scanes")https://capibaratraductor.com/crimsonscan0*†
-Culto a Slanesh.eu.kanade.tachiyomi.extension.es.cultoaslaneshä
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.cultoaslanesh-v1.4.5.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.cultoaslanesh.png"1.4(21.4.5:N´ÓğŸØ¯˜ĞCulto a Slaneshes"+https://capibaratraductor.com/cultoaslanesh0*‰
-Daisuki na Fansub0eu.kanade.tachiyomi.extension.es.daisukinafansubè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.daisukinafansub-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.daisukinafansub.png"1.4(21.4.5:I²™”‘äêÂDaisuki na Fansubes"&https://capibaratraductor.com/dnfansub*ÿ
-Daleth Project.eu.kanade.tachiyomi.extension.es.dalethprojectä
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.dalethproject-v1.4.5.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.dalethproject.png"1.4(21.4.5:Hì›Óë‰êÇ!Daleth Projectes"&https://capibaratraductor.com/nameless0*Æ
+ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.colorcitoscan-v1.4.3.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.colorcitoscan.png"1.4(21.4.3:;¶×‚É»•ÁColorcito Scanes"https://colorcitoscan.com0*Æ
 DapRob'eu.kanade.tachiyomi.extension.es.daprob×
 chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.daprob-v1.4.51.apkphttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.daprob.png"1.4(321.4.51:*ˆ“ÙğïàŸ‰HDapRobes"https://daprob.com*Œ
 Dark Room Fansub/eu.kanade.tachiyomi.extension.es.darkroomfansubç
 khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.darkroomfansub-v1.4.15.apkxhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.darkroomfansub.png"1.4(21.4.15:N ¡´ª¶éö·&Dark Room Fansubes"*https://lector-darkroomfansub.blogspot.com0*ƒ
 Dat-Gar Scan1eu.kanade.tachiyomi.extension.es.datgarscanlationë
-mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.datgarscanlation-v1.4.14.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.datgarscanlation.png"1.4(21.4.14:CìœÁ¶º¾ÉDat-Gar Scanes"%https://datgarscanlation.blogspot.com*ª
-Dokjasheart scanlation6eu.kanade.tachiyomi.extension.es.dokjasheartscanlationô
-qhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.dokjasheartscanlation-v1.4.5.apkhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.dokjasheartscanlation.png"1.4(21.4.5:SÚÅ’àõÇàåDokjasheart scanlationes")https://capibaratraductor.com/dokjasheart0*„
-DORAGON NO TENSEI0eu.kanade.tachiyomi.extension.es.doragonnotenseiè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.doragonnotensei-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.doragonnotensei.png"1.4(21.4.5:D”ââåõPDORAGON NO TENSEIes"!https://capibaratraductor.com/dnt*ğ
-
-Doujinclub+eu.kanade.tachiyomi.extension.es.doujinclubŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.doujinclub-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.doujinclub.png"1.4(21.4.5:FºğÈ§í‚İ€k
-Doujinclubes"(https://capibaratraductor.com/doujinclub0*ì
+mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.datgarscanlation-v1.4.14.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.datgarscanlation.png"1.4(21.4.14:CìœÁ¶º¾ÉDat-Gar Scanes"%https://datgarscanlation.blogspot.com*ì
 DoujinHentai-eu.kanade.tachiyomi.extension.es.doujinhentaiã
 ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.doujinhentai-v1.4.50.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.doujinhentai.png"1.4(221.4.50:8“òßñÉµ›‡6DoujinHentaies"https://doujinhentai.net0*æ
 DoujinsHell,eu.kanade.tachiyomi.extension.es.doujinshellá
@@ -1384,47 +1335,25 @@ hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 DragonTranslation.org5eu.kanade.tachiyomi.extension.es.dragontranslationorgó
 qhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.dragontranslationorg-v1.4.52.apk~https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.dragontranslationorg.png"1.4(421.4.52:FšüĞ‹ûê¼À@DragonTranslation.orges"https://dragontranslation.org0*Í
 Dynasty(eu.kanade.tachiyomi.extension.es.dynastyØ
-chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.dynasty-v1.4.1.apkqhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.dynasty.png"1.4(21.4.1:/¨°ä“ÿúèDynastyes"https://manhuako.net0*î
-
-Eljeksreal+eu.kanade.tachiyomi.extension.es.eljeksrealŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.eljeksreal-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.eljeksreal.png"1.4(21.4.5:Dşæ­‰ÄÂåğ
-Eljeksreales"(https://capibaratraductor.com/eljeksreal*„
-El Scan Semanal.eu.kanade.tachiyomi.extension.es.elscansemanalä
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.elscansemanal-v1.4.5.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.elscansemanal.png"1.4(21.4.5:LŞâÑÄ¹Ê˜TEl Scan Semanales"+https://capibaratraductor.com/elscansemanal*è
+chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.dynasty-v1.4.1.apkqhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.dynasty.png"1.4(21.4.1:/¨°ä“ÿúèDynastyes"https://manhuako.net0*è
 Emperor Scan,eu.kanade.tachiyomi.extension.es.emperorscaná
 hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.emperorscan-v1.4.67.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.emperorscan.png"1.4(C21.4.67:7ôèÒó…Š©?Emperor Scanes"https://imperiomanhua.com*
 EnchiladaScan.eu.kanade.tachiyomi.extension.es.enchiladascanä
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.enchiladascan-v1.4.1.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.enchiladascan.png"1.4(21.4.1:Kºõ‚ß¸êÀ¥{EnchiladaScanes",https://enchiladascan.github.io/enchiladaweb*Ã
-Eris Greyrat Translations8eu.kanade.tachiyomi.extension.es.erisgreyrattranslationsù
-shttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.erisgreyrattranslations-v1.4.5.apkhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.erisgreyrattranslations.png"1.4(21.4.5:bæÒ×±œëœ¨eEris Greyrat Translationses"5https://capibaratraductor.com/erisgreyrattranslations0*Œ
+ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.enchiladascan-v1.4.1.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.enchiladascan.png"1.4(21.4.1:Kºõ‚ß¸êÀ¥{EnchiladaScanes",https://enchiladascan.github.io/enchiladaweb*Œ
 Escaneo de Leyendas2eu.kanade.tachiyomi.extension.es.escaneodeleyendasí
 nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.escaneodeleyendas-v1.4.51.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.escaneodeleyendas.png"1.4(321.4.51:Bâ–¥ûÑ¸òÃdEscaneo de Leyendases"https://escaneodeleyendas.com*ã
 Es.Mi2Manga+eu.kanade.tachiyomi.extension.es.esmi2mangaß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.esmi2manga-v1.4.52.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.esmi2manga.png"1.4(421.4.52:6÷—úÖì÷ŠœEs.Mi2Mangaes"https://es.mi2manga.com0*ò
 EternalMangas.eu.kanade.tachiyomi.extension.es.eternalmangaså
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.eternalmangas-v1.4.25.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.eternalmangas.png"1.4(21.4.25::»ëª¬ÒÛà¤EternalMangases"https://eternalmangas.org0*Ì
-Fafa%eu.kanade.tachiyomi.extension.es.fafaÒ
-`https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.fafa-v1.4.5.apknhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.fafa.png"1.4(21.4.5::œ¢ÇŒ¼ˆ‘ƒFafaes""https://capibaratraductor.com/fafa0*ö
-FaxxTraduce,eu.kanade.tachiyomi.extension.es.faxxtraduceà
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.faxxtraduce-v1.4.5.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.faxxtraduce.png"1.4(21.4.5:Hè¦—áãÛ¹{FaxxTraducees")https://capibaratraductor.com/faxxtraduce0*ü
-Fstake Sukyan-eu.kanade.tachiyomi.extension.es.fstakesukyanâ
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.fstakesukyan-v1.4.5.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.fstakesukyan.png"1.4(21.4.5:Iú‹óÎÚı– kFstake Sukyanes"*https://capibaratraductor.com/fstakesukyan*ƒ
+jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.eternalmangas-v1.4.25.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.eternalmangas.png"1.4(21.4.25::»ëª¬ÒÛà¤EternalMangases"https://eternalmangas.org0*ƒ
 Gistamis House.eu.kanade.tachiyomi.extension.es.gistamishouseå
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.gistamishouse-v1.4.15.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.gistamishouse.png"1.4(21.4.15:J˜¯ê¦¡è„éGistamis Housees"(https://gistamishousefansub.blogspot.com0*Ò
-Glowi&eu.kanade.tachiyomi.extension.es.glowiÔ
-ahttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.glowi-v1.4.5.apkohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.glowi.png"1.4(21.4.5:<Ìª¯ô£áµHGlowies"#https://capibaratraductor.com/glowi0*õ
+jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.gistamishouse-v1.4.15.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.gistamishouse.png"1.4(21.4.15:J˜¯ê¦¡è„éGistamis Housees"(https://gistamishousefansub.blogspot.com0*õ
 Gremory Mangas.eu.kanade.tachiyomi.extension.es.gremorymangaså
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.gremorymangas-v1.4.52.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.gremorymangas.png"1.4(421.4.52:<¾Ş‰Õ¡Ñô_Gremory Mangases"https://gremoryhistorias.org*Š
-Hachimitsu Tsuki0eu.kanade.tachiyomi.extension.es.hachimitsutsukiè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hachimitsutsuki-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hachimitsutsuki.png"1.4(21.4.5:K±””›ÓãëÌ<Hachimitsu Tsukies")https://capibaratraductor.com/shojopapers*ş
+jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.gremorymangas-v1.4.52.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.gremorymangas.png"1.4(421.4.52:<¾Ş‰Õ¡Ñô_Gremory Mangases"https://gremoryhistorias.org*ş
 Hades no Fansub.eu.kanade.tachiyomi.extension.es.hadesnofansubå
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hadesnofansub-v1.4.58.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hadesnofansub.png"1.4(:21.4.58:D‹ˆË‡ß¼™¬sHades no Fansubes"!https://lectorhades.latamtoon.com0*°
-Hangyaku no Scanlation5eu.kanade.tachiyomi.extension.es.hangyakunoscanlationò
-phttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hangyakunoscanlation-v1.4.5.apk~https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hangyakunoscanlation.png"1.4(21.4.5:\ƒ‰ÒçİŞñÁtHangyaku no Scanlationes"2https://capibaratraductor.com/hangyakunoscanlation0*ê
+jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hadesnofansub-v1.4.58.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hadesnofansub.png"1.4(:21.4.58:D‹ˆË‡ß¼™¬sHades no Fansubes"!https://lectorhades.latamtoon.com0*ê
 Harem de Kira,eu.kanade.tachiyomi.extension.es.haremdekiraá
 hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.haremdekira-v1.4.54.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.haremdekira.png"1.4(621.4.54:8–á»£¢ÃìÅHarem de Kiraes"https://kiraproject.lat0*ä
-	Haru Scan)eu.kanade.tachiyomi.extension.es.haruscanÚ
-dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.haruscan-v1.4.5.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.haruscan.png"1.4(21.4.5:A†Öâï˜„©Ì6	Haru Scanes"&https://capibaratraductor.com/haruscan*ä
 HeavenManga,eu.kanade.tachiyomi.extension.es.heavenmangaà
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.heavenmanga-v1.4.9.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.heavenmanga.png"1.4(	21.4.9:6Íä¥¸“íÓşHeavenMangaes"https://heavenmanga.com0*Ş
 
@@ -1436,9 +1365,7 @@ HentaiMode+eu.kanade.tachiyomi.extension.es.hentaimodeŞ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hentaimode-v1.4.7.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hentaimode.png"1.4(21.4.7:4Ú½¦°¾ïÎ¤H
 HentaiModees"https://hentaimode.com0*é
 Hmangakyomi,eu.kanade.tachiyomi.extension.es.hmangakyomiá
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hmangakyomi-v1.4.32.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hmangakyomi.png"1.4( 21.4.32:9ıÊŠ‰•¤»MHmangakyomies"https://hmangakyomi.online0*å
-HOMOcdrs)eu.kanade.tachiyomi.extension.es.homocdrsÚ
-dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.homocdrs-v1.4.5.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.homocdrs.png"1.4(21.4.5:C§÷Ì¡…àÈ‚HOMOcdrses"'https://capibaratraductor.com/hmcdrscan0*ø
+hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.hmangakyomi-v1.4.32.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.hmangakyomi.png"1.4( 21.4.32:9ıÊŠ‰•¤»MHmangakyomies"https://hmangakyomi.online0*ø
 House Of Otakus.eu.kanade.tachiyomi.extension.es.houseofotakuså
 jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.houseofotakus-v1.4.51.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.houseofotakus.png"1.4(321.4.51:>ì›çãÿŸè¨House Of Otakuses"https://houseofotakusv2.xyz0*÷
 Ikigai Mangas-eu.kanade.tachiyomi.extension.es.ikigaimangasã
@@ -1458,45 +1385,15 @@ mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 
 Jeaz Scans*eu.kanade.tachiyomi.extension.es.jeazscansİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.jeazscans-v1.4.67.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.jeazscans.png"1.4(C21.4.67:5”úšıºøÅºp
-Jeaz Scanses"https://lectorhub.j5z.xyz*â
-JoshScan)eu.kanade.tachiyomi.extension.es.joshscanÚ
-dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.joshscan-v1.4.5.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.joshscan.png"1.4(21.4.5:@ò¼¶ÍÀİöÜ]JoshScanes"&https://capibaratraductor.com/joshscan*‘
-KaiserZ Scanlation2eu.kanade.tachiyomi.extension.es.kaiserzscanlationì
-mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kaiserzscanlation-v1.4.5.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.kaiserzscanlation.png"1.4(21.4.5:Jî®·ëñè®ãKaiserZ Scanlationes"&https://capibaratraductor.com/kaizscan*–
-Kaizen Translations3eu.kanade.tachiyomi.extension.es.kaizentranslationsî
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kaizentranslations-v1.4.5.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.kaizentranslations.png"1.4(21.4.5:Kúì·ô¼‰àµJKaizen Translationses"$https://capibaratraductor.com/kaizen0*‚
-KatsudonManga.eu.kanade.tachiyomi.extension.es.katsudonmangaä
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.katsudonmanga-v1.4.5.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.katsudonmanga.png"1.4(21.4.5:L·Ã¿ÑØè¢ÕKatsudonMangaes"+https://capibaratraductor.com/katsudonmanga0*–
-Kawaragi No Fansub1eu.kanade.tachiyomi.extension.es.kawaraginofansubê
-lhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kawaraginofansub-v1.4.5.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.kawaraginofansub.png"1.4(21.4.5:R¡®êÁÎ–$Kawaragi No Fansubes".https://capibaratraductor.com/kawaraginofansub*Ş
+Jeaz Scanses"https://lectorhub.j5z.xyz*Ş
 
 Kazoku Den*eu.kanade.tachiyomi.extension.es.kazokudenİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kazokuden-v1.4.51.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.kazokuden.png"1.4(321.4.51:5·Ê¹Şóğ•Í
-Kazoku Denes"https://www.kazokuden.com*
-Kingdom Dark Scan0eu.kanade.tachiyomi.extension.es.kingdomdarkscanè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kingdomdarkscan-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.kingdomdarkscan.png"1.4(21.4.5:P‘’ĞÌ‡àµ€WKingdom Dark Scanes"-https://capibaratraductor.com/kingdomdarkscan*
-Kirishima Fansub0eu.kanade.tachiyomi.extension.es.kirishimafansubè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kirishimafansub-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.kirishimafansub.png"1.4(21.4.5:Oª˜„Õ­Ç“ªSKirishima Fansubes"-https://capibaratraductor.com/kirishimafansub*
+Kazoku Denes"https://www.kazokuden.com*
 Knight No Scanlation3eu.kanade.tachiyomi.extension.es.knightnoscanlationï
 ohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.knightnoscanlation-v1.4.59.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.knightnoscanlation.png"1.4(;21.4.59:@üÓùœñàûYKnight No Scanlationes"https://lectorknight.com0*ï
 Koinobori Scan.eu.kanade.tachiyomi.extension.es.koinoboriscanå
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.koinoboriscan-v1.4.40.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.koinoboriscan.png"1.4((21.4.40:6‘”–åà“†ÂQKoinobori Scanes"https://visorkoi.com0*ğ
-
-Koronesuki+eu.kanade.tachiyomi.extension.es.koronesukiŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.koronesuki-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.koronesuki.png"1.4(21.4.5:F‰ëéåªã‹
-Koronesukies"(https://capibaratraductor.com/koronesuki0*ê
-	KRazytoon*eu.kanade.tachiyomi.extension.es.krazytoonÜ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.krazytoon-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.krazytoon.png"1.4(21.4.5:D®ñ±¨üšèï+	KRazytoones"'https://capibaratraductor.com/krazytoon0*ˆ
-Kurenai Project/eu.kanade.tachiyomi.extension.es.kurenaiprojectæ
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kurenaiproject-v1.4.5.apkxhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.kurenaiproject.png"1.4(21.4.5:MÙ‚êÅõÇ–Ò`Kurenai Projectes",https://capibaratraductor.com/kurenaiproject*”
-KuroTranslations1eu.kanade.tachiyomi.extension.es.kurotranslationsê
-lhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.kurotranslations-v1.4.5.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.kurotranslations.png"1.4(21.4.5:Rš›½Ş¦û¨ŸpKuroTranslationses".https://capibaratraductor.com/kurotranslations0*¦
-La Biblioteca de Odin3eu.kanade.tachiyomi.extension.es.labibliotecadeodinî
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.labibliotecadeodin-v1.4.5.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.labibliotecadeodin.png"1.4(21.4.5:Yİ”ÃÚóğããYLa Biblioteca de Odines"0https://capibaratraductor.com/labibliotecadeodin0*›
-Las Profanadas Scan2eu.kanade.tachiyomi.extension.es.lasprofanadasscanì
-mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.lasprofanadasscan-v1.4.5.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.lasprofanadasscan.png"1.4(21.4.5:SÑ¡·Ï³ĞòLas Profanadas Scanes",https://capibaratraductor.com/profanadasscan0*„
-Last Exile Scan.eu.kanade.tachiyomi.extension.es.lastexilescanä
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.lastexilescan-v1.4.5.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.lastexilescan.png"1.4(21.4.5:LşÔººáûŠ¡eLast Exile Scanes"+https://capibaratraductor.com/lastexilescan*ò
+jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.koinoboriscan-v1.4.40.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.koinoboriscan.png"1.4((21.4.40:6‘”–åà“†ÂQKoinobori Scanes"https://visorkoi.com0*ò
 Lector Asteria.eu.kanade.tachiyomi.extension.es.lectorasteriaä
 ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.lectorasteria-v1.4.3.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.lectorasteria.png"1.4(21.4.3:;×±‹å»€æØ	Lector Asteriaes"https://lectorasteria.com0*Ù
 	LectorJPG*eu.kanade.tachiyomi.extension.es.lectorjpgİ
@@ -1510,13 +1407,9 @@ ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 	LeerManga*eu.kanade.tachiyomi.extension.es.leermangaİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.leermanga-v1.4.52.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.leermanga.png"1.4(421.4.52:2Â±¦†‘™±š.	LeerMangaes"https://leermanga.net0*ê
 LeerMangaEsp-eu.kanade.tachiyomi.extension.es.leermangaespâ
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.leermangaesp-v1.4.1.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.leermangaesp.png"1.4(21.4.1:8†×¿ù©Ù‘ßqLeerMangaEspes"https://leermangaesp.net0*„
-Limbo Scanlation0eu.kanade.tachiyomi.extension.es.limboscanlationè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.limboscanlation-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.limboscanlation.png"1.4(21.4.5:EÛş†çéê­£cLimbo Scanlationes"#https://capibaratraductor.com/limbo*Ñ
+hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.leermangaesp-v1.4.1.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.leermangaesp.png"1.4(21.4.1:8†×¿ù©Ù‘ßqLeerMangaEspes"https://leermangaesp.net0*Ñ
 Lmtos+eu.kanade.tachiyomi.extension.es.lmtoonlineß
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.lmtoonline-v1.4.54.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.lmtoonline.png"1.4(621.4.54:*º–½ÉöåŒ¨kLmtoses"https://lmtos.net0*’
-Loliet Azura Translations,eu.kanade.tachiyomi.extension.es.lolietazuraà
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.lolietazura-v1.4.5.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.lolietazura.png"1.4(21.4.5:VÖì†ç¨Ìç/Loliet Azura Translationses")https://capibaratraductor.com/lolietazura0*ß
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.lmtoonline-v1.4.54.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.lmtoonline.png"1.4(621.4.54:*º–½ÉöåŒ¨kLmtoses"https://lmtos.net0*ß
 	Lolivault*eu.kanade.tachiyomi.extension.es.lolivaultÜ
 ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.lolivault-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.lolivault.png"1.4(21.4.5:9ò•ºË’çÚ	Lolivaultes"https://lector.lolivault.net0*è
 Luna Pieces+eu.kanade.tachiyomi.extension.es.lunapiecesß
@@ -1556,11 +1449,7 @@ dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Menudo-Fansub-eu.kanade.tachiyomi.extension.es.menudofansubâ
 hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.menudofansub-v1.4.6.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.menudofansub.png"1.4(21.4.6:<’‚„ıÆªóÓ0Menudo-Fansubes"https://www.menudo-fansub.com*Ì
 MHScans(eu.kanade.tachiyomi.extension.es.mhscansÙ
-dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mhscans-v1.4.65.apkqhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mhscans.png"1.4(A21.4.65:,ñ¬¬®€ëƒ“-MHScanses"https://mhscans.com*ì
-
-Michu Scan*eu.kanade.tachiyomi.extension.es.michuscanÜ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.michuscan-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.michuscan.png"1.4(21.4.5:E²àõ¼Çÿ«œr
-Michu Scanes"'https://capibaratraductor.com/michuscan0*î
+dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.mhscans-v1.4.65.apkqhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.mhscans.png"1.4(A21.4.65:,ñ¬¬®€ëƒ“-MHScanses"https://mhscans.com*î
 Monopoly Scan-eu.kanade.tachiyomi.extension.es.monopolyscanã
 ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.monopolyscan-v1.4.51.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.monopolyscan.png"1.4(321.4.51:9®ûñ‹ú «­QMonopoly Scanes"https://monopolymanhua.com*è
 Mundo Manhwa,eu.kanade.tachiyomi.extension.es.mundomanhwaá
@@ -1570,9 +1459,7 @@ chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 	NekoScans*eu.kanade.tachiyomi.extension.es.nekoscansİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.nekoscans-v1.4.40.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nekoscans.png"1.4((21.4.40:4 ×Æà¢ÚòÂt	NekoScanses"https://nekoproject.org0*×
 NeoManga)eu.kanade.tachiyomi.extension.es.neomangaÚ
-dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.neomanga-v1.4.1.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.neomanga.png"1.4(21.4.1:5—Šåûµ¿‚ìDNeoMangaes"https://www.neomanga.online*
-NeroTranslations1eu.kanade.tachiyomi.extension.es.nerotranslationsê
-lhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.nerotranslations-v1.4.5.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nerotranslations.png"1.4(21.4.5:MØ×¼¾’´À¬CNeroTranslationses"+https://capibaratraductor.com/nerotranslate*ü
+dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.neomanga-v1.4.1.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.neomanga.png"1.4(21.4.1:5—Šåûµ¿‚ìDNeoMangaes"https://www.neomanga.online*ü
 NexusScanlation0eu.kanade.tachiyomi.extension.es.nexusscanlationè
 khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.nexusscanlation-v1.4.4.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nexusscanlation.png"1.4(21.4.4:>ĞÕ‚«¬ÓÂÚ8NexusScanlationes"https://nexusscanlation.com0*™
 Noblesse Translations5eu.kanade.tachiyomi.extension.es.noblessetranslationsó
@@ -1580,31 +1467,19 @@ qhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Nova Manhwas+eu.kanade.tachiyomi.extension.es.novamanhwaß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.novamanhwa-v1.4.32.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.novamanhwa.png"1.4( 21.4.32:3ÑÌñ´×¤ÕÙ%Nova Manhwases"https://novamanhwa.cc*ê
 Novato Scans,eu.kanade.tachiyomi.extension.es.novatoscansá
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.novatoscans-v1.4.14.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.novatoscans.png"1.4(21.4.14:9ÖúÁîË¿è‘Novato Scanses"https://www.novatoscans.top*æ
-
-Okami.Scan*eu.kanade.tachiyomi.extension.es.okamiscanÜ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.okamiscan-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.okamiscan.png"1.4(21.4.5:?­üúƒÒ«—âL
-Okami.Scanes"#https://capibaratraductor.com/okami*ƒ
+hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.novatoscans-v1.4.14.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.novatoscans.png"1.4(21.4.14:9ÖúÁîË¿è‘Novato Scanses"https://www.novatoscans.top*ƒ
 Olympus Scanlation2eu.kanade.tachiyomi.extension.es.olympusscanlationí
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.olympusscanlation-v1.4.19.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.olympusscanlation.png"1.4(21.4.19::ºîê¸œìå“Olympus Scanlationes"https://olympusxyz.com*
-Omega Scanlation0eu.kanade.tachiyomi.extension.es.omegascanlationè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.omegascanlation-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.omegascanlation.png"1.4(21.4.5:Qìà±âÁ‡„årOmega Scanlationes"-https://capibaratraductor.com/omegascanlation0*Ú
+nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.olympusscanlation-v1.4.19.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.olympusscanlation.png"1.4(21.4.19::ºîê¸œìå“Olympus Scanlationes"https://olympusxyz.com*Ú
 
 ONF MANGAS*eu.kanade.tachiyomi.extension.es.onfmangasÜ
 ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.onfmangas-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.onfmangas.png"1.4(21.4.5:3È€Ë µƒ‹
 ONF MANGASes"https://onfmangas.com0*å
 OrckuMangas,eu.kanade.tachiyomi.extension.es.orckumangasà
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.orckumangas-v1.4.2.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.orckumangas.png"1.4(21.4.2:7¦ÌÒª ÔÏ¾Orcku Mangases"https://orckumangas.com0*
-Phantom No Fansub0eu.kanade.tachiyomi.extension.es.phantomnofansubè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.phantomnofansub-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.phantomnofansub.png"1.4(21.4.5:P‰ÜàØÑÛœ8Phantom No Fansubes"-https://capibaratraductor.com/phantomnofansub*²
-PinkGarden Translation6eu.kanade.tachiyomi.extension.es.pinkgardentranslationô
-qhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.pinkgardentranslation-v1.4.5.apkhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.pinkgardentranslation.png"1.4(21.4.5:[®êñƒ€›Ì«$PinkGarden Translationes"3https://capibaratraductor.com/pinkgardentranslation*†
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.orckumangas-v1.4.2.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.orckumangas.png"1.4(21.4.2:7¦ÌÒª ÔÏ¾Orcku Mangases"https://orckumangas.com0*†
 Platinum Lily Scan1eu.kanade.tachiyomi.extension.es.platinumlilyscanê
 lhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.platinumlilyscan-v1.4.1.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.platinumlilyscan.png"1.4(21.4.1:B‘ÌÕãí¡ˆ¶RPlatinum Lily Scanes"https://platinumlilyscan.com0*‹
 Plot Twist No Fansub2eu.kanade.tachiyomi.extension.es.plottwistnofansubí
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.plottwistnofansub-v1.4.14.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.plottwistnofansub.png"1.4(21.4.14:@áÈ»ˆ¶º…Ÿ`Plot Twist No Fansubes"https://plotnofansub.com0*ä
-	PuchiScan*eu.kanade.tachiyomi.extension.es.puchiscanÜ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.puchiscan-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.puchiscan.png"1.4(21.4.5:> ˜ÁÅí„î	PuchiScanes"#https://capibaratraductor.com/puchi*
+nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.plottwistnofansub-v1.4.14.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.plottwistnofansub.png"1.4(21.4.14:@áÈ»ˆ¶º…Ÿ`Plot Twist No Fansubes"https://plotnofansub.com0*
 Ragnarok Scanlation3eu.kanade.tachiyomi.extension.es.ragnarokscanlationï
 ohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.ragnarokscanlation-v1.4.54.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.ragnarokscanlation.png"1.4(621.4.54:CòÑı¿óÿÛRagnarok Scanlationes"https://ragnarokscanlation.org*ä
 Ragna Scans+eu.kanade.tachiyomi.extension.es.ragnascansŞ
@@ -1612,9 +1487,7 @@ fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 
 Raiki Scan*eu.kanade.tachiyomi.extension.es.raikiscanİ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.raikiscan-v1.4.32.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.raikiscan.png"1.4( 21.4.32:1Œ¦ÊÜúà¤m
-Raiki Scanes"https://raikiscan.com*”
-Rakuen Translations3eu.kanade.tachiyomi.extension.es.rakuentranslationsî
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.rakuentranslations-v1.4.5.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.rakuentranslations.png"1.4(21.4.5:IÜÖÛœë±ı«iRakuen Translationses"$https://capibaratraductor.com/rakuen*Û
+Raiki Scanes"https://raikiscan.com*Û
 
 RavenManga+eu.kanade.tachiyomi.extension.es.ravenmangaŞ
 fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.ravenmanga-v1.4.7.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.ravenmanga.png"1.4(21.4.7:1ñÜÀÄâ·ÂÙ	
@@ -1622,84 +1495,31 @@ RavenMangaes"https://raventard.xyz*ß
 
 RichtoScan+eu.kanade.tachiyomi.extension.es.richtoscanß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.richtoscan-v1.4.56.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.richtoscan.png"1.4(821.4.56:3ÔÅß¨îË×£
-RichtoScanes"https://r1.richtoon.top*ğ
-
-SACACHISPA+eu.kanade.tachiyomi.extension.es.sacachispaŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.sacachispa-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.sacachispa.png"1.4(21.4.5:FáÍ°ª¯Ü¹ˆB
-SACACHISPAes"(https://capibaratraductor.com/sacachispa0* 
-Saitou Translations3eu.kanade.tachiyomi.extension.es.saitoutranslationsî
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.saitoutranslations-v1.4.5.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.saitoutranslations.png"1.4(21.4.5:U÷‰Áì»Ã™Ã!Saitou Translationses"0https://capibaratraductor.com/saitoutranslations*î
+RichtoScanes"https://r1.richtoon.top*î
 SapphireScan-eu.kanade.tachiyomi.extension.es.sapphirescanã
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.sapphirescan-v1.4.53.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.sapphirescan.png"1.4(521.4.53::òç‰Óî˜œ¤|SapphireScanes"https://www.sapphirescan.com*ò
-Scan Review+eu.kanade.tachiyomi.extension.es.scanreviewŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.scanreview-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.scanreview.png"1.4(21.4.5:G®úÊ¸æş»EScan Reviewes"(https://capibaratraductor.com/scanreview0*ä
-ScansHub)eu.kanade.tachiyomi.extension.es.scanshubÚ
-dhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.scanshub-v1.4.5.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.scanshub.png"1.4(21.4.5:Bøøƒğ¶°EScansHubes"&https://capibaratraductor.com/scanshub0*ò
-Scan Starts+eu.kanade.tachiyomi.extension.es.scanstartsŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.scanstarts-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.scanstarts.png"1.4(21.4.5:Gò¤áªƒšEScan Startses"(https://capibaratraductor.com/scanstarts0*Ğ
-ScanZ&eu.kanade.tachiyomi.extension.es.scanzÔ
-ahttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.scanz-v1.4.5.apkohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.scanz.png"1.4(21.4.5::Ôä”÷ü”.ScanZes"#https://capibaratraductor.com/scanz*ú
-Secta BL Scan,eu.kanade.tachiyomi.extension.es.sectablscanà
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.sectablscan-v1.4.5.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.sectablscan.png"1.4(21.4.5:JæİÓ²€ğåíRSecta BL Scanes")https://capibaratraductor.com/sectablscan0*ë
-
-Seinen Den*eu.kanade.tachiyomi.extension.es.seinendenÜ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.seinenden-v1.4.5.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.seinenden.png"1.4(21.4.5:Då®¥İ’„‡Ä"
-Seinen Denes"(https://capibaratraductor.com/seinen-den*ø
-SeÃ±or Chofli,eu.kanade.tachiyomi.extension.es.senorchoflià
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.senorchofli-v1.4.5.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.senorchofli.png"1.4(21.4.5:H•ÜüùŒõ¾ôESeÃ±or Choflies"'https://capibaratraductor.com/sirchofli0*ø
-Senshi Manga,eu.kanade.tachiyomi.extension.es.senshimangaá
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.senshimanga-v1.4.11.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.senshimanga.png"1.4(21.4.11:GØî‘Óª÷¬PSenshi Mangaes")https://capibaratraductor.com/senshimanga*å
+ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.sapphirescan-v1.4.53.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.sapphirescan.png"1.4(521.4.53::òç‰Óî˜œ¤|SapphireScanes"https://www.sapphirescan.com*å
 Shadow Manga,eu.kanade.tachiyomi.extension.es.shadowmangaà
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.shadowmanga-v1.4.3.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.shadowmanga.png"1.4(21.4.3:6–»ªÎ‹³NShadow Mangaes"https://shademanga.com0*
-ShoShinSha Scans0eu.kanade.tachiyomi.extension.es.shoshinshascansè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.shoshinshascans-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.shoshinshascans.png"1.4(21.4.5:OªÔ˜‚¨ßÊšLShoShinSha Scanses"-https://capibaratraductor.com/shoshinshascans*ô
-
-6ianfranc9-eu.kanade.tachiyomi.extension.es.sixianfranc9â
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.sixianfranc9-v1.4.5.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.sixianfranc9.png"1.4(21.4.5:D®Å«½€¸¹ê
-6ianfranc9es"(https://capibaratraductor.com/6ianfranc9*Ø
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.shadowmanga-v1.4.3.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.shadowmanga.png"1.4(21.4.3:6–»ªÎ‹³NShadow Mangaes"https://shademanga.com0*Ø
 	SkyMangas*eu.kanade.tachiyomi.extension.es.skymangasİ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.skymangas-v1.4.33.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.skymangas.png"1.4(!21.4.33:0‡üšä…¿¸õx	SkyMangases"https://skymangas.com*Š
-Soul Craft Fansub0eu.kanade.tachiyomi.extension.es.soulcraftfansubè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.soulcraftfansub-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.soulcraftfansub.png"1.4(21.4.5:Jœ©ÓÇÅóŠSoul Craft Fansubes"'https://capibaratraductor.com/soulcraft*ö
-Space Fansub,eu.kanade.tachiyomi.extension.es.spacefansubà
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.spacefansub-v1.4.5.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.spacefansub.png"1.4(21.4.5:GİŞØõ‹¬®ZSpace Fansubes")https://capibaratraductor.com/spacefansub*Ü
+fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.skymangas-v1.4.33.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.skymangas.png"1.4(!21.4.33:0‡üšä…¿¸õx	SkyMangases"https://skymangas.com*Ü
 
 Spicy Scan*eu.kanade.tachiyomi.extension.es.spicyscanÜ
 ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.spicyscan-v1.4.3.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.spicyscan.png"1.4(21.4.3:5ìîÒûŒºÿı$
 Spicy Scanes"https://spicyseries.com0*á
 Stick Horse+eu.kanade.tachiyomi.extension.es.stickhorseß
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.stickhorse-v1.4.51.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.stickhorse.png"1.4(321.4.51:4À™Üƒ†²¿›rStick Horsees"https://stickhorse.cl0*ö
-StrayDog608,eu.kanade.tachiyomi.extension.es.straydog608à
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.straydog608-v1.4.5.apkuhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.straydog608.png"1.4(21.4.5:HŒğÜµËµ“@StrayDog608es")https://capibaratraductor.com/straydog6080*Ø
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.stickhorse-v1.4.51.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.stickhorse.png"1.4(321.4.51:4À™Üƒ†²¿›rStick Horsees"https://stickhorse.cl0*Ø
 	Submanhwa*eu.kanade.tachiyomi.extension.es.submanhwaÜ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.submanhwa-v1.4.8.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.submanhwa.png"1.4(21.4.8:2ºÍ‹ÅÍË›ã	Submanhwaes"https://submanhwa.com0*†
-Sweet Ice Cream.eu.kanade.tachiyomi.extension.es.sweeticecreamä
-ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.sweeticecream-v1.4.5.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.sweeticecream.png"1.4(21.4.5:Nç¤«ÅŸò“	Sweet Ice Creames"+https://capibaratraductor.com/sweeticecream0*€
+ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.submanhwa-v1.4.8.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.submanhwa.png"1.4(21.4.8:2ºÍ‹ÅÍË›ã	Submanhwaes"https://submanhwa.com0*€
 Sword Of Oblivion0eu.kanade.tachiyomi.extension.es.swordofoblivioné
 lhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.swordofoblivion-v1.4.51.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.swordofoblivion.png"1.4(321.4.51:>ŠŠô´·í·TSword Of Obliviones"https://swordofoblivion.com*ì
 Taurus Fansub-eu.kanade.tachiyomi.extension.es.taurusfansubã
 ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.taurusfansub-v1.4.60.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.taurusfansub.png"1.4(<21.4.60:7øƒÖØ’œ›ÊGTaurus Fansubes"https://lectortaurus.com*ğ
 Temple Scan.eu.kanade.tachiyomi.extension.es.templescanespå
-jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.templescanesp-v1.4.62.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.templescanesp.png"1.4(>21.4.62::’™Ì»î§Çò/Temple Scanes"https://aedexnox.akan01.com0*€
-Templo de Jeny-eu.kanade.tachiyomi.extension.es.templodejenyâ
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.templodejeny-v1.4.5.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.templodejeny.png"1.4(21.4.5:LãûœŒ¥Åò
-Templo de Jenyes"*https://capibaratraductor.com/templodejeny0*’
-Templo de Scarlet0eu.kanade.tachiyomi.extension.es.templodescarletè
-khttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.templodescarlet-v1.4.5.apkyhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.templodescarlet.png"1.4(21.4.5:RØ×ş‹¨ŞÙ×zTemplo de Scarletes"-https://capibaratraductor.com/templodescarlet0*ß
+jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.templescanesp-v1.4.62.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.templescanesp.png"1.4(>21.4.62::’™Ì»î§Çò/Temple Scanes"https://aedexnox.akan01.com0*ß
 
 Falco Scan+eu.kanade.tachiyomi.extension.es.tenkaiscanß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.tenkaiscan-v1.4.39.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.tenkaiscan.png"1.4('21.4.39:3Êòğ‚·¨•S
-Falco Scanes"https://falcoscan.net0*ğ
-Terra Scans+eu.kanade.tachiyomi.extension.es.terrascansŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.terrascans-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.terrascans.png"1.4(21.4.5:EéÒ¤´ŸŞ¶†(Terra Scanses"(https://capibaratraductor.com/terrascans*ğ
-
-TheBlueBox+eu.kanade.tachiyomi.extension.es.theblueboxŞ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.thebluebox-v1.4.5.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.thebluebox.png"1.4(21.4.5:FË…ŸŒºòÜz
-TheBlueBoxes"(https://capibaratraductor.com/thebluebox0*¥
-The grimorio de la witch5eu.kanade.tachiyomi.extension.es.thegrimoriodelawitchò
-phttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.thegrimoriodelawitch-v1.4.5.apk~https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.thegrimoriodelawitch.png"1.4(21.4.5:O†ä»öü“-The grimorio de la witches"#https://capibaratraductor.com/tgdlw0*Ê
-TMAT%eu.kanade.tachiyomi.extension.es.tmatÒ
-`https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.tmat-v1.4.5.apknhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.tmat.png"1.4(21.4.5:8ßĞŞÌÓ…´aTMATes""https://capibaratraductor.com/tamt*Ë
+Falco Scanes"https://falcoscan.net0*Ë
 Toon-es'eu.kanade.tachiyomi.extension.es.toones×
 chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.toones-v1.4.51.apkphttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.toones.png"1.4(321.4.51:.î‘¬“ø¡»ğEToon-eses"https://toon-es.com0*ò
 TopComicPorno.eu.kanade.tachiyomi.extension.es.topcomicpornoå
@@ -1707,33 +1527,17 @@ jhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 TopComicPorno.net1eu.kanade.tachiyomi.extension.es.topcomicpornonetë
 mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.topcomicpornonet-v1.4.51.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.topcomicpornonet.png"1.4(321.4.51:>Òîüû¤èâæ^TopComicPorno.netes"https://topcomicporno.net0*¤
 Traducciones Moonlight6eu.kanade.tachiyomi.extension.es.traduccionesmoonlightõ
-rhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.traduccionesmoonlight-v1.4.47.apkhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.traduccionesmoonlight.png"1.4(/21.4.47:K®ÏÚ¡İ†ı­<Traducciones Moonlightes"!https://traduccionesmoonlight.com0*§
-Traducciones Muy Lentas6eu.kanade.tachiyomi.extension.es.traduccionesmuylentasô
-qhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.traduccionesmuylentas-v1.4.5.apkhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.traduccionesmuylentas.png"1.4(21.4.5:O¬êôô·õ¢ºTraducciones Muy Lentases"&https://capibaratraductor.com/tmlentas*¦
-Traducciones PaltaNobu6eu.kanade.tachiyomi.extension.es.traduccionespaltanobuô
-qhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.traduccionespaltanobu-v1.4.5.apkhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.traduccionespaltanobu.png"1.4(21.4.5:O²Œ¿¸±½§ú+Traducciones PaltaNobues"'https://capibaratraductor.com/paltanobu* 
-Tsuki No Musume Scan2eu.kanade.tachiyomi.extension.es.tsukinomusumescanì
-mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.tsukinomusumescan-v1.4.5.apk{https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.tsukinomusumescan.png"1.4(21.4.5:W†îÿŠ›òù½9Tsuki No Musume Scanes"/https://capibaratraductor.com/tsukinomusumescan0*¨
-Tu Erizo Traducciones4eu.kanade.tachiyomi.extension.es.tuerizotraduccionesğ
-ohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.tuerizotraducciones-v1.4.5.apk}https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.tuerizotraducciones.png"1.4(21.4.5:XĞ÷¨—îšñåVTu Erizo Traduccioneses"1https://capibaratraductor.com/tuerizotraducciones*á
+rhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.traduccionesmoonlight-v1.4.47.apkhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.traduccionesmoonlight.png"1.4(/21.4.47:K®ÏÚ¡İ†ı­<Traducciones Moonlightes"!https://traduccionesmoonlight.com0*á
 	ManhwasMe.eu.kanade.tachiyomi.extension.es.tumanhwasclubä
 ihttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.tumanhwasclub-v1.4.3.apkwhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.tumanhwasclub.png"1.4(21.4.3:/åö¸ú¢»ßŠo	ManhwasMees"https://manhwas.me0*„
 Uchuujin Projects1eu.kanade.tachiyomi.extension.es.uchuujinprojectsë
-mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.uchuujinprojects-v1.4.34.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.uchuujinprojects.png"1.4("21.4.34:?‡üÓÌëÑî6Uchuujin Projectses"https://uchuujinmangas.com0*À
-"Virreinato de Unknown Realm Fansub3eu.kanade.tachiyomi.extension.es.unknownrealmfansubî
-nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.unknownrealmfansub-v1.4.5.apk|https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.unknownrealmfansub.png"1.4(21.4.5:f˜½­’½¸›Êa"Virreinato de Unknown Realm Fansubes"2https://capibaratraductor.com/unknown-realm-fansub*€
+mhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.uchuujinprojects-v1.4.34.apkzhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.uchuujinprojects.png"1.4("21.4.34:?‡üÓÌëÑî6Uchuujin Projectses"https://uchuujinmangas.com0*€
 VCPVMP'eu.kanade.tachiyomi.extension.es.vcpvmp×
 chttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.vcpvmp-v1.4.12.apkphttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.vcpvmp.png"1.4(21.4.12:1ÿ„ÊÕªİÖÉuVCPes"https://vercomicsporno.com0:1èø«Â©İDVMPes"https://vermangasporno.com0*á
 Ver Manhwas+eu.kanade.tachiyomi.extension.es.vermanhwasß
-ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.vermanhwas-v1.4.53.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.vermanhwas.png"1.4(521.4.53:4üÃŒı”»šÍ9Ver Manhwases"https://vermanhwa.com0*˜
-WaifusWithSalsa Scan4eu.kanade.tachiyomi.extension.es.waifuswithsalsascanğ
-ohttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.waifuswithsalsascan-v1.4.5.apk}https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.waifuswithsalsascan.png"1.4(21.4.5:I†ÊùÜØß–´WaifusWithSalsa Scanes"!https://capibaratraductor.com/wws0*ş
-Weeping Angel-eu.kanade.tachiyomi.extension.es.weepingangelâ
-hhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.weepingangel-v1.4.5.apkvhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.weepingangel.png"1.4(21.4.5:Köı—ºèµÈŒRWeeping Angeles"*https://capibaratraductor.com/weepingangel0*¯
-White Pearl Translations7eu.kanade.tachiyomi.extension.es.whitepearltranslations÷
-rhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.whitepearltranslations-v1.4.5.apk€https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.whitepearltranslations.png"1.4(21.4.5:RˆŒ×ƒÛ¿³Ë?White Pearl Translationses"(https://capibaratraductor.com/whitepearl*Ø
+ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.vermanhwas-v1.4.53.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.vermanhwas.png"1.4(521.4.53:4üÃŒı”»šÍ9Ver Manhwases"https://vermanhwa.com0*Ø
 Yupmanga)eu.kanade.tachiyomi.extension.es.yupmangaÛ
-ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.yupmanga-v1.4.15.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.yupmanga.png"1.4(21.4.15:4Ä³ß‡ÙİÊ=Yupmangaes"https://www.yupmanga.com0*ã
+ehttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.yupmanga-v1.4.16.apkrhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.yupmanga.png"1.4(21.4.16:4Ä³ß‡ÙİÊ=Yupmangaes"https://www.yupmanga.com0*ã
 Yuri-Online+eu.kanade.tachiyomi.extension.es.yurionlineß
 ghttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.yurionline-v1.4.51.apkthttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.yurionline.png"1.4(321.4.51:6Á´¬­šÀ„ª/Yuri-Onlinees"https://yuri-online.com0*ñ
 Zonatmo.to (unoriginal)*eu.kanade.tachiyomi.extension.es.zonatmotoÜ
