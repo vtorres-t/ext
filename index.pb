@@ -637,7 +637,7 @@ nhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-e
 Ü
 
 Diva Scans*eu.kanade.tachiyomi.extension.en.divascansÝ
-fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.22.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.divascans.png"1.4(21.4.228B1˜©÷Ñº•Ã‰L
+fhttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.divascans-v1.4.24.apkshttps://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.divascans.png"1.4(21.4.248B1˜©÷Ñº•Ã‰L
 Diva Scansen"https://divascans.org
 Ý
 Doujin.io - J18)eu.kanade.tachiyomi.extension.en.doujinioÚ
