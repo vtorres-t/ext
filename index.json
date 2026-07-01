@@ -1607,12 +1607,12 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.lunaranime.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionCode": "11",
+        "versionName": "1.4.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1628,6 +1628,36 @@
             "homeUrl": "https://lunaranime.ru"
           },
           {
+            "id": "3699764450470657348",
+            "name": "Lunar Manga",
+            "language": "ar",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "2698159736988588223",
+            "name": "Lunar Manga",
+            "language": "bg",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "3551931974861576783",
+            "name": "Lunar Manga",
+            "language": "bn",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "547003087261446586",
+            "name": "Lunar Manga",
+            "language": "da",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "4964257310156473044",
+            "name": "Lunar Manga",
+            "language": "de",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
             "id": "215773824303536035",
             "name": "Lunar Manga",
             "language": "es",
@@ -1637,6 +1667,144 @@
             "id": "4595247773355584967",
             "name": "Lunar Manga",
             "language": "es-419",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "7749937618675947100",
+            "name": "Lunar Manga",
+            "language": "fa",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "793390858613993949",
+            "name": "Lunar Manga",
+            "language": "fi",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "8304537992959679621",
+            "name": "Lunar Manga",
+            "language": "fr",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "4939477701699344583",
+            "name": "Lunar Manga",
+            "language": "he",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "4529330646808421343",
+            "name": "Lunar Manga",
+            "language": "hi",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "8130073422666383933",
+            "name": "Lunar Manga",
+            "language": "id",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "8276119821263625468",
+            "name": "Lunar Manga",
+            "language": "it",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "2848743514286834588",
+            "name": "Lunar Manga",
+            "language": "ja",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "5973585434561103442",
+            "name": "Lunar Manga",
+            "language": "ko",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "1272917377169479980",
+            "name": "Lunar Manga",
+            "language": "ms",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "568631194803448549",
+            "name": "Lunar Manga",
+            "language": "nl",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "1567267056564602747",
+            "name": "Lunar Manga",
+            "language": "no",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "89188894348015097",
+            "name": "Lunar Manga",
+            "language": "pl",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "690969786104967218",
+            "name": "Lunar Manga",
+            "language": "pt",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "1702733805309857480",
+            "name": "Lunar Manga",
+            "language": "pt-BR",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "4798553287209680620",
+            "name": "Lunar Manga",
+            "language": "ru",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "4407345724470685258",
+            "name": "Lunar Manga",
+            "language": "sv",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "3149622876127128169",
+            "name": "Lunar Manga",
+            "language": "th",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "6989036438623575060",
+            "name": "Lunar Manga",
+            "language": "tl",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "3881169888283649510",
+            "name": "Lunar Manga",
+            "language": "tr",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "3227262950343562837",
+            "name": "Lunar Manga",
+            "language": "ur",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "4976223882601884801",
+            "name": "Lunar Manga",
+            "language": "vi",
+            "homeUrl": "https://lunaranime.ru"
+          },
+          {
+            "id": "3021093696465448973",
+            "name": "Lunar Manga",
+            "language": "zh",
             "homeUrl": "https://lunaranime.ru"
           }
         ]
@@ -3311,32 +3479,6 @@
             "name": "The Library of Ohara",
             "language": "fr",
             "homeUrl": "https://thelibraryofohara.com"
-          }
-        ]
-      },
-      {
-        "name": "Thunder Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.all.thunderscans",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.thunderscans-v1.4.45.apk",
-          "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.thunderscans.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "45",
-        "versionName": "1.4.45",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3209001028102012989",
-            "name": "Lava Scans",
-            "language": "ar",
-            "homeUrl": "https://lavascans.com"
-          },
-          {
-            "id": "2848420679472350044",
-            "name": "Thunder Scans",
-            "language": "en",
-            "homeUrl": "https://en-thunderscans.com"
           }
         ]
       },
@@ -8072,12 +8214,12 @@
         "name": "MangaReader.in",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangareadercc",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangareadercc-v1.4.6.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangareadercc-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangareadercc.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "6",
-        "versionName": "1.4.6",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -8329,7 +8471,7 @@
         ]
       },
       {
-        "name": "ManhuaPlus (unoriginal)",
+        "name": "ManhuaPlus (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuaplusorg",
         "resources": {
           "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manhuaplusorg-v1.4.6.apk",
@@ -9444,7 +9586,7 @@
             "id": "419822582289753882",
             "name": "Nyx Scans",
             "language": "en",
-            "homeUrl": "https://nyxscans.com"
+            "homeUrl": "https://nyxmanga.org"
           }
         ]
       },
@@ -9692,17 +9834,17 @@
         "name": "Paradise Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.paradisescans",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.paradisescans-v1.4.20.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.paradisescans-v1.4.21.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.paradisescans.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "20",
-        "versionName": "1.4.20",
+        "versionCode": "21",
+        "versionName": "1.4.21",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "5928300995303689257",
-            "name": "ParadiseScans",
+            "name": "Paradise Scans",
             "language": "en",
             "homeUrl": "https://paradisescans.com"
           }
@@ -11209,15 +11351,35 @@
         ]
       },
       {
+        "name": "Thunder Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.thunderscans",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.thunderscans-v1.4.33.apk",
+          "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.thunderscans.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "33",
+        "versionName": "1.4.33",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "2848420679472350044",
+            "name": "Thunder Scans",
+            "language": "en",
+            "homeUrl": "https://en-thunderscans.com"
+          }
+        ]
+      },
+      {
         "name": "TimelessToons",
         "packageName": "eu.kanade.tachiyomi.extension.en.timelesstoons",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.timelesstoons-v1.4.20.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.timelesstoons-v1.4.21.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.timelesstoons.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "20",
-        "versionName": "1.4.20",
+        "versionCode": "21",
+        "versionName": "1.4.21",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -12938,12 +13100,12 @@
         "name": "Ikigai Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.ikigaimangas-v1.4.33.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.ikigaimangas-v1.4.34.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.ikigaimangas.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "33",
-        "versionName": "1.4.33",
+        "versionCode": "34",
+        "versionName": "1.4.34",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -13718,12 +13880,12 @@
         "name": "Rncalation",
         "packageName": "eu.kanade.tachiyomi.extension.es.nartag",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.nartag-v1.4.60.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.nartag-v1.4.61.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nartag.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "60",
-        "versionName": "1.4.60",
+        "versionCode": "61",
+        "versionName": "1.4.61",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -14218,12 +14380,12 @@
         "name": "Temple Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.templescanesp-v1.4.62.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.templescanesp-v1.4.63.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.templescanesp.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "62",
-        "versionName": "1.4.62",
+        "versionCode": "63",
+        "versionName": "1.4.63",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
