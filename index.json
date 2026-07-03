@@ -214,12 +214,12 @@
         "name": "Comic Growl",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicgrowl",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.comicgrowl-v1.4.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.comicgrowl-v1.4.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.comicgrowl.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "versionCode": "13",
+        "versionName": "1.4.13",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -306,12 +306,12 @@
         "name": "Comikey",
         "packageName": "eu.kanade.tachiyomi.extension.all.comikey",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.comikey-v1.4.7.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.comikey-v1.4.8.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.comikey.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "7",
-        "versionName": "1.4.7",
+        "versionCode": "8",
+        "versionName": "1.4.8",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -324,18 +324,6 @@
             "id": "374080003312345029",
             "name": "Comikey",
             "language": "es",
-            "homeUrl": "https://comikey.com"
-          },
-          {
-            "id": "1684620622390751911",
-            "name": "Comikey",
-            "language": "id",
-            "homeUrl": "https://comikey.com"
-          },
-          {
-            "id": "4174862482785095737",
-            "name": "Comikey",
-            "language": "pt-BR",
             "homeUrl": "https://comikey.com"
           },
           {
@@ -362,12 +350,6 @@
             "id": "5328240584854276436",
             "name": "Commit Strip",
             "language": "en",
-            "homeUrl": "https://www.commitstrip.com"
-          },
-          {
-            "id": "4187575309418573632",
-            "name": "Commit Strip",
-            "language": "fr",
             "homeUrl": "https://www.commitstrip.com"
           }
         ]
@@ -538,6 +520,12 @@
             "id": "4156406679136971778",
             "name": "Dragon Ball Multiverse",
             "language": "es-419",
+            "homeUrl": "https://www.dragonball-multiverse.com"
+          },
+          {
+            "id": "5582703984897222132",
+            "name": "Dragon Ball Multiverse Parody",
+            "language": "fr",
             "homeUrl": "https://www.dragonball-multiverse.com"
           }
         ]
@@ -817,12 +805,6 @@
             "name": "Hennojin",
             "language": "en",
             "homeUrl": "https://hennojin.com"
-          },
-          {
-            "id": "6754172311859665554",
-            "name": "Hennojin",
-            "language": "ja",
-            "homeUrl": "https://hennojin.com"
           }
         ]
       },
@@ -897,39 +879,9 @@
             "homeUrl": "https://hentaienvy.com"
           },
           {
-            "id": "7983253093172640758",
-            "name": "HentaiEnvy",
-            "language": "ja",
-            "homeUrl": "https://hentaienvy.com"
-          },
-          {
             "id": "351350516671223209",
             "name": "HentaiEnvy",
             "language": "es",
-            "homeUrl": "https://hentaienvy.com"
-          },
-          {
-            "id": "1191404418837235865",
-            "name": "HentaiEnvy",
-            "language": "fr",
-            "homeUrl": "https://hentaienvy.com"
-          },
-          {
-            "id": "2611030308394588473",
-            "name": "HentaiEnvy",
-            "language": "ko",
-            "homeUrl": "https://hentaienvy.com"
-          },
-          {
-            "id": "2455783957781415791",
-            "name": "HentaiEnvy",
-            "language": "de",
-            "homeUrl": "https://hentaienvy.com"
-          },
-          {
-            "id": "6651113074608915226",
-            "name": "HentaiEnvy",
-            "language": "ru",
             "homeUrl": "https://hentaienvy.com"
           },
           {
@@ -959,39 +911,9 @@
             "homeUrl": "https://hentaiera.com"
           },
           {
-            "id": "2492666945996599997",
-            "name": "HentaiEra",
-            "language": "ja",
-            "homeUrl": "https://hentaiera.com"
-          },
-          {
             "id": "1720815810677381837",
             "name": "HentaiEra",
             "language": "es",
-            "homeUrl": "https://hentaiera.com"
-          },
-          {
-            "id": "6887659515539839354",
-            "name": "HentaiEra",
-            "language": "fr",
-            "homeUrl": "https://hentaiera.com"
-          },
-          {
-            "id": "5930644847758440964",
-            "name": "HentaiEra",
-            "language": "ko",
-            "homeUrl": "https://hentaiera.com"
-          },
-          {
-            "id": "1901100795183424105",
-            "name": "HentaiEra",
-            "language": "de",
-            "homeUrl": "https://hentaiera.com"
-          },
-          {
-            "id": "4966955732363898584",
-            "name": "HentaiEra",
-            "language": "ru",
             "homeUrl": "https://hentaiera.com"
           },
           {
@@ -1053,6 +975,12 @@
             "homeUrl": "https://hentaihand.com"
           },
           {
+            "id": "7302549142935671434",
+            "name": "HentaiHand",
+            "language": "other",
+            "homeUrl": "https://hentaihand.com"
+          },
+          {
             "id": "1049245690865797006",
             "name": "HentaiHand",
             "language": "es",
@@ -1105,39 +1033,9 @@
             "homeUrl": "https://hentaizap.com"
           },
           {
-            "id": "6555947477839387123",
-            "name": "HentaiZap",
-            "language": "ja",
-            "homeUrl": "https://hentaizap.com"
-          },
-          {
             "id": "4825793506555725623",
             "name": "HentaiZap",
             "language": "es",
-            "homeUrl": "https://hentaizap.com"
-          },
-          {
-            "id": "7896453910191786163",
-            "name": "HentaiZap",
-            "language": "fr",
-            "homeUrl": "https://hentaizap.com"
-          },
-          {
-            "id": "9190914504602528025",
-            "name": "HentaiZap",
-            "language": "ko",
-            "homeUrl": "https://hentaizap.com"
-          },
-          {
-            "id": "1397842818609440667",
-            "name": "HentaiZap",
-            "language": "de",
-            "homeUrl": "https://hentaizap.com"
-          },
-          {
-            "id": "6614026304171193007",
-            "name": "HentaiZap",
-            "language": "ru",
             "homeUrl": "https://hentaizap.com"
           },
           {
@@ -1181,21 +1079,9 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8779183423368672304",
-            "name": "HOLONOMETRIA",
-            "language": "ja",
-            "homeUrl": "https://holoearth.com"
-          },
-          {
             "id": "1334492919632049277",
             "name": "HOLONOMETRIA",
             "language": "en",
-            "homeUrl": "https://holoearth.com"
-          },
-          {
-            "id": "5054301488874110968",
-            "name": "HOLONOMETRIA",
-            "language": "id",
             "homeUrl": "https://holoearth.com"
           }
         ]
@@ -1213,12 +1099,6 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "8586216664933826829",
-            "name": "Honeytoon",
-            "language": "de",
-            "homeUrl": "https://honeytoon.com"
-          },
-          {
             "id": "1063521896373496908",
             "name": "Honeytoon",
             "language": "en",
@@ -1228,24 +1108,6 @@
             "id": "5514199583083468982",
             "name": "Honeytoon",
             "language": "es",
-            "homeUrl": "https://honeytoon.com"
-          },
-          {
-            "id": "6559632390565356882",
-            "name": "Honeytoon",
-            "language": "fr",
-            "homeUrl": "https://honeytoon.com"
-          },
-          {
-            "id": "9071118557363497394",
-            "name": "Honeytoon",
-            "language": "it",
-            "homeUrl": "https://honeytoon.com"
-          },
-          {
-            "id": "7482415595909557945",
-            "name": "Honeytoon",
-            "language": "pt-BR",
             "homeUrl": "https://honeytoon.com"
           }
         ]
@@ -1269,39 +1131,9 @@
             "homeUrl": "https://imhentai.xxx"
           },
           {
-            "id": "2843704102372436364",
-            "name": "IMHentai",
-            "language": "ja",
-            "homeUrl": "https://imhentai.xxx"
-          },
-          {
             "id": "1600533831542201953",
             "name": "IMHentai",
             "language": "es",
-            "homeUrl": "https://imhentai.xxx"
-          },
-          {
-            "id": "6518732459102419415",
-            "name": "IMHentai",
-            "language": "fr",
-            "homeUrl": "https://imhentai.xxx"
-          },
-          {
-            "id": "520535890722709208",
-            "name": "IMHentai",
-            "language": "ko",
-            "homeUrl": "https://imhentai.xxx"
-          },
-          {
-            "id": "341676138799608238",
-            "name": "IMHentai",
-            "language": "de",
-            "homeUrl": "https://imhentai.xxx"
-          },
-          {
-            "id": "7505608677115153818",
-            "name": "IMHentai",
-            "language": "ru",
             "homeUrl": "https://imhentai.xxx"
           },
           {
@@ -1329,12 +1161,6 @@
             "name": "izneo",
             "language": "en",
             "homeUrl": "https://www.izneo.com/en/webtoon"
-          },
-          {
-            "id": "1002111777562806129",
-            "name": "izneo",
-            "language": "fr",
-            "homeUrl": "https://www.izneo.com/fr/webtoon"
           }
         ]
       },
@@ -1517,61 +1343,6 @@
         ]
       },
       {
-        "name": "Komga",
-        "packageName": "eu.kanade.tachiyomi.extension.all.komga",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.komga-v1.4.65.apk",
-          "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.komga.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "65",
-        "versionName": "1.4.65",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4508733312114627536",
-            "name": "Komga",
-            "language": "all"
-          },
-          {
-            "id": "8074481155021144106",
-            "name": "Komga (2)",
-            "language": "all"
-          },
-          {
-            "id": "5132811728275817394",
-            "name": "Komga (3)",
-            "language": "all"
-          }
-        ]
-      },
-      {
-        "name": "LANraragi",
-        "packageName": "eu.kanade.tachiyomi.extension.all.lanraragi",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.lanraragi-v1.4.21.apk",
-          "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.lanraragi.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "21",
-        "versionName": "1.4.21",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4482480338677079857",
-            "name": "LANraragi (1)",
-            "language": "all",
-            "homeUrl": "http://127.0.0.1:3000"
-          },
-          {
-            "id": "6188058704030343819",
-            "name": "LANraragi (2)",
-            "language": "all",
-            "homeUrl": "http://127.0.0.1:3000"
-          }
-        ]
-      },
-      {
         "name": "League of Legends",
         "packageName": "eu.kanade.tachiyomi.extension.all.leagueoflegends",
         "resources": {
@@ -1590,16 +1361,94 @@
             "homeUrl": "https://universe.leagueoflegends.com/en_us/comic/"
           },
           {
+            "id": "380479987909263478",
+            "name": "League of Legends",
+            "language": "de",
+            "homeUrl": "https://universe.leagueoflegends.com/de_de/comic/"
+          },
+          {
             "id": "2505034801993260082",
             "name": "League of Legends",
             "language": "es",
             "homeUrl": "https://universe.leagueoflegends.com/es_es/comic/"
           },
           {
+            "id": "8921189687191630727",
+            "name": "League of Legends",
+            "language": "fr",
+            "homeUrl": "https://universe.leagueoflegends.com/fr_fr/comic/"
+          },
+          {
+            "id": "2993141237027207546",
+            "name": "League of Legends",
+            "language": "it",
+            "homeUrl": "https://universe.leagueoflegends.com/it_it/comic/"
+          },
+          {
+            "id": "4102855915741272173",
+            "name": "League of Legends",
+            "language": "pl",
+            "homeUrl": "https://universe.leagueoflegends.com/pl_pl/comic/"
+          },
+          {
+            "id": "3431750855616467337",
+            "name": "League of Legends",
+            "language": "el",
+            "homeUrl": "https://universe.leagueoflegends.com/el_gr/comic/"
+          },
+          {
+            "id": "8175862906648984382",
+            "name": "League of Legends",
+            "language": "ro",
+            "homeUrl": "https://universe.leagueoflegends.com/ro_ro/comic/"
+          },
+          {
+            "id": "8553752347472368081",
+            "name": "League of Legends",
+            "language": "hu",
+            "homeUrl": "https://universe.leagueoflegends.com/hu_hu/comic/"
+          },
+          {
+            "id": "241129525014815798",
+            "name": "League of Legends",
+            "language": "cs",
+            "homeUrl": "https://universe.leagueoflegends.com/cs_cz/comic/"
+          },
+          {
             "id": "3236903197935016602",
             "name": "League of Legends",
             "language": "es-419",
             "homeUrl": "https://universe.leagueoflegends.com/es_mx/comic/"
+          },
+          {
+            "id": "7646731134152168219",
+            "name": "League of Legends",
+            "language": "pt-BR",
+            "homeUrl": "https://universe.leagueoflegends.com/pt_br/comic/"
+          },
+          {
+            "id": "1617144019668124895",
+            "name": "League of Legends",
+            "language": "ja",
+            "homeUrl": "https://universe.leagueoflegends.com/ja_jp/comic/"
+          },
+          {
+            "id": "6359895141227528344",
+            "name": "League of Legends",
+            "language": "ru",
+            "homeUrl": "https://universe.leagueoflegends.com/ru_ru/comic/"
+          },
+          {
+            "id": "4983763186502997670",
+            "name": "League of Legends",
+            "language": "tr",
+            "homeUrl": "https://universe.leagueoflegends.com/tr_tr/comic/"
+          },
+          {
+            "id": "1822275077186160208",
+            "name": "League of Legends",
+            "language": "ko",
+            "homeUrl": "https://universe.leagueoflegends.com/ko_kr/comic/"
           }
         ]
       },
@@ -1607,12 +1456,12 @@
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.11.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.lunaranime-v1.4.12.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.lunaranime.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "versionCode": "12",
+        "versionName": "1.4.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1628,36 +1477,6 @@
             "homeUrl": "https://lunaranime.ru"
           },
           {
-            "id": "3699764450470657348",
-            "name": "Lunar Manga",
-            "language": "ar",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "2698159736988588223",
-            "name": "Lunar Manga",
-            "language": "bg",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "3551931974861576783",
-            "name": "Lunar Manga",
-            "language": "bn",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "547003087261446586",
-            "name": "Lunar Manga",
-            "language": "da",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "4964257310156473044",
-            "name": "Lunar Manga",
-            "language": "de",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
             "id": "215773824303536035",
             "name": "Lunar Manga",
             "language": "es",
@@ -1667,144 +1486,6 @@
             "id": "4595247773355584967",
             "name": "Lunar Manga",
             "language": "es-419",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "7749937618675947100",
-            "name": "Lunar Manga",
-            "language": "fa",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "793390858613993949",
-            "name": "Lunar Manga",
-            "language": "fi",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "8304537992959679621",
-            "name": "Lunar Manga",
-            "language": "fr",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "4939477701699344583",
-            "name": "Lunar Manga",
-            "language": "he",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "4529330646808421343",
-            "name": "Lunar Manga",
-            "language": "hi",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "8130073422666383933",
-            "name": "Lunar Manga",
-            "language": "id",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "8276119821263625468",
-            "name": "Lunar Manga",
-            "language": "it",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "2848743514286834588",
-            "name": "Lunar Manga",
-            "language": "ja",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "5973585434561103442",
-            "name": "Lunar Manga",
-            "language": "ko",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "1272917377169479980",
-            "name": "Lunar Manga",
-            "language": "ms",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "568631194803448549",
-            "name": "Lunar Manga",
-            "language": "nl",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "1567267056564602747",
-            "name": "Lunar Manga",
-            "language": "no",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "89188894348015097",
-            "name": "Lunar Manga",
-            "language": "pl",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "690969786104967218",
-            "name": "Lunar Manga",
-            "language": "pt",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "1702733805309857480",
-            "name": "Lunar Manga",
-            "language": "pt-BR",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "4798553287209680620",
-            "name": "Lunar Manga",
-            "language": "ru",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "4407345724470685258",
-            "name": "Lunar Manga",
-            "language": "sv",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "3149622876127128169",
-            "name": "Lunar Manga",
-            "language": "th",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "6989036438623575060",
-            "name": "Lunar Manga",
-            "language": "tl",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "3881169888283649510",
-            "name": "Lunar Manga",
-            "language": "tr",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "3227262950343562837",
-            "name": "Lunar Manga",
-            "language": "ur",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "4976223882601884801",
-            "name": "Lunar Manga",
-            "language": "vi",
-            "homeUrl": "https://lunaranime.ru"
-          },
-          {
-            "id": "3021093696465448973",
-            "name": "Lunar Manga",
-            "language": "zh",
             "homeUrl": "https://lunaranime.ru"
           }
         ]
@@ -1869,12 +1550,6 @@
             "id": "8666919453546333116",
             "name": "Magical Translators",
             "language": "es",
-            "homeUrl": "https://mahoushoujobu.com"
-          },
-          {
-            "id": "1289819859468493242",
-            "name": "Magical Translators",
-            "language": "pl",
             "homeUrl": "https://mahoushoujobu.com"
           }
         ]
@@ -1961,7 +1636,7 @@
         "extensionLib": "1.4",
         "versionCode": "210",
         "versionName": "1.4.210",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "2499283573021220255",
@@ -2058,30 +1733,6 @@
             "name": "MangaFire",
             "language": "es-419",
             "homeUrl": "https://mangafire.to"
-          },
-          {
-            "id": "6228021941803932286",
-            "name": "MangaFire",
-            "language": "fr",
-            "homeUrl": "https://mangafire.to"
-          },
-          {
-            "id": "524110931382140732",
-            "name": "MangaFire",
-            "language": "ja",
-            "homeUrl": "https://mangafire.to"
-          },
-          {
-            "id": "758400875161895515",
-            "name": "MangaFire",
-            "language": "pt",
-            "homeUrl": "https://mangafire.to"
-          },
-          {
-            "id": "7842137233968841729",
-            "name": "MangaFire",
-            "language": "pt-BR",
-            "homeUrl": "https://mangafire.to"
           }
         ]
       },
@@ -2101,12 +1752,6 @@
             "id": "7450882931813509619",
             "name": "MangaForFree.net",
             "language": "en",
-            "homeUrl": "https://mangaforfree.net"
-          },
-          {
-            "id": "2115363546279045008",
-            "name": "MangaForFree.net",
-            "language": "ko",
             "homeUrl": "https://mangaforfree.net"
           },
           {
@@ -2139,48 +1784,6 @@
             "id": "1286073245950890830",
             "name": "MANGA Plus by SHUEISHA",
             "language": "es",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "7642759409549978864",
-            "name": "MANGA Plus by SHUEISHA",
-            "language": "fr",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "932564577108614127",
-            "name": "MANGA Plus by SHUEISHA",
-            "language": "id",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "3444662672352788181",
-            "name": "MANGA Plus by SHUEISHA",
-            "language": "pt-BR",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "3520485566708512181",
-            "name": "MANGA Plus by SHUEISHA",
-            "language": "ru",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "6345211913721743017",
-            "name": "MANGA Plus by SHUEISHA",
-            "language": "th",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "4696259977267090434",
-            "name": "MANGA Plus by SHUEISHA",
-            "language": "vi",
-            "homeUrl": "https://mangaplus.shueisha.co.jp"
-          },
-          {
-            "id": "1893513843840146580",
-            "name": "MANGA Plus by SHUEISHA",
-            "language": "de",
             "homeUrl": "https://mangaplus.shueisha.co.jp"
           }
         ]
@@ -2227,12 +1830,6 @@
             "id": "8358097306709528603",
             "name": "MangaTaro",
             "language": "en",
-            "homeUrl": "https://mangataro.org"
-          },
-          {
-            "id": "1304052096857017174",
-            "name": "MangaTaro",
-            "language": "pt-BR",
             "homeUrl": "https://mangataro.org"
           }
         ]
@@ -2315,12 +1912,6 @@
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "797946349800265191",
-            "name": "Manhuarm",
-            "language": "ar",
-            "homeUrl": "https://manhuarmtl.com"
-          },
-          {
             "id": "7690709834650404718",
             "name": "Manhuarm",
             "language": "en",
@@ -2330,30 +1921,6 @@
             "id": "8547169224512757621",
             "name": "Manhuarm",
             "language": "es",
-            "homeUrl": "https://manhuarmtl.com"
-          },
-          {
-            "id": "8537659881437820380",
-            "name": "Manhuarm",
-            "language": "fr",
-            "homeUrl": "https://manhuarmtl.com"
-          },
-          {
-            "id": "6421419166134585378",
-            "name": "Manhuarm",
-            "language": "id",
-            "homeUrl": "https://manhuarmtl.com"
-          },
-          {
-            "id": "7611240442736670513",
-            "name": "Manhuarm",
-            "language": "it",
-            "homeUrl": "https://manhuarmtl.com"
-          },
-          {
-            "id": "5618121635049025093",
-            "name": "Manhuarm",
-            "language": "pt-BR",
             "homeUrl": "https://manhuarmtl.com"
           }
         ]
@@ -2374,12 +1941,6 @@
             "id": "4841602236575491202",
             "name": "Manhwa18.cc",
             "language": "en",
-            "homeUrl": "https://manhwa18.cc"
-          },
-          {
-            "id": "6864643444164576223",
-            "name": "Manhwa18.cc",
-            "language": "ko",
             "homeUrl": "https://manhwa18.cc"
           },
           {
@@ -2453,12 +2014,6 @@
             "name": "ManhwaClub.net",
             "language": "en",
             "homeUrl": "https://manhwaclub.net"
-          },
-          {
-            "id": "3482736208073357647",
-            "name": "ManhwaClub.net",
-            "language": "ko",
-            "homeUrl": "https://manhwaclub.net"
           }
         ]
       },
@@ -2525,12 +2080,6 @@
             "name": "MayoTune",
             "language": "en",
             "homeUrl": "https://mayochuu.xyz"
-          },
-          {
-            "id": "6644592287307303034",
-            "name": "MayoTune",
-            "language": "ja",
-            "homeUrl": "https://mayochuu.xyz"
           }
         ]
       },
@@ -2570,12 +2119,6 @@
             "id": "2886862669347225416",
             "name": "Miau Scan",
             "language": "es",
-            "homeUrl": "https://leemiau.com"
-          },
-          {
-            "id": "6705370418823255358",
-            "name": "Miau Scan",
-            "language": "pt-BR",
             "homeUrl": "https://leemiau.com"
           }
         ]
@@ -2697,129 +2240,15 @@
             "homeUrl": "https://nhentai.com"
           },
           {
-            "id": "8504927104562262528",
-            "name": "nHentai.com (unoriginal)",
-            "language": "zh",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
             "id": "5591830863732393712",
             "name": "nHentai.com (unoriginal)",
             "language": "en",
             "homeUrl": "https://nhentai.com"
           },
           {
-            "id": "8148939977393580424",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ja",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
             "id": "5817327335315373850",
             "name": "nHentai.com (unoriginal)",
             "language": "other",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "1773653553472615327",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ar",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "4984830439465026319",
-            "name": "nHentai.com (unoriginal)",
-            "language": "jv",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "5355858532116403799",
-            "name": "nHentai.com (unoriginal)",
-            "language": "bg",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "1144495813995437124",
-            "name": "nHentai.com (unoriginal)",
-            "language": "cs",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "1872394332504252034",
-            "name": "nHentai.com (unoriginal)",
-            "language": "uk",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "8189813976393792973",
-            "name": "nHentai.com (unoriginal)",
-            "language": "sk",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "5464986831390726554",
-            "name": "nHentai.com (unoriginal)",
-            "language": "eo",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "3640686393110022124",
-            "name": "nHentai.com (unoriginal)",
-            "language": "mn",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "6750311061190710079",
-            "name": "nHentai.com (unoriginal)",
-            "language": "la",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "8306394815737846919",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ceb",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "4352420071178605258",
-            "name": "nHentai.com (unoriginal)",
-            "language": "tl",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "8555144793292118035",
-            "name": "nHentai.com (unoriginal)",
-            "language": "fi",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "6423038744951581148",
-            "name": "nHentai.com (unoriginal)",
-            "language": "tr",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "1001519209586733699",
-            "name": "nHentai.com (unoriginal)",
-            "language": "sr",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "6038464145206378323",
-            "name": "nHentai.com (unoriginal)",
-            "language": "el",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "6508316838749142103",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ko",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "8274834393370700931",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ro",
             "homeUrl": "https://nhentai.com"
           }
         ]
@@ -3010,30 +2439,6 @@
             "id": "2644848669022862951",
             "name": "OniSaga",
             "language": "en",
-            "homeUrl": "https://onisaga.com"
-          },
-          {
-            "id": "5431409047697637162",
-            "name": "OniSaga",
-            "language": "fr",
-            "homeUrl": "https://onisaga.com"
-          },
-          {
-            "id": "5205171098698400162",
-            "name": "OniSaga",
-            "language": "ja",
-            "homeUrl": "https://onisaga.com"
-          },
-          {
-            "id": "5348722599884573141",
-            "name": "OniSaga",
-            "language": "pt-BR",
-            "homeUrl": "https://onisaga.com"
-          },
-          {
-            "id": "3793216737618759530",
-            "name": "OniSaga",
-            "language": "pt",
             "homeUrl": "https://onisaga.com"
           },
           {
@@ -3275,12 +2680,6 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "8111958912268118735",
-            "name": "Sandra und Woo",
-            "language": "de",
-            "homeUrl": "https://www.sandraandwoo.com"
-          },
-          {
             "id": "8566345145646340492",
             "name": "Sandra and Woo",
             "language": "en",
@@ -3417,18 +2816,6 @@
             "name": "Tappytoon",
             "language": "en",
             "homeUrl": "https://www.tappytoon.com/en"
-          },
-          {
-            "id": "8311223969496865438",
-            "name": "Tappytoon",
-            "language": "fr",
-            "homeUrl": "https://www.tappytoon.com/fr"
-          },
-          {
-            "id": "8708489334089410870",
-            "name": "Tappytoon",
-            "language": "de",
-            "homeUrl": "https://www.tappytoon.com/de"
           }
         ]
       },
@@ -3445,12 +2832,6 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "4379246890416497052",
-            "name": "The Library of Ohara",
-            "language": "id",
-            "homeUrl": "https://thelibraryofohara.com"
-          },
-          {
             "id": "2727140669803764425",
             "name": "The Library of Ohara",
             "language": "en",
@@ -3460,24 +2841,6 @@
             "id": "1081764220356482621",
             "name": "The Library of Ohara",
             "language": "es",
-            "homeUrl": "https://thelibraryofohara.com"
-          },
-          {
-            "id": "282587253597010652",
-            "name": "The Library of Ohara",
-            "language": "it",
-            "homeUrl": "https://thelibraryofohara.com"
-          },
-          {
-            "id": "8205252065972088770",
-            "name": "The Library of Ohara",
-            "language": "ar",
-            "homeUrl": "https://thelibraryofohara.com"
-          },
-          {
-            "id": "7219503638837099253",
-            "name": "The Library of Ohara",
-            "language": "fr",
             "homeUrl": "https://thelibraryofohara.com"
           }
         ]
@@ -3501,18 +2864,6 @@
             "homeUrl": "https://global.toomics.com"
           },
           {
-            "id": "2191753978421234924",
-            "name": "Toomics (Only free chapters)",
-            "language": "zh-Hans",
-            "homeUrl": "https://global.toomics.com"
-          },
-          {
-            "id": "371640888113435809",
-            "name": "Toomics (Only free chapters)",
-            "language": "zh-Hant",
-            "homeUrl": "https://global.toomics.com"
-          },
-          {
             "id": "7362369816539610504",
             "name": "Toomics (Only free chapters)",
             "language": "es-419",
@@ -3522,30 +2873,6 @@
             "id": "4863693274136077953",
             "name": "Toomics (Only free chapters)",
             "language": "es",
-            "homeUrl": "https://global.toomics.com"
-          },
-          {
-            "id": "7652402685655897221",
-            "name": "Toomics (Only free chapters)",
-            "language": "it",
-            "homeUrl": "https://global.toomics.com"
-          },
-          {
-            "id": "4230797637510582729",
-            "name": "Toomics (Only free chapters)",
-            "language": "de",
-            "homeUrl": "https://global.toomics.com"
-          },
-          {
-            "id": "2289891939341407590",
-            "name": "Toomics (Only free chapters)",
-            "language": "fr",
-            "homeUrl": "https://global.toomics.com"
-          },
-          {
-            "id": "4488498756724948818",
-            "name": "Toomics (Only free chapters)",
-            "language": "pt-BR",
             "homeUrl": "https://global.toomics.com"
           }
         ]
@@ -3661,39 +2988,9 @@
             "homeUrl": "https://www.webtoons.com"
           },
           {
-            "id": "8749627068478740298",
-            "name": "Webtoons.com",
-            "language": "id",
-            "homeUrl": "https://www.webtoons.com"
-          },
-          {
-            "id": "3330861233813615504",
-            "name": "Webtoons.com",
-            "language": "th",
-            "homeUrl": "https://www.webtoons.com"
-          },
-          {
             "id": "8664735734660636295",
             "name": "Webtoons.com",
             "language": "es",
-            "homeUrl": "https://www.webtoons.com"
-          },
-          {
-            "id": "8251758253314457060",
-            "name": "Webtoons.com",
-            "language": "fr",
-            "homeUrl": "https://www.webtoons.com"
-          },
-          {
-            "id": "2959982438613576472",
-            "name": "Webtoons.com",
-            "language": "zh-Hant",
-            "homeUrl": "https://www.webtoons.com"
-          },
-          {
-            "id": "1486822823904297379",
-            "name": "Webtoons.com",
-            "language": "de",
             "homeUrl": "https://www.webtoons.com"
           }
         ]
@@ -3742,12 +3039,12 @@
         "name": "XGMN",
         "packageName": "eu.kanade.tachiyomi.extension.all.xgmn",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.xgmn-v1.4.3.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.xgmn-v1.4.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.xgmn.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
+        "versionCode": "4",
+        "versionName": "1.4.4",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -3795,32 +3092,6 @@
             "name": "Xiutaku",
             "language": "all",
             "homeUrl": "https://xiutaku.com"
-          }
-        ]
-      },
-      {
-        "name": "xkcd",
-        "packageName": "eu.kanade.tachiyomi.extension.all.xkcd",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-all.xkcd-v1.4.16.apk",
-          "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.xkcd.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "16",
-        "versionName": "1.4.16",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1538249443376436084",
-            "name": "xkcd",
-            "language": "en",
-            "homeUrl": "https://xkcd.com"
-          },
-          {
-            "id": "6901469937775055420",
-            "name": "xkcd",
-            "language": "es",
-            "homeUrl": "https://es.xkcd.com"
           }
         ]
       },
@@ -3896,12 +3167,6 @@
         "versionName": "1.4.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
-          {
-            "id": "9170389107417152397",
-            "name": "YSK Comics",
-            "language": "ar",
-            "homeUrl": "https://www.ysk-comics.com"
-          },
           {
             "id": "177448809266948921",
             "name": "YSK Comics",
@@ -4814,12 +4079,12 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.32.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.comix-v1.4.33.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.comix.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
+        "versionCode": "33",
+        "versionName": "1.4.33",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -4834,12 +4099,12 @@
         "name": "Coolmic",
         "packageName": "eu.kanade.tachiyomi.extension.en.coolmic",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.coolmic-v1.4.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.coolmic-v1.4.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.coolmic.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
+        "versionCode": "3",
+        "versionName": "1.4.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -5340,7 +4605,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "3383118804501081522",
@@ -6580,7 +5845,7 @@
         "extensionLib": "1.4",
         "versionCode": "33",
         "versionName": "1.4.33",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "2598579144085032375",
@@ -6780,7 +6045,7 @@
         "extensionLib": "1.4",
         "versionCode": "1",
         "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "809292874146405153",
@@ -7274,12 +6539,12 @@
         "name": "Mangabat",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangabat",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangabat-v1.4.20.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangabat-v1.4.21.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangabat.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "20",
-        "versionName": "1.4.20",
+        "versionCode": "21",
+        "versionName": "1.4.21",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -7874,12 +7139,12 @@
         "name": "Mangakakalot",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangakakalot",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangakakalot-v1.4.21.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangakakalot-v1.4.22.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangakakalot.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "21",
-        "versionName": "1.4.21",
+        "versionCode": "22",
+        "versionName": "1.4.22",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -7991,26 +7256,6 @@
         ]
       },
       {
-        "name": "Mangamo",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangamo",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangamo-v1.4.7.apk",
-          "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangamo.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "7",
-        "versionName": "1.4.7",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6458420328066857684",
-            "name": "Mangamo",
-            "language": "en",
-            "homeUrl": "https://www.mangamo.com"
-          }
-        ]
-      },
-      {
         "name": "Comivex",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangamob",
         "resources": {
@@ -8054,12 +7299,12 @@
         "name": "Manganato",
         "packageName": "eu.kanade.tachiyomi.extension.en.manganelo",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manganelo-v1.4.18.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.manganelo-v1.4.19.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.manganelo.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "18",
-        "versionName": "1.4.18",
+        "versionCode": "19",
+        "versionName": "1.4.19",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -8214,12 +7459,12 @@
         "name": "MangaReader.in",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangareadercc",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangareadercc-v1.4.4.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangareadercc-v1.4.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangareadercc.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
+        "versionCode": "6",
+        "versionName": "1.4.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -8287,6 +7532,26 @@
             "name": "Mangasushi",
             "language": "en",
             "homeUrl": "https://mangasushi.org"
+          }
+        ]
+      },
+      {
+        "name": "Mangatellers",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangatellers",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.mangatellers-v1.4.5.apk",
+          "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.mangatellers.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "3478835885302345699",
+            "name": "Mangatellers",
+            "language": "en",
+            "homeUrl": "https://reader.mangatellers.gr"
           }
         ]
       },
@@ -10286,7 +9551,7 @@
             "id": "8061953015808280611",
             "name": "ReadComicOnline",
             "language": "en",
-            "homeUrl": "https://rcostation.xyz"
+            "homeUrl": "https://readcomiconline.li"
           }
         ]
       },
@@ -10534,13 +9799,13 @@
         "name": "ReiManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.reimanga",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.reimanga-v1.4.1.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.reimanga-v1.4.2.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.reimanga.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "versionCode": "2",
+        "versionName": "1.4.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "5627909338430537186",
@@ -11687,32 +10952,6 @@
             "name": "vgperson",
             "language": "en",
             "homeUrl": "https://vgperson.com/other/mangaviewer.php"
-          }
-        ]
-      },
-      {
-        "name": "VIZ",
-        "packageName": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-en.vizshonenjump-v1.4.25.apk",
-          "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.en.vizshonenjump.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "25",
-        "versionName": "1.4.25",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "2727926930665642563",
-            "name": "VIZ Shonen Jump",
-            "language": "en",
-            "homeUrl": "https://www.viz.com"
-          },
-          {
-            "id": "2964046845727023397",
-            "name": "VIZ Manga",
-            "language": "en",
-            "homeUrl": "https://www.viz.com"
           }
         ]
       },
@@ -13880,12 +13119,12 @@
         "name": "Rncalation",
         "packageName": "eu.kanade.tachiyomi.extension.es.nartag",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.nartag-v1.4.61.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.nartag-v1.4.63.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.nartag.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "61",
-        "versionName": "1.4.61",
+        "versionCode": "63",
+        "versionName": "1.4.63",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -14020,12 +13259,12 @@
         "name": "Olympus Scanlation",
         "packageName": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.olympusscanlation-v1.4.20.apk",
+          "apkUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/apk/tachiyomi-es.olympusscanlation-v1.4.22.apk",
           "iconUrl": "https://raw.githubusercontent.com/vtorres-t/ext/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.es.olympusscanlation.png"
         },
         "extensionLib": "1.4",
-        "versionCode": "20",
-        "versionName": "1.4.20",
+        "versionCode": "22",
+        "versionName": "1.4.22",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
