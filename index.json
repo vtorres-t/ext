@@ -6989,6 +6989,26 @@
         ]
       },
       {
+        "name": "Mangago",
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangago",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangago-v1.4.36.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/icon/eu.kanade.tachiyomi.extension.en.mangago.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "36",
+        "versionName": "1.4.36",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2470059397662084186",
+            "name": "Mangago",
+            "language": "en",
+            "homeUrl": "https://www.mangago.me"
+          }
+        ]
+      },
+      {
         "name": "MangaGo.fun",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangagofun",
         "resources": {
@@ -11992,6 +12012,26 @@
             "name": "Dynasty",
             "language": "es",
             "homeUrl": "https://manhuako.net"
+          }
+        ]
+      },
+      {
+        "name": "Emperor Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.emperorscan-v1.4.65.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/icon/eu.kanade.tachiyomi.extension.es.emperorscan.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "65",
+        "versionName": "1.4.65",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "4562754350961964148",
+            "name": "Emperor Scan",
+            "language": "es",
+            "homeUrl": "https://imperiomanhua.com"
           }
         ]
       },
