@@ -11981,27 +11981,6 @@
         ]
       },
       {
-        "name": "Lolivault",
-        "packageName": "eu.kanade.tachiyomi.extension.es.lolivault",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.lolivault-v1.6.6.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.lolivault-v1.6.6.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "6",
-        "versionName": "1.6.6",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "1420213267345607410",
-            "name": "Lolivault",
-            "language": "es",
-            "homeUrl": "https://lector.lolivault.net"
-          }
-        ]
-      },
-      {
         "name": "Luna Pieces",
         "packageName": "eu.kanade.tachiyomi.extension.es.lunapieces",
         "resources": {
