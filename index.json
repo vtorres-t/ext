@@ -3398,13 +3398,13 @@
         "name": "Atsumaru",
         "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.atsumaru-v1.4.19.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.atsumaru-v1.6.20.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.atsumaru-v1.4.19.jar"
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.atsumaru-v1.6.20.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "19",
-        "versionName": "1.4.19",
+        "extensionLib": "1.6",
+        "versionCode": "20",
+        "versionName": "1.6.20",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -6537,13 +6537,13 @@
         "name": "Mangadotnet",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangadotnet-v1.6.15.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangadotnet-v1.6.16.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangadotnet-v1.6.15.jar"
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangadotnet-v1.6.16.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "15",
-        "versionName": "1.6.15",
+        "versionCode": "16",
+        "versionName": "1.6.16",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -7597,13 +7597,13 @@
         "name": "Manhwa18",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhwa18",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.manhwa18-v1.4.13.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.manhwa18-v1.4.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/manhwa18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.manhwa18-v1.4.13.jar"
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.manhwa18-v1.4.14.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "13",
-        "versionName": "1.4.13",
+        "versionCode": "14",
+        "versionName": "1.4.14",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
