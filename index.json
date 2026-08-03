@@ -3,8 +3,8 @@
   "badgeLabel": "VT",
   "signingKey": "DE0FDC4BC621BC9F68495CB030F4F23421D3257BA9A6DEBF3295C4076841C77B",
   "contact": {
-    "website": "https://keiyoushi.github.io",
-    "discord": "https://discord.gg/3FbCpdKbdY"
+    "website": "https://github.io",
+    "discord": "https://discord.gg"
   },
   "extensionList": {
     "extensions": [
@@ -26,39 +26,6 @@
             "name": "AHottie",
             "language": "all",
             "homeUrl": "https://ahottie.top"
-          }
-        ]
-      },
-      {
-        "name": "Akuma",
-        "packageName": "eu.kanade.tachiyomi.extension.all.akuma",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.akuma-v1.4.10.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/akuma/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.akuma-v1.4.10.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "1843646695111412994",
-            "name": "Akuma",
-            "language": "all",
-            "homeUrl": "https://akuma.moe"
-          },
-          {
-            "id": "8524619729907384865",
-            "name": "Akuma",
-            "language": "en",
-            "homeUrl": "https://akuma.moe"
-          },
-          {
-            "id": "5371778608318819884",
-            "name": "Akuma",
-            "language": "es",
-            "homeUrl": "https://akuma.moe"
           }
         ]
       },
@@ -356,27 +323,6 @@
         ]
       },
       {
-        "name": "Commit Strip",
-        "packageName": "eu.kanade.tachiyomi.extension.all.commitstrip",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.commitstrip-v1.4.4.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/commitstrip/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.commitstrip-v1.4.4.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "4",
-        "versionName": "1.4.4",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5328240584854276436",
-            "name": "Commit Strip",
-            "language": "en",
-            "homeUrl": "https://www.commitstrip.com"
-          }
-        ]
-      },
-      {
         "name": "Coomer",
         "packageName": "eu.kanade.tachiyomi.extension.all.coomer",
         "resources": {
@@ -469,27 +415,6 @@
             "name": "Danbooru",
             "language": "all",
             "homeUrl": "https://danbooru.donmai.us"
-          }
-        ]
-      },
-      {
-        "name": "DeviantArt",
-        "packageName": "eu.kanade.tachiyomi.extension.all.deviantart",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.deviantart-v1.6.11.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/deviantart/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.deviantart-v1.6.11.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "11",
-        "versionName": "1.6.11",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "5211324870873630158",
-            "name": "DeviantArt",
-            "language": "all",
-            "homeUrl": "https://www.deviantart.com"
           }
         ]
       },
@@ -655,27 +580,6 @@
             "name": "FoamGirl",
             "language": "all",
             "homeUrl": "https://foamgirl.net"
-          }
-        ]
-      },
-      {
-        "name": "FoolSlide Customizable",
-        "packageName": "eu.kanade.tachiyomi.extension.all.foolslidecustomizable",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.foolslidecustomizable-v1.6.6.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/lib-multisrc/foolslide/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.foolslidecustomizable-v1.6.6.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "6",
-        "versionName": "1.6.6",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6351052922295965587",
-            "name": "FoolSlide Customizable",
-            "language": "other",
-            "homeUrl": "https://127.0.0.1"
           }
         ]
       },
@@ -1193,27 +1097,6 @@
         ]
       },
       {
-        "name": "izneo (webtoons)",
-        "packageName": "eu.kanade.tachiyomi.extension.all.izneo",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.izneo-v1.4.8.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/izneo/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.izneo-v1.4.8.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "7160867804476891075",
-            "name": "izneo",
-            "language": "en",
-            "homeUrl": "https://www.izneo.com/en/webtoon"
-          }
-        ]
-      },
-      {
         "name": "JJCOS",
         "packageName": "eu.kanade.tachiyomi.extension.all.jjcos",
         "resources": {
@@ -1414,177 +1297,6 @@
         ]
       },
       {
-        "name": "Komga",
-        "packageName": "eu.kanade.tachiyomi.extension.all.komga",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.komga-v1.4.68.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.komga-v1.4.68.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "68",
-        "versionName": "1.4.68",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4508733312114627536",
-            "name": "Komga",
-            "language": "all",
-            "homeUrl": "https://127.0.0.1:25600"
-          },
-          {
-            "id": "8074481155021144106",
-            "name": "Komga (2)",
-            "language": "all",
-            "homeUrl": "https://127.0.0.1:25600"
-          },
-          {
-            "id": "5132811728275817394",
-            "name": "Komga (3)",
-            "language": "all",
-            "homeUrl": "https://127.0.0.1:25600"
-          }
-        ]
-      },
-      {
-        "name": "LANraragi",
-        "packageName": "eu.kanade.tachiyomi.extension.all.lanraragi",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.lanraragi-v1.4.25.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.lanraragi-v1.4.25.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "25",
-        "versionName": "1.4.25",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4482480338677079857",
-            "name": "LANraragi (1)",
-            "language": "all",
-            "homeUrl": "http://127.0.0.1:3000"
-          },
-          {
-            "id": "6188058704030343819",
-            "name": "LANraragi (2)",
-            "language": "all",
-            "homeUrl": "http://127.0.0.1:3000"
-          }
-        ]
-      },
-      {
-        "name": "League of Legends",
-        "packageName": "eu.kanade.tachiyomi.extension.all.leagueoflegends",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.leagueoflegends-v1.4.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/leagueoflegends/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.leagueoflegends-v1.4.2.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5421383187922044761",
-            "name": "League of Legends",
-            "language": "en",
-            "homeUrl": "https://universe.leagueoflegends.com/en_us/comic/"
-          },
-          {
-            "id": "380479987909263478",
-            "name": "League of Legends",
-            "language": "de",
-            "homeUrl": "https://universe.leagueoflegends.com/de_de/comic/"
-          },
-          {
-            "id": "2505034801993260082",
-            "name": "League of Legends",
-            "language": "es",
-            "homeUrl": "https://universe.leagueoflegends.com/es_es/comic/"
-          },
-          {
-            "id": "8921189687191630727",
-            "name": "League of Legends",
-            "language": "fr",
-            "homeUrl": "https://universe.leagueoflegends.com/fr_fr/comic/"
-          },
-          {
-            "id": "2993141237027207546",
-            "name": "League of Legends",
-            "language": "it",
-            "homeUrl": "https://universe.leagueoflegends.com/it_it/comic/"
-          },
-          {
-            "id": "4102855915741272173",
-            "name": "League of Legends",
-            "language": "pl",
-            "homeUrl": "https://universe.leagueoflegends.com/pl_pl/comic/"
-          },
-          {
-            "id": "3431750855616467337",
-            "name": "League of Legends",
-            "language": "el",
-            "homeUrl": "https://universe.leagueoflegends.com/el_gr/comic/"
-          },
-          {
-            "id": "8175862906648984382",
-            "name": "League of Legends",
-            "language": "ro",
-            "homeUrl": "https://universe.leagueoflegends.com/ro_ro/comic/"
-          },
-          {
-            "id": "8553752347472368081",
-            "name": "League of Legends",
-            "language": "hu",
-            "homeUrl": "https://universe.leagueoflegends.com/hu_hu/comic/"
-          },
-          {
-            "id": "241129525014815798",
-            "name": "League of Legends",
-            "language": "cs",
-            "homeUrl": "https://universe.leagueoflegends.com/cs_cz/comic/"
-          },
-          {
-            "id": "3236903197935016602",
-            "name": "League of Legends",
-            "language": "es-419",
-            "homeUrl": "https://universe.leagueoflegends.com/es_mx/comic/"
-          },
-          {
-            "id": "7646731134152168219",
-            "name": "League of Legends",
-            "language": "pt-BR",
-            "homeUrl": "https://universe.leagueoflegends.com/pt_br/comic/"
-          },
-          {
-            "id": "1617144019668124895",
-            "name": "League of Legends",
-            "language": "ja",
-            "homeUrl": "https://universe.leagueoflegends.com/ja_jp/comic/"
-          },
-          {
-            "id": "6359895141227528344",
-            "name": "League of Legends",
-            "language": "ru",
-            "homeUrl": "https://universe.leagueoflegends.com/ru_ru/comic/"
-          },
-          {
-            "id": "4983763186502997670",
-            "name": "League of Legends",
-            "language": "tr",
-            "homeUrl": "https://universe.leagueoflegends.com/tr_tr/comic/"
-          },
-          {
-            "id": "1822275077186160208",
-            "name": "League of Legends",
-            "language": "ko",
-            "homeUrl": "https://universe.leagueoflegends.com/ko_kr/comic/"
-          }
-        ]
-      },
-      {
         "name": "Lunar Manga",
         "packageName": "eu.kanade.tachiyomi.extension.all.lunaranime",
         "resources": {
@@ -1777,39 +1489,6 @@
             "name": "MangaCrazy",
             "language": "all",
             "homeUrl": "https://mangacrazy.net"
-          }
-        ]
-      },
-      {
-        "name": "MangaDex",
-        "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.mangadex-v1.4.211.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/mangadex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.mangadex-v1.4.211.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "211",
-        "versionName": "1.4.211",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "2499283573021220255",
-            "name": "MangaDex",
-            "language": "en",
-            "homeUrl": "https://mangadex.org"
-          },
-          {
-            "id": "4938773340256184018",
-            "name": "MangaDex",
-            "language": "es-419",
-            "homeUrl": "https://mangadex.org"
-          },
-          {
-            "id": "6400665728063187402",
-            "name": "MangaDex",
-            "language": "es",
-            "homeUrl": "https://mangadex.org"
           }
         ]
       },
@@ -2041,27 +1720,6 @@
             "name": "Manga UP!",
             "language": "en",
             "homeUrl": "https://global.manga-up.com"
-          }
-        ]
-      },
-      {
-        "name": "Mango",
-        "packageName": "eu.kanade.tachiyomi.extension.all.mango",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.mango-v1.4.11.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/mango/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.mango-v1.4.11.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "2882993841250976719",
-            "name": "Mango",
-            "language": "en",
-            "homeUrl": "http://127.0.0.1:9000"
           }
         ]
       },
@@ -2338,39 +1996,6 @@
             "name": "MyReadingManga",
             "language": "es",
             "homeUrl": "https://myreadingmanga.info"
-          }
-        ]
-      },
-      {
-        "name": "NamiComi",
-        "packageName": "eu.kanade.tachiyomi.extension.all.namicomi",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.namicomi-v1.4.6.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/namicomi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.namicomi-v1.4.6.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "6",
-        "versionName": "1.4.6",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6815287454679474132",
-            "name": "NamiComi",
-            "language": "en",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "3720618907480183068",
-            "name": "NamiComi",
-            "language": "es-419",
-            "homeUrl": "https://namicomi.com"
-          },
-          {
-            "id": "7482985666811016125",
-            "name": "NamiComi",
-            "language": "es",
-            "homeUrl": "https://namicomi.com"
           }
         ]
       },
@@ -2933,27 +2558,6 @@
         ]
       },
       {
-        "name": "StashApp",
-        "packageName": "eu.kanade.tachiyomi.extension.all.stashapp",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.stashapp-v1.4.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/stashapp/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.stashapp-v1.4.2.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "4332882684116196542",
-            "name": "StashApp",
-            "language": "all",
-            "homeUrl": "http://localhost:9999"
-          }
-        ]
-      },
-      {
         "name": "Taddy INK (Webtoons)",
         "packageName": "eu.kanade.tachiyomi.extension.all.taddyink",
         "resources": {
@@ -3326,27 +2930,6 @@
         ]
       },
       {
-        "name": "Yabai",
-        "packageName": "eu.kanade.tachiyomi.extension.all.yabai",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.yabai-v1.4.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.yabai-v1.4.3.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "1928970119194827182",
-            "name": "Yabai",
-            "language": "all",
-            "homeUrl": "https://yabai.si"
-          }
-        ]
-      },
-      {
         "name": "Yaoi Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.all.yaoimangaonline",
         "resources": {
@@ -3430,27 +3013,6 @@
             "name": "YSK Comics",
             "language": "en",
             "homeUrl": "https://www.ysk-comics.com"
-          }
-        ]
-      },
-      {
-        "name": "Akai Comic",
-        "packageName": "eu.kanade.tachiyomi.extension.en.akaicomic",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.akaicomic-v1.4.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/akaicomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.akaicomic-v1.4.3.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1987646205658282178",
-            "name": "Akai Comic",
-            "language": "en",
-            "homeUrl": "https://akaicomic.org"
           }
         ]
       },
@@ -3770,27 +3332,6 @@
         ]
       },
       {
-        "name": "Asmodeus Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.asmotoon",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.asmotoon-v1.4.24.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/asmotoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.asmotoon-v1.4.24.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "24",
-        "versionName": "1.4.24",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5258838449396844455",
-            "name": "Asmodeus Scans",
-            "language": "en",
-            "homeUrl": "https://asmotoon.com"
-          }
-        ]
-      },
-      {
         "name": "Assorted Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.assortedscans",
         "resources": {
@@ -3934,27 +3475,6 @@
             "name": "Bakkin",
             "language": "en",
             "homeUrl": "https://bakkin.moe/reader/"
-          }
-        ]
-      },
-      {
-        "name": "Bakkin Self-hosted",
-        "packageName": "eu.kanade.tachiyomi.extension.en.bakkinselfhosted",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.bakkinselfhosted-v1.4.7.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/lib-multisrc/bakkin/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.bakkinselfhosted-v1.4.7.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "7",
-        "versionName": "1.4.7",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6251873330157357206",
-            "name": "Bakkin Self-hosted",
-            "language": "en",
-            "homeUrl": "http://127.0.0.1/"
           }
         ]
       },
@@ -4186,27 +3706,6 @@
             "name": "Clown Corps",
             "language": "en",
             "homeUrl": "https://clowncorps.net"
-          }
-        ]
-      },
-      {
-        "name": "CManhua",
-        "packageName": "eu.kanade.tachiyomi.extension.en.cmanhua",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.cmanhua-v1.4.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/cmanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.cmanhua-v1.4.1.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "8172570803411087010",
-            "name": "CManhua",
-            "language": "en",
-            "homeUrl": "https://cmanhua.com"
           }
         ]
       },
@@ -4530,27 +4029,6 @@
         ]
       },
       {
-        "name": "Danke f\u00fcrs Lesen",
-        "packageName": "eu.kanade.tachiyomi.extension.en.dankefurslesen",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.dankefurslesen-v1.4.7.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/dankefurslesen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.dankefurslesen-v1.4.7.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "7",
-        "versionName": "1.4.7",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "370316150648855996",
-            "name": "Danke f\u00fcrs Lesen",
-            "language": "en",
-            "homeUrl": "https://danke.moe"
-          }
-        ]
-      },
-      {
         "name": "Dark Legacy Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.darklegacycomics",
         "resources": {
@@ -4652,27 +4130,6 @@
             "name": "Decadence Scans",
             "language": "en",
             "homeUrl": "https://reader.decadencescans.com"
-          }
-        ]
-      },
-      {
-        "name": "DFlowScans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.dflowscans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.dflowscans-v1.4.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/dflowscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.dflowscans-v1.4.1.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5731115645938971449",
-            "name": "DFlowScans",
-            "language": "en",
-            "homeUrl": "https://dflow.alwaysdata.net"
           }
         ]
       },
@@ -5160,27 +4617,6 @@
         ]
       },
       {
-        "name": "Firescans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.firescans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.firescans-v1.4.56.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/firescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.firescans-v1.4.56.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "56",
-        "versionName": "1.4.56",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5761461704760730187",
-            "name": "Firescans",
-            "language": "en",
-            "homeUrl": "https://firescans.xyz"
-          }
-        ]
-      },
-      {
         "name": "Flame Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.flamecomics",
         "resources": {
@@ -5412,27 +4848,6 @@
         ]
       },
       {
-        "name": "Grim Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.grimscans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.grimscans-v1.4.21.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/grimscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.grimscans-v1.4.21.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "21",
-        "versionName": "1.4.21",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8588684547293952127",
-            "name": "Grim Scans",
-            "language": "en",
-            "homeUrl": "https://grimscans.com"
-          }
-        ]
-      },
-      {
         "name": "Grrl Power Comic",
         "packageName": "eu.kanade.tachiyomi.extension.en.grrlpower",
         "resources": {
@@ -5492,27 +4907,6 @@
             "name": "Guya",
             "language": "en",
             "homeUrl": "https://guya.cubari.moe"
-          }
-        ]
-      },
-      {
-        "name": "Gone with the Blastwave",
-        "packageName": "eu.kanade.tachiyomi.extension.en.gwtb",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.gwtb-v1.4.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/gwtb/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.gwtb-v1.4.3.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4006397036545425884",
-            "name": "Gone with the Blastwave",
-            "language": "en",
-            "homeUrl": "https://www.blastwave-comic.com"
           }
         ]
       },
@@ -6300,27 +5694,6 @@
         ]
       },
       {
-        "name": "Kewn Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.kewnscans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.kewnscans-v1.4.22.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/kewnscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.kewnscans-v1.4.22.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "22",
-        "versionName": "1.4.22",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "2816768640766208312",
-            "name": "Kewn Scans",
-            "language": "en",
-            "homeUrl": "https://kewnscans.org"
-          }
-        ]
-      },
-      {
         "name": "Kill Six Billion Demons",
         "packageName": "eu.kanade.tachiyomi.extension.en.killsixbilliondemons",
         "resources": {
@@ -6804,27 +6177,6 @@
         ]
       },
       {
-        "name": "Madokami",
-        "packageName": "eu.kanade.tachiyomi.extension.en.madokami",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.madokami-v1.6.16.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/madokami/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.madokami-v1.6.16.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "16",
-        "versionName": "1.6.16",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "7291521832235473745",
-            "name": "Madokami",
-            "language": "en",
-            "homeUrl": "https://manga.madokami.al"
-          }
-        ]
-      },
-      {
         "name": "Magus Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.magusmanga",
         "resources": {
@@ -6989,27 +6341,6 @@
             "name": "Manga-Bay",
             "language": "en",
             "homeUrl": "https://read.manga-bay.org"
-          }
-        ]
-      },
-      {
-        "name": "MangaBlaze",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangablaze",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangablaze-v1.4.53.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangablaze/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangablaze-v1.4.53.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6145388266378605164",
-            "name": "MangaBlaze",
-            "language": "en",
-            "homeUrl": "https://mangablaze.com"
           }
         ]
       },
@@ -7392,27 +6723,6 @@
         ]
       },
       {
-        "name": "MangaGo.fun",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangagofun",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangagofun-v1.4.52.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangagofun/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangagofun-v1.4.52.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6389620462589488124",
-            "name": "MangaGo.fun",
-            "language": "en",
-            "homeUrl": "https://www.mangago.fun"
-          }
-        ]
-      },
-      {
         "name": "MangaHe",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangahe",
         "resources": {
@@ -7518,27 +6828,6 @@
         ]
       },
       {
-        "name": "MangaKa",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangaka",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangaka-v1.4.52.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangaka/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangaka-v1.4.52.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3253856465912445981",
-            "name": "MangaKa",
-            "language": "en",
-            "homeUrl": "https://mangaka.cc"
-          }
-        ]
-      },
-      {
         "name": "Mangakakalot",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangakakalot",
         "resources": {
@@ -7602,27 +6891,6 @@
             "name": "MangaKatana",
             "language": "en",
             "homeUrl": "https://mangakatana.com"
-          }
-        ]
-      },
-      {
-        "name": "Manga Kiss",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangakiss",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangakiss-v1.4.53.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangakiss/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangakiss-v1.4.53.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "53",
-        "versionName": "1.4.53",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "2402699562771779060",
-            "name": "Manga Kiss",
-            "language": "en",
-            "homeUrl": "https://mangakiss.org"
           }
         ]
       },
@@ -7860,27 +7128,6 @@
             "name": "MangaPanda.onl",
             "language": "en",
             "homeUrl": "https://mangapanda.onl"
-          }
-        ]
-      },
-      {
-        "name": "MangaPill",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangapill",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangapill-v1.4.9.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangapill/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangapill-v1.4.9.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "9",
-        "versionName": "1.4.9",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "8448310129093543312",
-            "name": "MangaPill",
-            "language": "en",
-            "homeUrl": "https://mangapill.com"
           }
         ]
       },
@@ -8368,27 +7615,6 @@
         ]
       },
       {
-        "name": "Manhwa18.org",
-        "packageName": "eu.kanade.tachiyomi.extension.en.manhwa18org",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.manhwa18org-v1.4.54.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/manhwa18org/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.manhwa18org-v1.4.54.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "54",
-        "versionName": "1.4.54",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "8997140045479125847",
-            "name": "Manhwa18.org",
-            "language": "en",
-            "homeUrl": "https://manhwa18.org"
-          }
-        ]
-      },
-      {
         "name": "Manhwa68",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhwa68",
         "resources": {
@@ -8536,48 +7762,6 @@
         ]
       },
       {
-        "name": "Manhwalover",
-        "packageName": "eu.kanade.tachiyomi.extension.en.manhwalover",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.manhwalover-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/manhwalover/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.manhwalover-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "5839556980480126224",
-            "name": "Manhwalover",
-            "language": "en",
-            "homeUrl": "https://www.manhwalover.org"
-          }
-        ]
-      },
-      {
-        "name": "ManhwaManhua",
-        "packageName": "eu.kanade.tachiyomi.extension.en.manhwamanhua",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.manhwamanhua-v1.4.52.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/manhwamanhua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.manhwamanhua-v1.4.52.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "8935586841672178004",
-            "name": "ManhwaManhua",
-            "language": "en",
-            "homeUrl": "https://manhwamanhua.com"
-          }
-        ]
-      },
-      {
         "name": "ManhwaNex",
         "packageName": "eu.kanade.tachiyomi.extension.en.manhwanex",
         "resources": {
@@ -8683,27 +7867,6 @@
             "name": "Manhwatop",
             "language": "en",
             "homeUrl": "https://manhwatop.com"
-          }
-        ]
-      },
-      {
-        "name": "Manhwax",
-        "packageName": "eu.kanade.tachiyomi.extension.en.manhwax",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.manhwax-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/manhwax/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.manhwax-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "7310092753988370613",
-            "name": "Manhwax",
-            "language": "en",
-            "homeUrl": "https://manhwax.top"
           }
         ]
       },
@@ -8872,27 +8035,6 @@
             "name": "Milftoon",
             "language": "en",
             "homeUrl": "https://milftoon.xxx"
-          }
-        ]
-      },
-      {
-        "name": "Mist Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mistscans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mistscans-v1.4.22.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mistscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mistscans-v1.4.22.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "22",
-        "versionName": "1.4.22",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "80073424419623517",
-            "name": "Mist Scans",
-            "language": "en",
-            "homeUrl": "https://mistscans.com"
           }
         ]
       },
@@ -9111,27 +8253,6 @@
         ]
       },
       {
-        "name": "Nika Toons",
-        "packageName": "eu.kanade.tachiyomi.extension.en.nikatoons",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.nikatoons-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/nikatoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.nikatoons-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1688373109141386238",
-            "name": "Nika Toons",
-            "language": "en",
-            "homeUrl": "https://nikatoons.com"
-          }
-        ]
-      },
-      {
         "name": "NineAnime",
         "packageName": "eu.kanade.tachiyomi.extension.en.nineanime",
         "resources": {
@@ -9195,27 +8316,6 @@
         ]
       },
       {
-        "name": "NixManga",
-        "packageName": "eu.kanade.tachiyomi.extension.en.nixmanga",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.nixmanga-v1.4.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/nixmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.nixmanga-v1.4.2.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "3470536709327419459",
-            "name": "NixManga",
-            "language": "en",
-            "homeUrl": "https://nixmanga.com"
-          }
-        ]
-      },
-      {
         "name": "NovelCrow",
         "packageName": "eu.kanade.tachiyomi.extension.en.novelcrow",
         "resources": {
@@ -9258,27 +8358,6 @@
         ]
       },
       {
-        "name": "Nuvia Toon",
-        "packageName": "eu.kanade.tachiyomi.extension.en.nuviatoon",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.nuviatoon-v1.4.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/nuviatoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.nuviatoon-v1.4.1.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "9071935154458913856",
-            "name": "Nuvia Toon",
-            "language": "en",
-            "homeUrl": "https://nuviatoon.com"
-          }
-        ]
-      },
-      {
         "name": "Nux Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.nuxscans",
         "resources": {
@@ -9296,27 +8375,6 @@
             "name": "Nux Scans",
             "language": "en",
             "homeUrl": "https://nuxscans-comics.blogspot.com"
-          }
-        ]
-      },
-      {
-        "name": "Nyanu Kafe",
-        "packageName": "eu.kanade.tachiyomi.extension.en.nyanukafe",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.nyanukafe-v1.4.22.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/nyanukafe/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.nyanukafe-v1.4.22.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "22",
-        "versionName": "1.4.22",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3025454996745441538",
-            "name": "Nyanu Kafe",
-            "language": "en",
-            "homeUrl": "https://nyanukafe.com"
           }
         ]
       },
@@ -9485,27 +8543,6 @@
             "name": "OneManga.info",
             "language": "en",
             "homeUrl": "https://onemanga.info"
-          }
-        ]
-      },
-      {
-        "name": "One Punch Man Online",
-        "packageName": "eu.kanade.tachiyomi.extension.en.onepunchmanonline",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.onepunchmanonline-v1.4.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/onepunchmanonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.onepunchmanonline-v1.4.2.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "2",
-        "versionName": "1.4.2",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "897097334505121559",
-            "name": "One Punch Man Online",
-            "language": "en",
-            "homeUrl": "https://w11.1punchman.com"
           }
         ]
       },
@@ -9993,27 +9030,6 @@
         ]
       },
       {
-        "name": "Read Black Clover Manga Online",
-        "packageName": "eu.kanade.tachiyomi.extension.en.readblackclovermangaonline",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.readblackclovermangaonline-v1.4.8.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.readblackclovermangaonline-v1.4.8.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "8",
-        "versionName": "1.4.8",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6485938153129890061",
-            "name": "Read Black Clover Manga Online",
-            "language": "en",
-            "homeUrl": "https://ww10.readblackclover.com"
-          }
-        ]
-      },
-      {
         "name": "Read Boku no Hero Academia My Hero Academia Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga",
         "resources": {
@@ -10052,31 +9068,6 @@
             "name": "Read Chainsaw Man Manga Online",
             "language": "en",
             "homeUrl": "https://ww6.readchainsawman.com"
-          }
-        ]
-      },
-      {
-        "name": "ReadComicOnline",
-        "packageName": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.readcomiconline-v1.4.44.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/readcomiconline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.readcomiconline-v1.4.44.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "44",
-        "versionName": "1.4.44",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8061953015808280611",
-            "name": "ReadComicOnline",
-            "language": "en",
-            "homeUrl": "https://readcomiconline.li",
-            "mirrorUrls": [
-              "https://readcomiconline.li",
-              "https://rcostation.xyz"
-            ]
           }
         ]
       },
@@ -10396,27 +9387,6 @@
         ]
       },
       {
-        "name": "Rest Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.restscans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.restscans-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/restscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.restscans-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "4014337104958146767",
-            "name": "Rest Scans",
-            "language": "en",
-            "homeUrl": "https://restscans.com"
-          }
-        ]
-      },
-      {
         "name": "Revival Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.revivalscans",
         "resources": {
@@ -10501,27 +9471,6 @@
         ]
       },
       {
-        "name": "Rizz Comic (unoriginal)",
-        "packageName": "eu.kanade.tachiyomi.extension.en.rizzcomicunoriginal",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.rizzcomicunoriginal-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/rizzcomicunoriginal/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.rizzcomicunoriginal-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8957809252307939773",
-            "name": "Rizz Comic (unoriginal)",
-            "language": "en",
-            "homeUrl": "https://rizzcomic.com"
-          }
-        ]
-      },
-      {
         "name": "RokariComics",
         "packageName": "eu.kanade.tachiyomi.extension.en.rokaricomics",
         "resources": {
@@ -10581,27 +9530,6 @@
             "name": "Rose Squad Scans",
             "language": "en",
             "homeUrl": "https://rosesquadscans.aishiteru.org"
-          }
-        ]
-      },
-      {
-        "name": "Ryumanga",
-        "packageName": "eu.kanade.tachiyomi.extension.en.ryumanga",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.ryumanga-v1.4.21.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/ryumanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.ryumanga-v1.4.21.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "21",
-        "versionName": "1.4.21",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4638024470188065245",
-            "name": "Ryumanga",
-            "language": "en",
-            "homeUrl": "https://ryumanga.org"
           }
         ]
       },
@@ -10900,27 +9828,6 @@
         ]
       },
       {
-        "name": "Spmanhwa",
-        "packageName": "eu.kanade.tachiyomi.extension.en.spmanhwa",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.spmanhwa-v1.4.52.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/spmanhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.spmanhwa-v1.4.52.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4735212915018805501",
-            "name": "Spmanhwa",
-            "language": "en",
-            "homeUrl": "https://spmanhwa.online"
-          }
-        ]
-      },
-      {
         "name": "SpyFakku",
         "packageName": "eu.kanade.tachiyomi.extension.en.spyfakku",
         "resources": {
@@ -11010,27 +9917,6 @@
         ]
       },
       {
-        "name": "Genz Toons",
-        "packageName": "eu.kanade.tachiyomi.extension.en.suryascans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.suryascans-v1.4.54.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/suryascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.suryascans-v1.4.54.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "54",
-        "versionName": "1.4.54",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1061713767402958340",
-            "name": "Genz Toons",
-            "language": "en",
-            "homeUrl": "https://genztoons.org"
-          }
-        ]
-      },
-      {
         "name": "Swords Comic",
         "packageName": "eu.kanade.tachiyomi.extension.en.swordscomic",
         "resources": {
@@ -11069,27 +9955,6 @@
             "name": "Tapas",
             "language": "en",
             "homeUrl": "https://tapas.io"
-          }
-        ]
-      },
-      {
-        "name": "TCB Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.tcbscans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.tcbscans-v1.4.12.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/tcbscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.tcbscans-v1.4.12.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1435116756378369709",
-            "name": "TCB Scans",
-            "language": "en",
-            "homeUrl": "https://tcbonepiecechapters.com"
           }
         ]
       },
@@ -11220,27 +10085,6 @@
         ]
       },
       {
-        "name": "TimelessToons",
-        "packageName": "eu.kanade.tachiyomi.extension.en.timelesstoons",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.timelesstoons-v1.4.22.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/timelesstoons/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.timelesstoons-v1.4.22.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "22",
-        "versionName": "1.4.22",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "9063123408669132087",
-            "name": "TimelessToons",
-            "language": "en",
-            "homeUrl": "https://timelesstoons.org"
-          }
-        ]
-      },
-      {
         "name": "TodayManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.todaymanga",
         "resources": {
@@ -11258,27 +10102,6 @@
             "name": "TodayManga",
             "language": "en",
             "homeUrl": "https://todaymanga.com"
-          }
-        ]
-      },
-      {
-        "name": "Toon18",
-        "packageName": "eu.kanade.tachiyomi.extension.en.toon18",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.toon18-v1.4.52.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/toon18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.toon18-v1.4.52.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "8464554716285026308",
-            "name": "Toon18",
-            "language": "en",
-            "homeUrl": "https://toon18.to"
           }
         ]
       },
@@ -11493,27 +10316,6 @@
         ]
       },
       {
-        "name": "Vanilla Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.vanillascans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.vanillascans-v1.6.25.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/vanillascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.vanillascans-v1.6.25.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "25",
-        "versionName": "1.6.25",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "587361422129220750",
-            "name": "Vanilla Scans",
-            "language": "en",
-            "homeUrl": "https://vanillascans.org"
-          }
-        ]
-      },
-      {
         "name": "vgperson",
         "packageName": "eu.kanade.tachiyomi.extension.en.vgperson",
         "resources": {
@@ -11642,27 +10444,6 @@
             "name": "VyvyManga",
             "language": "en",
             "homeUrl": "https://vymanga.net"
-          }
-        ]
-      },
-      {
-        "name": "VyvyManga.org",
-        "packageName": "eu.kanade.tachiyomi.extension.en.vyvymangaorg",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.vyvymangaorg-v1.4.52.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/vyvymangaorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.vyvymangaorg-v1.4.52.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "2440423058759310563",
-            "name": "VyvyManga.org",
-            "language": "en",
-            "homeUrl": "https://vyvymanga.org"
           }
         ]
       },
@@ -11873,27 +10654,6 @@
             "name": "WoopRead",
             "language": "en",
             "homeUrl": "https://woopread.com"
-          }
-        ]
-      },
-      {
-        "name": "Writer Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.en.writerscans",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.writerscans-v1.4.21.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/writerscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.writerscans-v1.4.21.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "21",
-        "versionName": "1.4.21",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "561830040001881975",
-            "name": "Writer Scans",
-            "language": "en",
-            "homeUrl": "https://writerscans.com"
           }
         ]
       },
@@ -12297,27 +11057,6 @@
         ]
       },
       {
-        "name": "Biblio Panda",
-        "packageName": "eu.kanade.tachiyomi.extension.es.bibliopanda",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.bibliopanda-v1.4.55.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/bibliopanda/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.bibliopanda-v1.4.55.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "55",
-        "versionName": "1.4.55",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "8219271831795034464",
-            "name": "Biblio Panda",
-            "language": "es",
-            "homeUrl": "https://bibliopanda.com"
-          }
-        ]
-      },
-      {
         "name": "Bloom Scans",
         "packageName": "eu.kanade.tachiyomi.extension.es.bloomscans",
         "resources": {
@@ -12545,27 +11284,6 @@
             "name": "Codex Zero",
             "language": "es",
             "homeUrl": "https://codex.readkisho.me"
-          }
-        ]
-      },
-      {
-        "name": "Colorcito Scan",
-        "packageName": "eu.kanade.tachiyomi.extension.es.colorcitoscan",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.colorcitoscan-v1.4.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/colorcitoscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.colorcitoscan-v1.4.3.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "3",
-        "versionName": "1.4.3",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "1261665235729689526",
-            "name": "Colorcito Scan",
-            "language": "es",
-            "homeUrl": "https://colorcitoscan.com"
           }
         ]
       },
@@ -13053,27 +11771,6 @@
         ]
       },
       {
-        "name": "InsanosScan",
-        "packageName": "eu.kanade.tachiyomi.extension.es.insanosscan",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.insanosscan-v1.4.31.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/insanosscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.insanosscan-v1.4.31.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "31",
-        "versionName": "1.4.31",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5322003068520429479",
-            "name": "InsanosScan",
-            "language": "es",
-            "homeUrl": "https://insanoslibrary.com"
-          }
-        ]
-      },
-      {
         "name": "Inventario Oculto",
         "packageName": "eu.kanade.tachiyomi.extension.es.inventariooculto",
         "resources": {
@@ -13133,27 +11830,6 @@
             "name": "Kazoku Den",
             "language": "es",
             "homeUrl": "https://www.kazokuden.com"
-          }
-        ]
-      },
-      {
-        "name": "Koinobori Scan",
-        "packageName": "eu.kanade.tachiyomi.extension.es.koinoboriscan",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.koinoboriscan-v1.4.40.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/koinoboriscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.koinoboriscan-v1.4.40.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "40",
-        "versionName": "1.4.40",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "5873846881094044177",
-            "name": "Koinobori Scan",
-            "language": "es",
-            "homeUrl": "https://visorkoi.com"
           }
         ]
       },
@@ -13385,27 +12061,6 @@
             "name": "MangaOni",
             "language": "es",
             "homeUrl": "https://manga-oni.com"
-          }
-        ]
-      },
-      {
-        "name": "Manga Romance",
-        "packageName": "eu.kanade.tachiyomi.extension.es.mangaromance",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.mangaromance-v1.4.52.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/mangaromance/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.mangaromance-v1.4.52.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "3857421120061111113",
-            "name": "Manga Romance",
-            "language": "es",
-            "homeUrl": "https://mangaromance19.com"
           }
         ]
       },
@@ -13662,27 +12317,6 @@
         ]
       },
       {
-        "name": "Monopoly Scan",
-        "packageName": "eu.kanade.tachiyomi.extension.es.monopolyscan",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.monopolyscan-v1.4.52.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/monopolyscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.monopolyscan-v1.4.52.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5862188113261788590",
-            "name": "Monopoly Scan",
-            "language": "es",
-            "homeUrl": "https://monopolymanhua.com"
-          }
-        ]
-      },
-      {
         "name": "Mundo Manhwa",
         "packageName": "eu.kanade.tachiyomi.extension.es.mundomanhwa",
         "resources": {
@@ -13742,27 +12376,6 @@
             "name": "NekoScans",
             "language": "es",
             "homeUrl": "https://nekoproject.org"
-          }
-        ]
-      },
-      {
-        "name": "NeoManga",
-        "packageName": "eu.kanade.tachiyomi.extension.es.neomanga",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.neomanga-v1.4.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/neomanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.neomanga-v1.4.1.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "4960725964791825687",
-            "name": "NeoManga",
-            "language": "es",
-            "homeUrl": "https://www.neomanga.online"
           }
         ]
       },
