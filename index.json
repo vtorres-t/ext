@@ -7003,13 +7003,13 @@
         "name": "MangaGeko",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangarawclub",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangarawclub-v1.4.33.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangarawclub-v1.4.34.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangarawclub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangarawclub-v1.4.33.jar"
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangarawclub-v1.4.34.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "33",
-        "versionName": "1.4.33",
+        "versionCode": "34",
+        "versionName": "1.4.34",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
