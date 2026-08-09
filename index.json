@@ -10172,20 +10172,20 @@
         "name": "VyvyManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.vyvymanga",
         "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.vyvymanga-v1.6.41.apk",
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.vyvymanga-v1.6.42.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/vyvymanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.vyvymanga-v1.6.41.jar"
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.vyvymanga-v1.6.42.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "41",
-        "versionName": "1.6.41",
+        "versionCode": "42",
+        "versionName": "1.6.42",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "6958928548959982041",
             "name": "VyvyManga",
             "language": "en",
-            "homeUrl": "https://vymanga.net"
+            "homeUrl": "https://mangavyvy.net"
           }
         ]
       },
