@@ -3,8 +3,7 @@
   "badgeLabel": "VT",
   "signingKey": "DE0FDC4BC621BC9F68495CB030F4F23421D3257BA9A6DEBF3295C4076841C77B",
   "contact": {
-    "website": "https://github.io",
-    "discord": "https://discord.gg"
+    "discord": ""
   },
   "extensionList": {
     "extensions": [
@@ -319,6 +318,27 @@
             "name": "Comikey Brasil",
             "language": "pt-BR",
             "homeUrl": "https://br.comikey.com"
+          }
+        ]
+      },
+      {
+        "name": "Commit Strip",
+        "packageName": "eu.kanade.tachiyomi.extension.all.commitstrip",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-all.commitstrip-v1.4.4.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/commitstrip/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-all.commitstrip-v1.4.4.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "4",
+        "versionName": "1.4.4",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5328240584854276436",
+            "name": "Commit Strip",
+            "language": "en",
+            "homeUrl": "https://www.commitstrip.com"
           }
         ]
       },
@@ -4616,6 +4636,27 @@
         ]
       },
       {
+        "name": "Bbato",
+        "packageName": "eu.kanade.tachiyomi.extension.en.bbato",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.bbato-v1.4.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/bbato/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.bbato-v1.4.1.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "1",
+        "versionName": "1.4.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1678128543826757763",
+            "name": "Bbato",
+            "language": "en",
+            "homeUrl": "https://bbato.com"
+          }
+        ]
+      },
+      {
         "name": "BeeHentai",
         "packageName": "eu.kanade.tachiyomi.extension.en.beehentai",
         "resources": {
@@ -5859,27 +5900,6 @@
         ]
       },
       {
-        "name": "GingeRTooN",
-        "packageName": "eu.kanade.tachiyomi.extension.en.gingertoon",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.gingertoon-v1.4.52.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/gingertoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.gingertoon-v1.4.52.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "52",
-        "versionName": "1.4.52",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "4205510315534778593",
-            "name": "GingeRTooN",
-            "language": "en",
-            "homeUrl": "https://gingertoon.com"
-          }
-        ]
-      },
-      {
         "name": "GirlsTop",
         "packageName": "eu.kanade.tachiyomi.extension.en.girlstop",
         "resources": {
@@ -7100,27 +7120,6 @@
             "name": "MangaYY",
             "language": "en",
             "homeUrl": "https://mangayy.org"
-          }
-        ]
-      },
-      {
-        "name": "Lily Manga",
-        "packageName": "eu.kanade.tachiyomi.extension.en.lilymanga",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.lilymanga-v1.4.59.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/lilymanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.lilymanga-v1.4.59.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "59",
-        "versionName": "1.4.59",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "4480996639887718467",
-            "name": "Lily Manga",
-            "language": "en",
-            "homeUrl": "https://lilymanga.net"
           }
         ]
       },
@@ -8415,27 +8414,6 @@
         ]
       },
       {
-        "name": "Manga Trend",
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangatrend",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.mangatrend-v1.4.32.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangatrend/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.mangatrend-v1.4.32.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1983630122600815139",
-            "name": "Manga Trend",
-            "language": "en",
-            "homeUrl": "https://mangatrend.org"
-          }
-        ]
-      },
-      {
         "name": "MangaTX",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangatx",
         "resources": {
@@ -9725,6 +9703,27 @@
         ]
       },
       {
+        "name": "Oppai Stream",
+        "packageName": "eu.kanade.tachiyomi.extension.en.oppaistream",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.oppaistream-v1.4.5.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/oppaistream/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.oppaistream-v1.4.5.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "5",
+        "versionName": "1.4.5",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1938195875614354298",
+            "name": "Oppai Stream",
+            "language": "en",
+            "homeUrl": "https://read.oppai.stream"
+          }
+        ]
+      },
+      {
         "name": "Orchisasia",
         "packageName": "eu.kanade.tachiyomi.extension.en.orchisasia",
         "resources": {
@@ -10208,27 +10207,6 @@
         ]
       },
       {
-        "name": "Read Horimiya Online",
-        "packageName": "eu.kanade.tachiyomi.extension.en.readhorimiyaonline",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.readhorimiyaonline-v1.4.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/readhorimiyaonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.readhorimiyaonline-v1.4.1.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "855674716623999161",
-            "name": "Read Horimiya Online",
-            "language": "en",
-            "homeUrl": "https://read-horimiya.online"
-          }
-        ]
-      },
-      {
         "name": "Read Jujutsu Kaisen Manga Online",
         "packageName": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
         "resources": {
@@ -10498,6 +10476,27 @@
             "name": "Rinko Comics",
             "language": "en",
             "homeUrl": "https://rinkocomics.com"
+          }
+        ]
+      },
+      {
+        "name": "RitharScans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.ritharscans",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.ritharscans-v1.4.24.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/ritharscans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.ritharscans-v1.4.24.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "24",
+        "versionName": "1.4.24",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8220771912098311271",
+            "name": "RitharScans",
+            "language": "en",
+            "homeUrl": "https://ritharscans.com"
           }
         ]
       },
@@ -11263,6 +11262,27 @@
         ]
       },
       {
+        "name": "Top Manhua",
+        "packageName": "eu.kanade.tachiyomi.extension.en.topmanhua",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.topmanhua-v1.4.59.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/topmanhua/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.topmanhua-v1.4.59.jar"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "59",
+        "versionName": "1.4.59",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "368848319592333339",
+            "name": "Top Manhua",
+            "language": "en",
+            "homeUrl": "https://mangatop.org"
+          }
+        ]
+      },
+      {
         "name": "TopManhua.fan",
         "packageName": "eu.kanade.tachiyomi.extension.en.topmanhuafan",
         "resources": {
@@ -11454,6 +11474,27 @@
             "name": "VoyceMe",
             "language": "en",
             "homeUrl": "https://www.voyce.me"
+          }
+        ]
+      },
+      {
+        "name": "VyvyManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.vyvymanga",
+        "resources": {
+          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-en.vyvymanga-v1.6.42.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/vyvymanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-en.vyvymanga-v1.6.42.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "42",
+        "versionName": "1.6.42",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "6958928548959982041",
+            "name": "VyvyManga",
+            "language": "en",
+            "homeUrl": "https://mangavyvy.net"
           }
         ]
       },
@@ -13390,27 +13431,6 @@
         ]
       },
       {
-        "name": "Noblesse Translations",
-        "packageName": "eu.kanade.tachiyomi.extension.es.noblessetranslations",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.noblessetranslations-v1.4.59.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/noblessetranslations/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.noblessetranslations-v1.4.59.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "59",
-        "versionName": "1.4.59",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "5125011410949702843",
-            "name": "Noblesse Translations",
-            "language": "es",
-            "homeUrl": "https://nobledicion.yoveo.xyz"
-          }
-        ]
-      },
-      {
         "name": "Nova Manhwas",
         "packageName": "eu.kanade.tachiyomi.extension.es.novamanhwa",
         "resources": {
@@ -13869,27 +13889,6 @@
             "name": "ManhwasMe",
             "language": "es",
             "homeUrl": "https://manhwas.me"
-          }
-        ]
-      },
-      {
-        "name": "Uchuujin Projects",
-        "packageName": "eu.kanade.tachiyomi.extension.es.uchuujinprojects",
-        "resources": {
-          "apkUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/ext@repo/apk/tachiyomi-es.uchuujinprojects-v1.4.34.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/uchuujinprojects/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://raw.githubusercontent.com/vtorres-t/ext/repo/jar/tachiyomi-es.uchuujinprojects-v1.4.34.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "3953107753690791431",
-            "name": "Uchuujin Projects",
-            "language": "es",
-            "homeUrl": "https://uchuujinmangas.com"
           }
         ]
       },
