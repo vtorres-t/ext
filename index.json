@@ -13741,9 +13741,9 @@
         "name": "Hades no Fansub",
         "packageName": "eu.kanade.tachiyomi.extension.es.hadesnofansub",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/6283834/tachiyomi-es.hadesnofansub-v1.6.59.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/c810b74/tachiyomi-es.hadesnofansub-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/hadesnofansub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/6283834/tachiyomi-es.hadesnofansub-v1.6.59.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/c810b74/tachiyomi-es.hadesnofansub-v1.6.59.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106059",

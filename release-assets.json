@@ -5142,11 +5142,11 @@
   "eu.kanade.tachiyomi.extension.es.hadesnofansub": {
     "apk": {
       "name": "tachiyomi-es.hadesnofansub-v1.6.59.apk",
-      "sha256": "c36968012308d2420d68af03ae29232b3971042dd32e86dbc7a256feeba801b2"
+      "sha256": "0cff02ce2250d18270578d6c98dcea9f6b81b0b91c62850d370ab465bd7d75d9"
     },
     "jar": {
       "name": "tachiyomi-es.hadesnofansub-v1.6.59.jar",
-      "sha256": "559dec3d4825a94cb8b48a72b2da8b7bc08de64a184682e0032af5d3ea8ece30"
+      "sha256": "68dded67f3069bcb53108b5784b876820a44a522d1b67ecc6047e73b12fbc943"
     }
   },
   "eu.kanade.tachiyomi.extension.es.haremdekira": {
