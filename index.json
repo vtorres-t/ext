@@ -14746,13 +14746,13 @@
         "name": "MHScans",
         "packageName": "eu.kanade.tachiyomi.extension.es.mhscans",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/405c569/tachiyomi-es.mhscans-v1.4.66.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9affad0/tachiyomi-es.mhscans-v1.4.67.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/mhscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/405c569/tachiyomi-es.mhscans-v1.4.66.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9affad0/tachiyomi-es.mhscans-v1.4.67.jar"
         },
         "extensionLib": "1.4",
-        "versionCode": "104066",
-        "versionName": "1.4.66",
+        "versionCode": "104067",
+        "versionName": "1.4.67",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

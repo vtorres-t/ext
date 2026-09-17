@@ -5431,12 +5431,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.mhscans": {
     "apk": {
-      "name": "tachiyomi-es.mhscans-v1.4.66.apk",
-      "sha256": "98b5c8c7c0aec9d1f7f0efefd5019ed648a7ae868df3eda44d779f713021a807"
+      "name": "tachiyomi-es.mhscans-v1.4.67.apk",
+      "sha256": "367e4845aa0a65cecdb8fc94a4629a351e16df4c9b2962575830e46c17d8af17"
     },
     "jar": {
-      "name": "tachiyomi-es.mhscans-v1.4.66.jar",
-      "sha256": "4438962b7c3a2567669a8639b8291388d55f1eea95976d4edff7207910629a7f"
+      "name": "tachiyomi-es.mhscans-v1.4.67.jar",
+      "sha256": "1bf7a448e1e8044afddea7af3c1e02227ac36f9a139b4999bdc006479b8e82cc"
     }
   },
   "eu.kanade.tachiyomi.extension.es.monopolyscan": {
