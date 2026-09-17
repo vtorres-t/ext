@@ -5432,11 +5432,11 @@
   "eu.kanade.tachiyomi.extension.es.mhscans": {
     "apk": {
       "name": "tachiyomi-es.mhscans-v1.4.67.apk",
-      "sha256": "367e4845aa0a65cecdb8fc94a4629a351e16df4c9b2962575830e46c17d8af17"
+      "sha256": "a0a99027216ffa86cfbec9e3aecd47693d322e7bab3d4e7097d2d1d9fc90a8be"
     },
     "jar": {
       "name": "tachiyomi-es.mhscans-v1.4.67.jar",
-      "sha256": "1bf7a448e1e8044afddea7af3c1e02227ac36f9a139b4999bdc006479b8e82cc"
+      "sha256": "098295860b358330389ec925cadd80215a65abb4ff2eaf089da0ef87e1477ce8"
     }
   },
   "eu.kanade.tachiyomi.extension.es.monopolyscan": {
