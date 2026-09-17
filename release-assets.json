@@ -5092,11 +5092,11 @@
   "eu.kanade.tachiyomi.extension.es.hadesnofansub": {
     "apk": {
       "name": "tachiyomi-es.hadesnofansub-v1.6.60.apk",
-      "sha256": "4b40da9c6f2efbe6d85ec431ae49b599289c4599739e576777747e2a86999c18"
+      "sha256": "ffee45435bc1186ccc6e9160979befba6ac0bffd085e2e664b3e1da6bec8fbad"
     },
     "jar": {
       "name": "tachiyomi-es.hadesnofansub-v1.6.60.jar",
-      "sha256": "93ed99de197f3703904da93fad9090d17c5a81546858769c6ea99a698d79394a"
+      "sha256": "bfed2f53d4a4530d1acb957037ae1129ef6fcb394ed733763c9ba34e7d23d8e0"
     }
   },
   "eu.kanade.tachiyomi.extension.es.haremdekira": {
@@ -5432,11 +5432,11 @@
   "eu.kanade.tachiyomi.extension.es.mhscans": {
     "apk": {
       "name": "tachiyomi-es.mhscans-v1.4.67.apk",
-      "sha256": "a0a99027216ffa86cfbec9e3aecd47693d322e7bab3d4e7097d2d1d9fc90a8be"
+      "sha256": "db1528fcdb80c90b80d39f766cf12f266aa73c101f23c0fcba7e468e4582e6a4"
     },
     "jar": {
       "name": "tachiyomi-es.mhscans-v1.4.67.jar",
-      "sha256": "098295860b358330389ec925cadd80215a65abb4ff2eaf089da0ef87e1477ce8"
+      "sha256": "fb7951818a4c73f57aa6afdb04054de817a7f3988013d12d023850d0ca48164e"
     }
   },
   "eu.kanade.tachiyomi.extension.es.monopolyscan": {
