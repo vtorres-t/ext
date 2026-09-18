@@ -188,13 +188,13 @@
         "name": "Comic Growl",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicgrowl",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-0/tachiyomi-all.comicgrowl-v1.4.13.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-all.comicgrowl-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/comicgrowl/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-0/tachiyomi-all.comicgrowl-v1.4.13.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-all.comicgrowl-v1.6.1.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104013",
-        "versionName": "1.4.13",
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -6071,13 +6071,13 @@
         "name": "Comix",
         "packageName": "eu.kanade.tachiyomi.extension.en.comix",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-0/tachiyomi-en.comix-v1.6.38.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-en.comix-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-0/tachiyomi-en.comix-v1.6.38.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-en.comix-v1.6.39.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106038",
-        "versionName": "1.6.38",
+        "versionCode": "106039",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -8626,13 +8626,13 @@
         "name": "Manga District",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadistrict",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-0/tachiyomi-en.mangadistrict-v1.4.69.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-en.mangadistrict-v1.6.72.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangadistrict/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-0/tachiyomi-en.mangadistrict-v1.4.69.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-en.mangadistrict-v1.6.72.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104069",
-        "versionName": "1.4.69",
+        "extensionLib": "1.6",
+        "versionCode": "106072",
+        "versionName": "1.6.72",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -14137,13 +14137,13 @@
         "name": "Ikigai Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-1/tachiyomi-es.ikigaimangas-v1.6.37.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-es.ikigaimangas-v1.6.38.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-1/tachiyomi-es.ikigaimangas-v1.6.37.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-es.ikigaimangas-v1.6.38.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106037",
-        "versionName": "1.6.37",
+        "versionCode": "106038",
+        "versionName": "1.6.38",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -14326,13 +14326,13 @@
         "name": "LectorJPG",
         "packageName": "eu.kanade.tachiyomi.extension.es.lectorjpg",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-1/tachiyomi-es.lectorjpg-v1.4.50.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-es.lectorjpg-v1.6.50.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lectorjpg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/183b3c0-1/tachiyomi-es.lectorjpg-v1.4.50.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/83b6830/tachiyomi-es.lectorjpg-v1.6.50.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104050",
-        "versionName": "1.4.50",
+        "extensionLib": "1.6",
+        "versionCode": "106050",
+        "versionName": "1.6.50",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
