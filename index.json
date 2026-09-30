@@ -14845,9 +14845,9 @@
         "name": "Olympus Scanlation",
         "packageName": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/0254092/tachiyomi-es.olympusscanlation-v1.6.0.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/c94d656/tachiyomi-es.olympusscanlation-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/olympusscanlation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/0254092/tachiyomi-es.olympusscanlation-v1.6.0.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/c94d656/tachiyomi-es.olympusscanlation-v1.6.0.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106000",

@@ -5482,11 +5482,11 @@
   "eu.kanade.tachiyomi.extension.es.olympusscanlation": {
     "apk": {
       "name": "tachiyomi-es.olympusscanlation-v1.6.0.apk",
-      "sha256": "7fb481ee98df4c0f992b39d78334892284046ce22501295a8a3fd5ca1ad13737"
+      "sha256": "328f488ff8cf15baaa89cdbe7256cc6c7735fefee6b6ec26a9c5f7d712d0efdc"
     },
     "jar": {
       "name": "tachiyomi-es.olympusscanlation-v1.6.0.jar",
-      "sha256": "b3b5dae8fcaf8aa2dd27f2ac00adaf4f134e96c34f6b135e6994c8cf8417a020"
+      "sha256": "dc011a676cf896ebef74a66320ee8c2f52f2d6949046e094e4a67ed10e7f30d7"
     }
   },
   "eu.kanade.tachiyomi.extension.es.onfmangas": {
