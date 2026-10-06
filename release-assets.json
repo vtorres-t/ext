@@ -892,11 +892,11 @@
   "eu.kanade.tachiyomi.extension.all.pawchive": {
     "apk": {
       "name": "tachiyomi-all.pawchive-v1.6.3.apk",
-      "sha256": "2a4721fcaea62fc4181583c47927ae80a3adc1d25909f4536a6c534c8d8ae527"
+      "sha256": "46e13a945bfca58ac4de0e11022f03f574a9174960ca8e1f2d8cac794a8eca6c"
     },
     "jar": {
       "name": "tachiyomi-all.pawchive-v1.6.3.jar",
-      "sha256": "1e6aaa09afeca6befa9c8b0c8ae85b41471af0269790f9ba9da2f9f9a223c7d3"
+      "sha256": "15df4b03938a92f10a1f31add6758d67a4a0432362259b6f012da6f46c2303a6"
     }
   },
   "eu.kanade.tachiyomi.extension.all.peppercarrot": {
@@ -2132,11 +2132,11 @@
   "eu.kanade.tachiyomi.extension.en.hentaihere": {
     "apk": {
       "name": "tachiyomi-en.hentaihere-v1.6.1.apk",
-      "sha256": "c10c280dec786703b643dbfaf7971ba5a28db1050dab59106bb985cc4be7ff7f"
+      "sha256": "5fce48fa3a7cafa493ef99a579ed28e2badaab1716c4edce5d13c9980541795c"
     },
     "jar": {
       "name": "tachiyomi-en.hentaihere-v1.6.1.jar",
-      "sha256": "10014f2fa0b32c51c858e250c0d29ac2ce2597a8788bc461139eee4fd3d7eb14"
+      "sha256": "6a0d00dc0eaafbce76f77c0f143b84c5d7311527e175fd3fad04413ce402c689"
     }
   },
   "eu.kanade.tachiyomi.extension.en.hentaikisu": {
@@ -4282,11 +4282,11 @@
   "eu.kanade.tachiyomi.extension.en.snafucomic": {
     "apk": {
       "name": "tachiyomi-en.snafucomic-v1.6.0.apk",
-      "sha256": "20a0eb9098923af629b727c47d082fa91dd263333a7f8cb57034d6a9e43afb9e"
+      "sha256": "f188aece3509dbb25db42edb30ea441c96ae5321ed1611c7fb55f5ccb2ca3a8a"
     },
     "jar": {
       "name": "tachiyomi-en.snafucomic-v1.6.0.jar",
-      "sha256": "1b384341714af52b2de28d9d1ec384f4c861e8acec0b490f7dae405e18f5ef97"
+      "sha256": "fc57236af326a9295bb4a7d4b490f0ec9063c55a7ee070ad27f4a2d36b4a0b3a"
     }
   },
   "eu.kanade.tachiyomi.extension.en.solarandsundry": {
@@ -5051,12 +5051,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
     "apk": {
-      "name": "tachiyomi-es.emperorscan-v1.6.69.apk",
-      "sha256": "8d33321387e19d0eaf5853a785053c7052692edc25ef03091efceff22e26f083"
+      "name": "tachiyomi-es.emperorscan-v1.4.14.apk",
+      "sha256": "d34df251def62b24e084fb91f177adc68c45c12688918653cb046fb09a4427a1"
     },
     "jar": {
-      "name": "tachiyomi-es.emperorscan-v1.6.69.jar",
-      "sha256": "c1cc20ac1f284310240c324cb94e00b9e4cc4452a14b08bcd30d279de24e803c"
+      "name": "tachiyomi-es.emperorscan-v1.4.14.jar",
+      "sha256": "79fe55c626919c0242ebcf9c7b13a579d34ff2cbfb0721481a6a326a8ce8f33a"
     }
   },
   "eu.kanade.tachiyomi.extension.es.enchiladascan": {

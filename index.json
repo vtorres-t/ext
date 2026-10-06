@@ -3024,9 +3024,9 @@
         "name": "Pawchive",
         "packageName": "eu.kanade.tachiyomi.extension.all.pawchive",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-all.pawchive-v1.6.3.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b193077/tachiyomi-all.pawchive-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/pawchive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-all.pawchive-v1.6.3.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b193077/tachiyomi-all.pawchive-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -7130,9 +7130,9 @@
         "name": "HentaiHere",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentaihere",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-en.hentaihere-v1.6.1.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b193077/tachiyomi-en.hentaihere-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/hentaihere/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-en.hentaihere-v1.6.1.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b193077/tachiyomi-en.hentaihere-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -12306,9 +12306,9 @@
         "name": "Snafu Comics",
         "packageName": "eu.kanade.tachiyomi.extension.en.snafucomic",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-en.snafucomic-v1.6.0.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b193077/tachiyomi-en.snafucomic-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/snafucomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-en.snafucomic-v1.6.0.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b193077/tachiyomi-en.snafucomic-v1.6.0.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106000",
@@ -13940,13 +13940,13 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/7f1bb38-1/tachiyomi-es.emperorscan-v1.6.69.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b193077/tachiyomi-es.emperorscan-v1.4.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/7f1bb38-1/tachiyomi-es.emperorscan-v1.6.69.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b193077/tachiyomi-es.emperorscan-v1.4.14.jar"
         },
-        "extensionLib": "1.6",
-        "versionCode": "106069",
-        "versionName": "1.6.69",
+        "extensionLib": "1.4",
+        "versionCode": "104014",
+        "versionName": "1.4.14",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
