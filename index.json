@@ -3024,13 +3024,13 @@
         "name": "Pawchive",
         "packageName": "eu.kanade.tachiyomi.extension.all.pawchive",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/7f1bb38-0/tachiyomi-all.pawchive-v1.6.2.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-all.pawchive-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/pawchive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/7f1bb38-0/tachiyomi-all.pawchive-v1.6.2.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-all.pawchive-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -7130,13 +7130,13 @@
         "name": "HentaiHere",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentaihere",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/7f1bb38-0/tachiyomi-en.hentaihere-v1.6.0.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-en.hentaihere-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/hentaihere/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/7f1bb38-0/tachiyomi-en.hentaihere-v1.6.0.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-en.hentaihere-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -12299,6 +12299,27 @@
             "name": "Sleepy Translations",
             "language": "en",
             "homeUrl": "https://sleepytranslations.com"
+          }
+        ]
+      },
+      {
+        "name": "Snafu Comics",
+        "packageName": "eu.kanade.tachiyomi.extension.en.snafucomic",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-en.snafucomic-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/snafucomic/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/738df14/tachiyomi-en.snafucomic-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5425488988830744299",
+            "name": "Snafu Comics",
+            "language": "en",
+            "homeUrl": "https://www.snafu-comics.com"
           }
         ]
       },
