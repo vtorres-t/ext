@@ -4971,12 +4971,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.dragontranslationorg": {
     "apk": {
-      "name": "tachiyomi-es.dragontranslationorg-v1.6.58.apk",
-      "sha256": "ab4e9479c2da885ba324c1602aa6fe5962e86b4b3b41f4135c128791aabe76a6"
+      "name": "tachiyomi-es.dragontranslationorg-v1.6.59.apk",
+      "sha256": "df5e6e0d56631862a981ce2234896a1798eab569f6016472ea6a9d487d796557"
     },
     "jar": {
-      "name": "tachiyomi-es.dragontranslationorg-v1.6.58.jar",
-      "sha256": "8c5664b6866298d95d743b9e95c5226de6968032a99d631986b6e745a44d133b"
+      "name": "tachiyomi-es.dragontranslationorg-v1.6.59.jar",
+      "sha256": "f752f69bd6912ffe2f23c2a94f434658aa5b843bca79f5568255f75da884db64"
     }
   },
   "eu.kanade.tachiyomi.extension.es.dynasty": {
