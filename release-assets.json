@@ -4992,11 +4992,11 @@
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
     "apk": {
       "name": "tachiyomi-es.emperorscan-v1.4.15.apk",
-      "sha256": "60020d7400dbfc8c49dae22396950186128d3aa5d941fdc135b9c27ef3c83da8"
+      "sha256": "c9e52ffeccde176191a4d710316606bf89e92493923cec3bf998ba8ddbd16a96"
     },
     "jar": {
       "name": "tachiyomi-es.emperorscan-v1.4.15.jar",
-      "sha256": "97d079e6604bdfa844a7b58394cfa24b3e09d4a5ec5973a4ae98bd0e7757c4c5"
+      "sha256": "c226e9c5880ae7b4896722d2d04631b6b4f30b03c8335feb007084e4c3261bc9"
     }
   },
   "eu.kanade.tachiyomi.extension.es.enchiladascan": {
@@ -5581,12 +5581,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.submanhwa": {
     "apk": {
-      "name": "tachiyomi-es.submanhwa-v1.6.1.apk",
-      "sha256": "54aae74d55c3b02d868e942a979709c41a75ec0db735920b6184ff4a237d7eb2"
+      "name": "tachiyomi-es.submanhwa-v1.6.2.apk",
+      "sha256": "ed2d9f3c806dc96b18d85f147543d1395deb10c4633a17487bdd8a1546800fe4"
     },
     "jar": {
-      "name": "tachiyomi-es.submanhwa-v1.6.1.jar",
-      "sha256": "c7a1551b58bbd7d03d39e5e4812a816311d54d4c84659e373f4eae35ea4e0bc8"
+      "name": "tachiyomi-es.submanhwa-v1.6.2.jar",
+      "sha256": "be0fe83e0dd9ea21e2a00c05f975553f7f1980b38467cf7dac71e22777c4b2ee"
     }
   },
   "eu.kanade.tachiyomi.extension.es.taurusfansub": {
