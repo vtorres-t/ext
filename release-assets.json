@@ -5551,12 +5551,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.shadowmanga": {
     "apk": {
-      "name": "tachiyomi-es.shadowmanga-v1.6.4.apk",
-      "sha256": "1232a9b2dd9cecc81d2c680a0b3d61d2af31a3c5a9f4ed77e98e8b495ca5761c"
+      "name": "tachiyomi-es.shadowmanga-v1.6.5.apk",
+      "sha256": "fdb2834a6ee1d85b424e19983c1869756381bac73e59bc79db3cf959f205fed3"
     },
     "jar": {
-      "name": "tachiyomi-es.shadowmanga-v1.6.4.jar",
-      "sha256": "7fc38149f263f085800e8a599fb2e0d3a29182e5b2165487518df181be78c30f"
+      "name": "tachiyomi-es.shadowmanga-v1.6.5.jar",
+      "sha256": "55e7e9011388b385b9db349dadfab2e582ba849493b1f5b9f9998a85a59bd8de"
     }
   },
   "eu.kanade.tachiyomi.extension.es.skymangas": {
