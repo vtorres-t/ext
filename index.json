@@ -282,13 +282,13 @@
         "name": "Comikey",
         "packageName": "eu.kanade.tachiyomi.extension.all.comikey",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-0/tachiyomi-all.comikey-v1.6.11.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-all.comikey-v1.6.12.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/comikey/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-0/tachiyomi-all.comikey-v1.6.11.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-all.comikey-v1.6.12.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106011",
-        "versionName": "1.6.11",
+        "versionCode": "106012",
+        "versionName": "1.6.12",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3657,13 +3657,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-0/tachiyomi-all.xcomic-v1.6.8.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-all.xcomic-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-0/tachiyomi-all.xcomic-v1.6.8.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-all.xcomic-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -12243,13 +12243,13 @@
         "name": "SpyFakku",
         "packageName": "eu.kanade.tachiyomi.extension.en.spyfakku",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-en.spyfakku-v1.6.0.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-en.spyfakku-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/spyfakku/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-en.spyfakku-v1.6.0.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-en.spyfakku-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -12416,13 +12416,13 @@
         "name": "The Blank",
         "packageName": "eu.kanade.tachiyomi.extension.en.theblank",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-en.theblank-v1.6.0.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-en.theblank-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-en.theblank-v1.6.0.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-en.theblank-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -14763,13 +14763,13 @@
         "name": "NexusScanlation",
         "packageName": "eu.kanade.tachiyomi.extension.es.nexusscanlation",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-es.nexusscanlation-v1.6.5.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-es.nexusscanlation-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/nexusscanlation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-es.nexusscanlation-v1.6.5.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-es.nexusscanlation-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -14847,13 +14847,13 @@
         "name": "OrckuMangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.orckumangas",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-es.orckumangas-v1.6.1.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-es.orckumangas-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/orckumangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-es.orckumangas-v1.6.1.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-es.orckumangas-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -15063,13 +15063,13 @@
         "name": "Submanhwa",
         "packageName": "eu.kanade.tachiyomi.extension.es.submanhwa",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-es.submanhwa-v1.6.0.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-es.submanhwa-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/submanhwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-es.submanhwa-v1.6.0.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/bda1ad2/tachiyomi-es.submanhwa-v1.6.1.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
