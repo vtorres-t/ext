@@ -7073,9 +7073,9 @@
         "name": "HentaiFC",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentaifc",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-en.hentaifc-v1.6.0.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/eb61435/tachiyomi-en.hentaifc-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/hentaifc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-en.hentaifc-v1.6.0.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/eb61435/tachiyomi-en.hentaifc-v1.6.0.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106000",
@@ -12926,9 +12926,9 @@
         "name": "Webnex",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-en.webnex-v1.6.0.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/eb61435/tachiyomi-en.webnex-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-en.webnex-v1.6.0.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/eb61435/tachiyomi-en.webnex-v1.6.0.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106000",
@@ -13856,9 +13856,9 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9caec86/tachiyomi-es.emperorscan-v1.4.15.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/eb61435/tachiyomi-es.emperorscan-v1.4.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9caec86/tachiyomi-es.emperorscan-v1.4.15.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/eb61435/tachiyomi-es.emperorscan-v1.4.15.jar"
         },
         "extensionLib": "1.4",
         "versionCode": "104015",
@@ -13869,7 +13869,7 @@
             "id": "4562754350961964148",
             "name": "Emperor Scan",
             "language": "es",
-            "homeUrl": "https://imperiomanhua.com"
+            "homeUrl": "https://imperiomanhwa.com"
           }
         ]
       },
@@ -14318,9 +14318,9 @@
         "name": "MangoLibreria",
         "packageName": "eu.kanade.tachiyomi.extension.es.lectormonline",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-es.lectormonline-v1.6.4.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/eb61435/tachiyomi-es.lectormonline-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lectormonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-es.lectormonline-v1.6.4.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/eb61435/tachiyomi-es.lectormonline-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",

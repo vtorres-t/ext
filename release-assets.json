@@ -2102,11 +2102,11 @@
   "eu.kanade.tachiyomi.extension.en.hentaifc": {
     "apk": {
       "name": "tachiyomi-en.hentaifc-v1.6.0.apk",
-      "sha256": "d9ed4899a56d1108920417440ca943ee927facea4eb9bfddc6d301e7d2a48751"
+      "sha256": "3d641c9b2817b2819a1e4358d6836fa6035445fd21dd48bba4684be272d630a3"
     },
     "jar": {
       "name": "tachiyomi-en.hentaifc-v1.6.0.jar",
-      "sha256": "88199e6bddf7ba82e563d4af82b4bb3d4432005feaf6c406c3bc09dcba578bd1"
+      "sha256": "d5886b83c49659bc86196a61d9d9d3138845343fad2478eb8359f8d02e07e8cb"
     }
   },
   "eu.kanade.tachiyomi.extension.en.hentaihere": {
@@ -4572,11 +4572,11 @@
   "eu.kanade.tachiyomi.extension.en.webnex": {
     "apk": {
       "name": "tachiyomi-en.webnex-v1.6.0.apk",
-      "sha256": "071dd779812ff95371abfb62205ba9a2600d24680c179ce7cf12fd86512d14ce"
+      "sha256": "9675e857dbd9beb1da55035486088549289710acf40d154e9b6963a1c0b06a93"
     },
     "jar": {
       "name": "tachiyomi-en.webnex-v1.6.0.jar",
-      "sha256": "a7af0103cad56f7ff8889043f8293166dc926e4461584512a43dda2a34b39933"
+      "sha256": "4ffe22c454ac1a2bf06eab8b31ccbac9d343c9ab0cdf327ee748ad2b8bf7a471"
     }
   },
   "eu.kanade.tachiyomi.extension.en.webnovel": {
@@ -5012,11 +5012,11 @@
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
     "apk": {
       "name": "tachiyomi-es.emperorscan-v1.4.15.apk",
-      "sha256": "c9e52ffeccde176191a4d710316606bf89e92493923cec3bf998ba8ddbd16a96"
+      "sha256": "be3a1e96891be299dcb99c58683def43eaf15fed431ca5ceb81c0616713a5590"
     },
     "jar": {
       "name": "tachiyomi-es.emperorscan-v1.4.15.jar",
-      "sha256": "c226e9c5880ae7b4896722d2d04631b6b4f30b03c8335feb007084e4c3261bc9"
+      "sha256": "b1145c915306a48d3b2bfc4521f0977c92251c9afb24387f5d8ddd0db0c086df"
     }
   },
   "eu.kanade.tachiyomi.extension.es.enchiladascan": {
@@ -5232,11 +5232,11 @@
   "eu.kanade.tachiyomi.extension.es.lectormonline": {
     "apk": {
       "name": "tachiyomi-es.lectormonline-v1.6.4.apk",
-      "sha256": "f668d589d56a7c01dca520c25bbe277e70116858b0c56fafa49e2fed23cbea4d"
+      "sha256": "2e4bb82b17c82e54cac60b1b10f5cde396fb3e14c1b27ae95f51f03fe312d12d"
     },
     "jar": {
       "name": "tachiyomi-es.lectormonline-v1.6.4.jar",
-      "sha256": "c7f4bc8eb6b9c3f332446d57935d1ebf6ad601db1ab94d6c5613e88d74312804"
+      "sha256": "709fd504e0ab30aa7ed5e3c4829b086be496b21642839d27187f7b2b9ab637a8"
     }
   },
   "eu.kanade.tachiyomi.extension.es.leercapitulo": {
