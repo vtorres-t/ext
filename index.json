@@ -7070,6 +7070,27 @@
         ]
       },
       {
+        "name": "HentaiFC",
+        "packageName": "eu.kanade.tachiyomi.extension.en.hentaifc",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-en.hentaifc-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/hentaifc/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-en.hentaifc-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4541545529482216024",
+            "name": "HentaiFC",
+            "language": "en",
+            "homeUrl": "https://hentaifc.com"
+          }
+        ]
+      },
+      {
         "name": "HentaiHere",
         "packageName": "eu.kanade.tachiyomi.extension.en.hentaihere",
         "resources": {
@@ -12902,6 +12923,27 @@
         ]
       },
       {
+        "name": "Webnex",
+        "packageName": "eu.kanade.tachiyomi.extension.en.webnex",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-en.webnex-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-en.webnex-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "319678837350572744",
+            "name": "Webnex",
+            "language": "en",
+            "homeUrl": "https://webnex.cc"
+          }
+        ]
+      },
+      {
         "name": "WebNovel",
         "packageName": "eu.kanade.tachiyomi.extension.en.webnovel",
         "resources": {
@@ -14276,13 +14318,13 @@
         "name": "MangoLibreria",
         "packageName": "eu.kanade.tachiyomi.extension.es.lectormonline",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-es.lectormonline-v1.6.3.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-es.lectormonline-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lectormonline/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9fbf6b3-1/tachiyomi-es.lectormonline-v1.6.3.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/1ea5bfb/tachiyomi-es.lectormonline-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

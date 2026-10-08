@@ -2099,6 +2099,16 @@
       "sha256": "7ad09d648a3ca7c5db2068b10b28abecc73eec7b9d63461a02a87d46e2a0dd33"
     }
   },
+  "eu.kanade.tachiyomi.extension.en.hentaifc": {
+    "apk": {
+      "name": "tachiyomi-en.hentaifc-v1.6.0.apk",
+      "sha256": "d9ed4899a56d1108920417440ca943ee927facea4eb9bfddc6d301e7d2a48751"
+    },
+    "jar": {
+      "name": "tachiyomi-en.hentaifc-v1.6.0.jar",
+      "sha256": "88199e6bddf7ba82e563d4af82b4bb3d4432005feaf6c406c3bc09dcba578bd1"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.hentaihere": {
     "apk": {
       "name": "tachiyomi-en.hentaihere-v1.6.1.apk",
@@ -4559,6 +4569,16 @@
       "sha256": "db9ce7a4945a92311699f26f3dbf5779cd63465bc79d8b717ce40c0fa3c7e9b2"
     }
   },
+  "eu.kanade.tachiyomi.extension.en.webnex": {
+    "apk": {
+      "name": "tachiyomi-en.webnex-v1.6.0.apk",
+      "sha256": "071dd779812ff95371abfb62205ba9a2600d24680c179ce7cf12fd86512d14ce"
+    },
+    "jar": {
+      "name": "tachiyomi-en.webnex-v1.6.0.jar",
+      "sha256": "a7af0103cad56f7ff8889043f8293166dc926e4461584512a43dda2a34b39933"
+    }
+  },
   "eu.kanade.tachiyomi.extension.en.webnovel": {
     "apk": {
       "name": "tachiyomi-en.webnovel-v1.6.14.apk",
@@ -5211,12 +5231,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.lectormonline": {
     "apk": {
-      "name": "tachiyomi-es.lectormonline-v1.6.3.apk",
-      "sha256": "83c44b31f234a4daf05adcf7179723d679823db9e4cd5aef9b898bb6012112c6"
+      "name": "tachiyomi-es.lectormonline-v1.6.4.apk",
+      "sha256": "f668d589d56a7c01dca520c25bbe277e70116858b0c56fafa49e2fed23cbea4d"
     },
     "jar": {
-      "name": "tachiyomi-es.lectormonline-v1.6.3.jar",
-      "sha256": "119e37ec81c6432fdbdfeda12673be914b5dfb29b1090e422702f90e2c935a4a"
+      "name": "tachiyomi-es.lectormonline-v1.6.4.jar",
+      "sha256": "c7f4bc8eb6b9c3f332446d57935d1ebf6ad601db1ab94d6c5613e88d74312804"
     }
   },
   "eu.kanade.tachiyomi.extension.es.leercapitulo": {
