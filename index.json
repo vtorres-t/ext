@@ -13991,14 +13991,14 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/51a7595-1/tachiyomi-es.emperorscan-v1.4.15.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/0443a5a/tachiyomi-es.emperorscan-v1.6.70.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/51a7595-1/tachiyomi-es.emperorscan-v1.4.15.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/0443a5a/tachiyomi-es.emperorscan-v1.6.70.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104015",
-        "versionName": "1.4.15",
-        "contentWarning": "CONTENT_WARNING_SAFE",
+        "extensionLib": "1.6",
+        "versionCode": "106070",
+        "versionName": "1.6.70",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "4562754350961964148",
