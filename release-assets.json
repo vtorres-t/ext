@@ -5142,11 +5142,11 @@
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
     "apk": {
       "name": "tachiyomi-es.emperorscan-v1.6.71.apk",
-      "sha256": "15d614a31bbab9857c2c1264751f772d811726c7660fc1ba0a2d5a6d45cd78c6"
+      "sha256": "0b0eebafe9f910333960bc00559b2a85981818fe5e788d4a7357be8912caabca"
     },
     "jar": {
       "name": "tachiyomi-es.emperorscan-v1.6.71.jar",
-      "sha256": "2d4e70504d43b3552d35b48a3f2faa56766793de95d74d1340e20ffa709f7eca"
+      "sha256": "26c792f921cba3561502098d9cfaabb7bfc542426e4ba816927873eb67a9899e"
     }
   },
   "eu.kanade.tachiyomi.extension.es.enchiladascan": {
