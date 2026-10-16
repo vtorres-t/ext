@@ -5141,12 +5141,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.emperorscan": {
     "apk": {
-      "name": "tachiyomi-es.emperorscan-v1.6.70.apk",
-      "sha256": "a7c3ee75af1d5244293b1f18df01746e9ebd6dc9a834f59b857d7ca3d1ba6afe"
+      "name": "tachiyomi-es.emperorscan-v1.6.71.apk",
+      "sha256": "8d123b0b436af6d4885ba080a9e56ce4600180343fe9370fa461ef7876b4ec0a"
     },
     "jar": {
-      "name": "tachiyomi-es.emperorscan-v1.6.70.jar",
-      "sha256": "5bd6bd265772d45c593f0d27fc734fdfa3355799613f3a85e3c41c7ef4f82998"
+      "name": "tachiyomi-es.emperorscan-v1.6.71.jar",
+      "sha256": "39b1990ae46e57633e8cb5e020a96706a936a75c6c03acd71ef5d82135cee61b"
     }
   },
   "eu.kanade.tachiyomi.extension.es.enchiladascan": {
