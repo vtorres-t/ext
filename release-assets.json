@@ -5481,12 +5481,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.mangatv": {
     "apk": {
-      "name": "tachiyomi-es.mangatv-v1.6.3.apk",
-      "sha256": "945aae641c09e854577ece0c2c17bf00416599308f643cee258b4f8167d1fc9d"
+      "name": "tachiyomi-es.mangatv-v1.6.4.apk",
+      "sha256": "c0c3a15f0b0343aa0eadb1d3dcb4804ec53fc93d03670e67acf2e72ebc3fa38d"
     },
     "jar": {
-      "name": "tachiyomi-es.mangatv-v1.6.3.jar",
-      "sha256": "124610aafcec10b8134d29f3b4afb74f1654fdd1baa69ecc7941b5abc09481ce"
+      "name": "tachiyomi-es.mangatv-v1.6.4.jar",
+      "sha256": "b00c3922cc4cc3bd1b64755f8da4ab9f5d0fbc5398de5a3b5860b796b7bd8803"
     }
   },
   "eu.kanade.tachiyomi.extension.es.manhuaonline": {
