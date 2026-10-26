@@ -4511,12 +4511,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.templescan": {
     "apk": {
-      "name": "tachiyomi-en.templescan-v1.6.61.apk",
-      "sha256": "ea5de9a96aba0f168311e467093c2b1d5ad379efa3c4d1b68ff186ec36259279"
+      "name": "tachiyomi-en.templescan-v1.6.62.apk",
+      "sha256": "0e4dc0a76c7c5e1f8e04e5259276b9e711e1eb7482d89b6d28c924826955479a"
     },
     "jar": {
-      "name": "tachiyomi-en.templescan-v1.6.61.jar",
-      "sha256": "da9302f905502e2e89b8bcaccc0d382facae9dee537c8fa611515e812e7f99de"
+      "name": "tachiyomi-en.templescan-v1.6.62.jar",
+      "sha256": "98f73693a4010d1f603e9f1e6ec9791cd2b237350337a281373c0a548556bfcd"
     }
   },
   "eu.kanade.tachiyomi.extension.en.thebeginningaftertheendmangaonline": {
