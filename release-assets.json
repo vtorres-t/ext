@@ -5092,11 +5092,11 @@
   "eu.kanade.tachiyomi.extension.es.capibaratraductor": {
     "apk": {
       "name": "tachiyomi-es.capibaratraductor-v1.6.2.apk",
-      "sha256": "17e6670af9e3a755b4b1f8378e1c257cf8aa60a5f8c09c214f3fce0e98d65893"
+      "sha256": "0dde5a15c6810b7c2110d1fc3d08286273e89454646ea33586e02f19b3869705"
     },
     "jar": {
       "name": "tachiyomi-es.capibaratraductor-v1.6.2.jar",
-      "sha256": "7dcab851a44dbaa71d445abbd459dc6a58e455b5f399a45fa36edd0832c43e90"
+      "sha256": "a81483c3599472414574f9fc54f6d108ed3ccef9228317fcb8e05d34c3577abe"
     }
   },
   "eu.kanade.tachiyomi.extension.es.catharsisworld": {

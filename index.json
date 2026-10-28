@@ -13898,9 +13898,9 @@
         "name": "CapibaraTraductor",
         "packageName": "eu.kanade.tachiyomi.extension.es.capibaratraductor",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/6b26eca-1/tachiyomi-es.capibaratraductor-v1.6.2.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/222eb1d/tachiyomi-es.capibaratraductor-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/capibaratraductor/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/6b26eca-1/tachiyomi-es.capibaratraductor-v1.6.2.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/222eb1d/tachiyomi-es.capibaratraductor-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
