@@ -1571,12 +1571,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.coffeemangaunoriginal": {
     "apk": {
-      "name": "tachiyomi-en.coffeemangaunoriginal-v1.6.57.apk",
-      "sha256": "486f43cd635e45ce341fa7697c18d37e6f4532cc1ad65a2ebe137c4f25c3b8bc"
+      "name": "tachiyomi-en.coffeemangaunoriginal-v1.6.58.apk",
+      "sha256": "c5bece17eddffa7f08f3864b727eca5c6657941a3d3de01b69728d016ae9bc2b"
     },
     "jar": {
-      "name": "tachiyomi-en.coffeemangaunoriginal-v1.6.57.jar",
-      "sha256": "a0de227bed8c97799a1ac512e492c4c930e04f37da0f1db196de39958f19d162"
+      "name": "tachiyomi-en.coffeemangaunoriginal-v1.6.58.jar",
+      "sha256": "49bf92159b96a110dd130b40f6d69ab8902d57716582223390295c6200ce1834"
     }
   },
   "eu.kanade.tachiyomi.extension.en.collectedcurios": {
@@ -5227,16 +5227,6 @@
     "jar": {
       "name": "tachiyomi-es.dynasty-v1.6.0.jar",
       "sha256": "749b644ad377576d2cbd39251ab21ce4e26964e822bb1cc291735ef4b916f42e"
-    }
-  },
-  "eu.kanade.tachiyomi.extension.es.emperorscan": {
-    "apk": {
-      "name": "tachiyomi-es.emperorscan-v1.6.71.apk",
-      "sha256": "e3a5a1d3940de71fd5925b4a23004fe85653df0ebb7eed8e66261d6a4b0fef7d"
-    },
-    "jar": {
-      "name": "tachiyomi-es.emperorscan-v1.6.71.jar",
-      "sha256": "682b3c892b3cf0bf311db319f9bc2959ae48fa1b5e55f6a82e4b4c466b5f8a8b"
     }
   },
   "eu.kanade.tachiyomi.extension.es.enchiladascan": {

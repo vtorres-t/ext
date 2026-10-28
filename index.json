@@ -5830,13 +5830,13 @@
         "name": "Coffee Manga (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.coffeemangaunoriginal",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/6b26eca-0/tachiyomi-en.coffeemangaunoriginal-v1.6.57.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/269883c/tachiyomi-en.coffeemangaunoriginal-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/coffeemangaunoriginal/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/6b26eca-0/tachiyomi-en.coffeemangaunoriginal-v1.6.57.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/269883c/tachiyomi-en.coffeemangaunoriginal-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106057",
-        "versionName": "1.6.57",
+        "versionCode": "106058",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -14191,27 +14191,6 @@
             "name": "Dynasty",
             "language": "es",
             "homeUrl": "https://manhuako.net"
-          }
-        ]
-      },
-      {
-        "name": "Emperor Scan",
-        "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/6b26eca-1/tachiyomi-es.emperorscan-v1.6.71.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/6b26eca-1/tachiyomi-es.emperorscan-v1.6.71.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106071",
-        "versionName": "1.6.71",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "4562754350961964148",
-            "name": "Emperor Scan",
-            "language": "es",
-            "homeUrl": "https://imperiomanhwa.com"
           }
         ]
       },
