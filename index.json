@@ -1242,6 +1242,54 @@
         ]
       },
       {
+        "name": "Kagane",
+        "packageName": "eu.kanade.tachiyomi.extension.all.kagane",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-all.kagane-v1.6.37.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-all.kagane-v1.6.37.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106037",
+        "versionName": "1.6.37",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4024736764982024684",
+            "name": "Kagane",
+            "language": "en",
+            "homeUrl": "https://kagane.cx",
+            "mirrorUrls": [
+              "https://kagane.cx",
+              "https://kagane.moe",
+              "https://kagane.net"
+            ]
+          },
+          {
+            "id": "6291099060619088371",
+            "name": "Kagane",
+            "language": "es",
+            "homeUrl": "https://kagane.cx",
+            "mirrorUrls": [
+              "https://kagane.cx",
+              "https://kagane.moe",
+              "https://kagane.net"
+            ]
+          },
+          {
+            "id": "3249170492103400191",
+            "name": "Kagane",
+            "language": "es-419",
+            "homeUrl": "https://kagane.cx",
+            "mirrorUrls": [
+              "https://kagane.cx",
+              "https://kagane.moe",
+              "https://kagane.net"
+            ]
+          }
+        ]
+      },
+      {
         "name": "Kemono",
         "packageName": "eu.kanade.tachiyomi.extension.all.kemono",
         "resources": {
@@ -5809,9 +5857,9 @@
         "name": "Coffee Manga (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.coffeemangaunoriginal",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/ab7ff09/tachiyomi-en.coffeemangaunoriginal-v1.6.58.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.coffeemangaunoriginal-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/coffeemangaunoriginal/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/ab7ff09/tachiyomi-en.coffeemangaunoriginal-v1.6.58.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.coffeemangaunoriginal-v1.6.58.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106058",
@@ -9332,13 +9380,13 @@
         "name": "Manga Drama",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadrama",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-0/tachiyomi-en.mangadrama-v1.6.4.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.mangadrama-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mangadrama/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-0/tachiyomi-en.mangadrama-v1.6.4.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.mangadrama-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -10752,13 +10800,13 @@
         "name": "Mgread.io",
         "packageName": "eu.kanade.tachiyomi.extension.en.mgreadio",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-1/tachiyomi-en.mgreadio-v1.6.3.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.mgreadio-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/mgreadio/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-1/tachiyomi-en.mgreadio-v1.6.3.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.mgreadio-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -11018,6 +11066,48 @@
             "name": "NineHentai",
             "language": "en",
             "homeUrl": "https://9hentai.so"
+          }
+        ]
+      },
+      {
+        "name": "Nortverse",
+        "packageName": "eu.kanade.tachiyomi.extension.en.nortverse",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.nortverse-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/nortverse/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.nortverse-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "2836009758311292809",
+            "name": "Nortverse",
+            "language": "en",
+            "homeUrl": "https://nortverse.com"
+          }
+        ]
+      },
+      {
+        "name": "NovelCrow",
+        "packageName": "eu.kanade.tachiyomi.extension.en.novelcrow",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.novelcrow-v1.6.56.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/novelcrow/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-en.novelcrow-v1.6.56.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106056",
+        "versionName": "1.6.56",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "4344163117450761946",
+            "name": "NovelCrow",
+            "language": "en",
+            "homeUrl": "https://novelcrow.com"
           }
         ]
       },
@@ -13940,20 +14030,20 @@
         "name": "Celestial Moon",
         "packageName": "eu.kanade.tachiyomi.extension.es.celestialmoon",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-1/tachiyomi-es.celestialmoon-v1.6.3.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-es.celestialmoon-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/celestialmoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-1/tachiyomi-es.celestialmoon-v1.6.3.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-es.celestialmoon-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "7771256386177960897",
             "name": "Celestial Moon",
             "language": "es",
-            "homeUrl": "https://celestialmoonscan.es"
+            "homeUrl": "https://lecturacelestialmoon.site"
           }
         ]
       },
@@ -14156,9 +14246,9 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/ab7ff09/tachiyomi-es.emperorscan-v1.6.72.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-es.emperorscan-v1.6.72.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/ab7ff09/tachiyomi-es.emperorscan-v1.6.72.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-es.emperorscan-v1.6.72.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106072",
@@ -14765,13 +14855,13 @@
         "name": "Manga Mukai",
         "packageName": "eu.kanade.tachiyomi.extension.es.mangashiina",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-1/tachiyomi-es.mangashiina-v1.6.1.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-es.mangashiina-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/mangashiina/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-1/tachiyomi-es.mangashiina-v1.6.1.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/8133b19/tachiyomi-es.mangashiina-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
