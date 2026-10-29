@@ -5857,9 +5857,9 @@
         "name": "Coffee Manga (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.en.coffeemangaunoriginal",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/ef3b541/tachiyomi-en.coffeemangaunoriginal-v1.6.58.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/f4de0de/tachiyomi-en.coffeemangaunoriginal-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/coffeemangaunoriginal/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/ef3b541/tachiyomi-en.coffeemangaunoriginal-v1.6.58.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/f4de0de/tachiyomi-en.coffeemangaunoriginal-v1.6.58.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106058",
@@ -14246,9 +14246,9 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/ef3b541/tachiyomi-es.emperorscan-v1.6.72.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/f4de0de/tachiyomi-es.emperorscan-v1.6.72.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/ef3b541/tachiyomi-es.emperorscan-v1.6.72.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/f4de0de/tachiyomi-es.emperorscan-v1.6.72.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106072",
