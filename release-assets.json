@@ -5231,12 +5231,12 @@
   },
   "eu.kanade.tachiyomi.extension.es.dragontranslationorg": {
     "apk": {
-      "name": "tachiyomi-es.dragontranslationorg-v1.6.60.apk",
-      "sha256": "4edee09a2b3f0e54b05d5600320b74deae395c7803ec5d066c097c84698bd671"
+      "name": "tachiyomi-es.dragontranslationorg-v1.6.61.apk",
+      "sha256": "e3122f29ec50dfc64ec676b8ac066c1b359abd26acc4d9f1f509dd94906c3796"
     },
     "jar": {
-      "name": "tachiyomi-es.dragontranslationorg-v1.6.60.jar",
-      "sha256": "89a41f2eafd0551185f6371c56b805873a33d9493af71cd86d09c7e4f1c56f4c"
+      "name": "tachiyomi-es.dragontranslationorg-v1.6.61.jar",
+      "sha256": "7ef559f4671c17c0199f1a4ff4683dd4f42905b5ed7992fb362da915149d6a2f"
     }
   },
   "eu.kanade.tachiyomi.extension.es.emperorscan": {

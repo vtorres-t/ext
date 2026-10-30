@@ -14225,13 +14225,13 @@
         "name": "DragonTranslation.org",
         "packageName": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-1/tachiyomi-es.dragontranslationorg-v1.6.60.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/c41b4ac/tachiyomi-es.dragontranslationorg-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/dragontranslationorg/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/269883c-1/tachiyomi-es.dragontranslationorg-v1.6.60.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/c41b4ac/tachiyomi-es.dragontranslationorg-v1.6.61.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
+        "versionCode": "106061",
+        "versionName": "1.6.61",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
