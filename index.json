@@ -3336,6 +3336,33 @@
         ]
       },
       {
+        "name": "PornPics",
+        "packageName": "eu.kanade.tachiyomi.extension.all.pornpics",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/acd122f/tachiyomi-all.pornpics-v1.6.0.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/pornpics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/acd122f/tachiyomi-all.pornpics-v1.6.0.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106000",
+        "versionName": "1.6.0",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1459635082044256286",
+            "name": "PornPics",
+            "language": "en",
+            "homeUrl": "https://www.pornpics.com"
+          },
+          {
+            "id": "2780049974046464526",
+            "name": "PornPics",
+            "language": "es",
+            "homeUrl": "https://www.pornpics.com"
+          }
+        ]
+      },
+      {
         "name": "Project Suki",
         "packageName": "eu.kanade.tachiyomi.extension.all.projectsuki",
         "resources": {
@@ -6167,6 +6194,27 @@
         ]
       },
       {
+        "name": "Decadence Scans",
+        "packageName": "eu.kanade.tachiyomi.extension.en.decadencescans",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/acd122f/tachiyomi-en.decadencescans-v1.6.58.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/decadencescans/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/acd122f/tachiyomi-en.decadencescans-v1.6.58.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106058",
+        "versionName": "1.6.58",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7432245132662185058",
+            "name": "Decadence Scans",
+            "language": "en",
+            "homeUrl": "https://reader.decadencescans.com"
+          }
+        ]
+      },
+      {
         "name": "Digital Comic Museum",
         "packageName": "eu.kanade.tachiyomi.extension.en.digitalcomicmuseum",
         "resources": {
@@ -6793,27 +6841,6 @@
             "name": "Gourmet Scans",
             "language": "en",
             "homeUrl": "https://gourmetsupremacy.com"
-          }
-        ]
-      },
-      {
-        "name": "Grrl Power Comic",
-        "packageName": "eu.kanade.tachiyomi.extension.en.grrlpower",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4aea4cc-0/tachiyomi-en.grrlpower-v1.6.0.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/grrlpower/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4aea4cc-0/tachiyomi-en.grrlpower-v1.6.0.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106000",
-        "versionName": "1.6.0",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1991252499508931836",
-            "name": "Grrl Power Comic",
-            "language": "en",
-            "homeUrl": "https://www.grrlpowercomic.com"
           }
         ]
       },
@@ -8011,6 +8038,27 @@
             "name": "Kun Manga Online",
             "language": "en",
             "homeUrl": "https://www.kunmanga.online"
+          }
+        ]
+      },
+      {
+        "name": "KuraManga",
+        "packageName": "eu.kanade.tachiyomi.extension.en.kuramanga",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/acd122f/tachiyomi-en.kuramanga-v1.6.3.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/en/kuramanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/acd122f/tachiyomi-en.kuramanga-v1.6.3.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7076475127850729187",
+            "name": "KuraManga",
+            "language": "en",
+            "homeUrl": "https://kuramanga.com"
           }
         ]
       },
@@ -14804,27 +14852,6 @@
         ]
       },
       {
-        "name": "Lolivault",
-        "packageName": "eu.kanade.tachiyomi.extension.es.lolivault",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4aea4cc-1/tachiyomi-es.lolivault-v1.6.6.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4aea4cc-1/tachiyomi-es.lolivault-v1.6.6.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "1420213267345607410",
-            "name": "Lolivault",
-            "language": "es",
-            "homeUrl": "https://lector.lolivault.net"
-          }
-        ]
-      },
-      {
         "name": "Manga Crab",
         "packageName": "eu.kanade.tachiyomi.extension.es.mangacrab",
         "resources": {
@@ -15105,9 +15132,9 @@
         "name": "MHScans",
         "packageName": "eu.kanade.tachiyomi.extension.es.mhscans",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4aea4cc-1/tachiyomi-es.mhscans-v1.6.71.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/acd122f/tachiyomi-es.mhscans-v1.6.71.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/mhscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4aea4cc-1/tachiyomi-es.mhscans-v1.6.71.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/acd122f/tachiyomi-es.mhscans-v1.6.71.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106071",
@@ -15115,7 +15142,7 @@
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3253304651550496369",
+            "id": "9008444898589746680",
             "name": "MHScans",
             "language": "es",
             "homeUrl": "https://mhscans.com"
