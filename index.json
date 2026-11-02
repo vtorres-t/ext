@@ -342,27 +342,6 @@
         ]
       },
       {
-        "name": "DB New Hope",
-        "packageName": "eu.kanade.tachiyomi.extension.all.dbnewhope",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/0339deb-0/tachiyomi-all.dbnewhope-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/dbnewhope/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/0339deb-0/tachiyomi-all.dbnewhope-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "909008906078523978",
-            "name": "DB New Hope",
-            "language": "all",
-            "homeUrl": "https://dbnewhope.com"
-          }
-        ]
-      },
-      {
         "name": "Doujiva",
         "packageName": "eu.kanade.tachiyomi.extension.all.doujiva",
         "resources": {
@@ -1103,33 +1082,6 @@
             "name": "IMHentai",
             "language": "all",
             "homeUrl": "https://imhentai.xxx"
-          }
-        ]
-      },
-      {
-        "name": "INKRUSH",
-        "packageName": "eu.kanade.tachiyomi.extension.all.inkrush",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/0339deb-0/tachiyomi-all.inkrush-v1.6.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/inkrush/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/0339deb-0/tachiyomi-all.inkrush-v1.6.2.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "8266025984012516367",
-            "name": "INKRUSH",
-            "language": "en",
-            "homeUrl": "https://inkrush.site"
-          },
-          {
-            "id": "4051674970574307340",
-            "name": "INKRUSH",
-            "language": "id",
-            "homeUrl": "https://inkrush.site"
           }
         ]
       },
@@ -6198,6 +6150,27 @@
         ]
       },
       {
+        "name": "HeavenManga",
+        "packageName": "eu.kanade.tachiyomi.extension.es.heavenmanga",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/fd4d1f3/tachiyomi-es.heavenmanga-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/heavenmanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/fd4d1f3/tachiyomi-es.heavenmanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1872740333369520717",
+            "name": "HeavenManga",
+            "language": "es",
+            "homeUrl": "https://heavenmanga.com"
+          }
+        ]
+      },
+      {
         "name": "HentaiMode",
         "packageName": "eu.kanade.tachiyomi.extension.es.hentaimode",
         "resources": {
@@ -6614,6 +6587,27 @@
             "name": "Lmtos",
             "language": "es",
             "homeUrl": "https://lmtos.net"
+          }
+        ]
+      },
+      {
+        "name": "Lolivault",
+        "packageName": "eu.kanade.tachiyomi.extension.es.lolivault",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/fd4d1f3/tachiyomi-es.lolivault-v1.6.7.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/fd4d1f3/tachiyomi-es.lolivault-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1420213267345607410",
+            "name": "Lolivault",
+            "language": "es",
+            "homeUrl": "https://lector.lolivault.net"
           }
         ]
       },
