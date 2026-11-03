@@ -791,6 +791,27 @@
         ]
       },
       {
+        "name": "Kumanga",
+        "packageName": "eu.kanade.tachiyomi.extension.es.kumanga",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9615cad/tachiyomi-es.kumanga-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/kumanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9615cad/tachiyomi-es.kumanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5818858964600650549",
+            "name": "Kumanga",
+            "language": "es",
+            "homeUrl": "https://www.kumanga.com"
+          }
+        ]
+      },
+      {
         "name": "Lector Asteria",
         "packageName": "eu.kanade.tachiyomi.extension.es.lectorasteria",
         "resources": {
@@ -997,6 +1018,27 @@
             "name": "Lmtos",
             "language": "es",
             "homeUrl": "https://lmtos.net"
+          }
+        ]
+      },
+      {
+        "name": "Lolivault",
+        "packageName": "eu.kanade.tachiyomi.extension.es.lolivault",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9615cad/tachiyomi-es.lolivault-v1.6.7.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9615cad/tachiyomi-es.lolivault-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1420213267345607410",
+            "name": "Lolivault",
+            "language": "es",
+            "homeUrl": "https://lector.lolivault.net"
           }
         ]
       },
@@ -1463,6 +1505,27 @@
             "name": "Plot Twist No Fansub",
             "language": "es",
             "homeUrl": "https://plotnofansub.com"
+          }
+        ]
+      },
+      {
+        "name": "Pzykosis666HFansub",
+        "packageName": "eu.kanade.tachiyomi.extension.es.pzykosis666hfansub",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9615cad/tachiyomi-es.pzykosis666hfansub-v1.6.7.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/lib-multisrc/foolslide/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9615cad/tachiyomi-es.pzykosis666hfansub-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6241339222563280170",
+            "name": "Pzykosis666HFansub",
+            "language": "es",
+            "homeUrl": "https://lector.pzykosis666hfansub.com"
           }
         ]
       },
