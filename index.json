@@ -606,26 +606,6 @@
         ]
       },
       {
-        "name": "Dynasty",
-        "packageName": "eu.kanade.tachiyomi.extension.es.dynasty",
-        "resources": {
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/dynasty/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9dcb981/tachiyomi-es.dynasty-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "1788469981763672104",
-            "name": "Dynasty",
-            "language": "es",
-            "homeUrl": "https://manhuako.net"
-          }
-        ]
-      },
-      {
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
@@ -1142,26 +1122,6 @@
             "name": "Lmtos",
             "language": "es",
             "homeUrl": "https://lmtos.net"
-          }
-        ]
-      },
-      {
-        "name": "Lolivault",
-        "packageName": "eu.kanade.tachiyomi.extension.es.lolivault",
-        "resources": {
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2cd9d29/tachiyomi-es.lolivault-v1.6.7.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "1420213267345607410",
-            "name": "Lolivault",
-            "language": "es",
-            "homeUrl": "https://lector.lolivault.net"
           }
         ]
       },
