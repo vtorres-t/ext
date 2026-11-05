@@ -344,7 +344,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.es.capibaratraductor",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/capibaratraductor/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9dcb981/tachiyomi-es.capibaratraductor-v1.6.5.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2cd9d29/tachiyomi-es.capibaratraductor-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -364,7 +364,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9dcb981/tachiyomi-es.catharsisworld-v1.6.5.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2cd9d29/tachiyomi-es.catharsisworld-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -384,7 +384,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.es.catmanhwas",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/catmanhwas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9dcb981/tachiyomi-es.catmanhwas-v1.6.1.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2cd9d29/tachiyomi-es.catmanhwas-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -464,7 +464,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.es.codearc",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/codearc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9dcb981/tachiyomi-es.codearc-v1.6.4.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2cd9d29/tachiyomi-es.codearc-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -630,7 +630,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9dcb981/tachiyomi-es.emperorscan-v1.6.74.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2cd9d29/tachiyomi-es.emperorscan-v1.6.74.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106074",
@@ -770,7 +770,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
         "resources": {
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9dcb981/tachiyomi-es.ikigaimangas-v1.6.44.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2cd9d29/tachiyomi-es.ikigaimangas-v1.6.44.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106044",
@@ -1142,6 +1142,26 @@
             "name": "Lmtos",
             "language": "es",
             "homeUrl": "https://lmtos.net"
+          }
+        ]
+      },
+      {
+        "name": "Lolivault",
+        "packageName": "eu.kanade.tachiyomi.extension.es.lolivault",
+        "resources": {
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2cd9d29/tachiyomi-es.lolivault-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1420213267345607410",
+            "name": "Lolivault",
+            "language": "es",
+            "homeUrl": "https://lector.lolivault.net"
           }
         ]
       },
@@ -1586,26 +1606,6 @@
             "name": "Plot Twist No Fansub",
             "language": "es",
             "homeUrl": "https://plotnofansub.com"
-          }
-        ]
-      },
-      {
-        "name": "Pzykosis666HFansub",
-        "packageName": "eu.kanade.tachiyomi.extension.es.pzykosis666hfansub",
-        "resources": {
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/lib-multisrc/foolslide/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9dcb981/tachiyomi-es.pzykosis666hfansub-v1.6.7.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "6241339222563280170",
-            "name": "Pzykosis666HFansub",
-            "language": "es",
-            "homeUrl": "https://lector.pzykosis666hfansub.com"
           }
         ]
       },
