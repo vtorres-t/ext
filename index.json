@@ -570,13 +570,13 @@
         "name": "Dark Room Fansub",
         "packageName": "eu.kanade.tachiyomi.extension.es.darkroomfansub",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.darkroomfansub-v1.6.19.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.darkroomfansub-v1.6.20.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/darkroomfansub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.darkroomfansub-v1.6.19.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.darkroomfansub-v1.6.20.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106019",
-        "versionName": "1.6.19",
+        "versionCode": "106020",
+        "versionName": "1.6.20",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -591,13 +591,13 @@
         "name": "Dat-Gar Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.datgarscanlation-v1.6.18.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.datgarscanlation-v1.6.19.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/datgarscanlation/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.datgarscanlation-v1.6.18.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.datgarscanlation-v1.6.19.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106018",
-        "versionName": "1.6.18",
+        "versionCode": "106019",
+        "versionName": "1.6.19",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -689,6 +689,27 @@
             "name": "Dynasty",
             "language": "es",
             "homeUrl": "https://manhuako.net"
+          }
+        ]
+      },
+      {
+        "name": "El Vosque",
+        "packageName": "eu.kanade.tachiyomi.extension.es.elvosque",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.elvosque-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/elvosque/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.elvosque-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "6840774852905014341",
+            "name": "El Vosque",
+            "language": "es",
+            "homeUrl": "https://elvosque.es"
           }
         ]
       },
@@ -836,6 +857,27 @@
             "name": "HentaiMode",
             "language": "es",
             "homeUrl": "https://hentaimode.com"
+          }
+        ]
+      },
+      {
+        "name": "HManga",
+        "packageName": "eu.kanade.tachiyomi.extension.es.hmanga",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.hmanga-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/hmanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.hmanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6583644309098281299",
+            "name": "HManga",
+            "language": "es",
+            "homeUrl": "https://hmanga.asia"
           }
         ]
       },
@@ -1046,6 +1088,27 @@
             "name": "Kazoku Den",
             "language": "es",
             "homeUrl": "https://www.kazokuden.com"
+          }
+        ]
+      },
+      {
+        "name": "Kokkokutei Scan KT",
+        "packageName": "eu.kanade.tachiyomi.extension.es.kokkokuteiscankt",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.kokkokuteiscankt-v1.6.18.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/kokkokuteiscankt/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.kokkokuteiscankt-v1.6.18.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106018",
+        "versionName": "1.6.18",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2159936368130445305",
+            "name": "Kokkokutei Scan KT",
+            "language": "es",
+            "homeUrl": "https://kokkokuteisukyankt.blogspot.com"
           }
         ]
       },
@@ -1980,6 +2043,27 @@
             "name": "Shadow Manga (+18)",
             "language": "es",
             "homeUrl": "https://shademanga.com"
+          }
+        ]
+      },
+      {
+        "name": "Sinergia sin control",
+        "packageName": "eu.kanade.tachiyomi.extension.es.sinergiasincontrol",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.sinergiasincontrol-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/sinergiasincontrol/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4826504/tachiyomi-es.sinergiasincontrol-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1386799750012022728",
+            "name": "Sinergia sin control",
+            "language": "es",
+            "homeUrl": "https://sinergiasincontrol.blogspot.com"
           }
         ]
       },
