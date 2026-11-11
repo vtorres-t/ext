@@ -456,27 +456,6 @@
         ]
       },
       {
-        "name": "Cerberus Series",
-        "packageName": "eu.kanade.tachiyomi.extension.es.cerberusseries",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/2394958/tachiyomi-es.cerberusseries-v1.6.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/cerberusseries/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2394958/tachiyomi-es.cerberusseries-v1.6.3.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "1814471239661920836",
-            "name": "Cerberus Series",
-            "language": "es",
-            "homeUrl": "https://legionscans.com/wp"
-          }
-        ]
-      },
-      {
         "name": "ChoChoX",
         "packageName": "eu.kanade.tachiyomi.extension.es.chochox",
         "resources": {
@@ -2155,9 +2134,9 @@
         "name": "Taurus Fansub",
         "packageName": "eu.kanade.tachiyomi.extension.es.taurusfansub",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.taurusfansub-v1.6.69.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/6c5cdd2/tachiyomi-es.taurusfansub-v1.6.69.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/taurusfansub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.taurusfansub-v1.6.69.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/6c5cdd2/tachiyomi-es.taurusfansub-v1.6.69.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106069",
