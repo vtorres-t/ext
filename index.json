@@ -396,13 +396,13 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.catharsisworld-v1.6.6.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9181401/tachiyomi-es.catharsisworld-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.catharsisworld-v1.6.6.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9181401/tachiyomi-es.catharsisworld-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -2152,23 +2152,23 @@
         ]
       },
       {
-        "name": "Temple Scan",
+        "name": "Aedex",
         "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.templescanesp-v1.6.74.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/templescanesp/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.templescanesp-v1.6.74.jar"
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9181401/tachiyomi-es.templescanesp-v1.6.75.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/aedex/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9181401/tachiyomi-es.templescanesp-v1.6.75.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106074",
-        "versionName": "1.6.74",
+        "versionCode": "106075",
+        "versionName": "1.6.75",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
-            "id": "3451196845457607826",
-            "name": "Temple Scan",
+            "id": "4334604114708629478",
+            "name": "Aedex",
             "language": "es",
-            "homeUrl": "https://aedexnox.syakaihoken-web.com"
+            "homeUrl": "https://aedexnox.com"
           }
         ]
       },
