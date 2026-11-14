@@ -396,9 +396,9 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9181401/tachiyomi-es.catharsisworld-v1.6.7.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/a8d704a/tachiyomi-es.catharsisworld-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9181401/tachiyomi-es.catharsisworld-v1.6.7.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/a8d704a/tachiyomi-es.catharsisworld-v1.6.7.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106007",
@@ -2155,9 +2155,9 @@
         "name": "Aedex",
         "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9181401/tachiyomi-es.templescanesp-v1.6.75.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/a8d704a/tachiyomi-es.templescanesp-v1.6.75.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/aedex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9181401/tachiyomi-es.templescanesp-v1.6.75.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/a8d704a/tachiyomi-es.templescanesp-v1.6.75.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106075",
