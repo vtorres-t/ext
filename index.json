@@ -207,13 +207,13 @@
         "name": "AnzManga",
         "packageName": "eu.kanade.tachiyomi.extension.es.anzmanga",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.anzmanga-v1.6.1.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e7d855/tachiyomi-es.anzmanga-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/anzmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.anzmanga-v1.6.1.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e7d855/tachiyomi-es.anzmanga-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -522,9 +522,9 @@
         "name": "Code Arc Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.codearc",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/cb58aca/tachiyomi-es.codearc-v1.6.4.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e7d855/tachiyomi-es.codearc-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/codearc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/cb58aca/tachiyomi-es.codearc-v1.6.4.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e7d855/tachiyomi-es.codearc-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -717,9 +717,9 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/cb58aca/tachiyomi-es.emperorscan-v1.6.75.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e7d855/tachiyomi-es.emperorscan-v1.6.75.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/cb58aca/tachiyomi-es.emperorscan-v1.6.75.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e7d855/tachiyomi-es.emperorscan-v1.6.75.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106075",
@@ -941,27 +941,6 @@
             "name": "HOMOcdrs",
             "language": "es",
             "homeUrl": "https://homocdrscan.blogspot.com"
-          }
-        ]
-      },
-      {
-        "name": "House Of Otakus",
-        "packageName": "eu.kanade.tachiyomi.extension.es.houseofotakus",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.houseofotakus-v1.6.59.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/houseofotakus/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.houseofotakus-v1.6.59.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106059",
-        "versionName": "1.6.59",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "1968531533450563052",
-            "name": "House Of Otakus",
-            "language": "es",
-            "homeUrl": "https://houseofotakusv2.xyz"
           }
         ]
       },
@@ -1550,27 +1529,6 @@
             "name": "MangaKo",
             "language": "es",
             "homeUrl": "https://mangako.xyz"
-          }
-        ]
-      },
-      {
-        "name": "MangaOni",
-        "packageName": "eu.kanade.tachiyomi.extension.es.mangamx",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.mangamx-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/mangamx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-es.mangamx-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "2202687009511923782",
-            "name": "MangaOni",
-            "language": "es",
-            "homeUrl": "https://manga-oni.com"
           }
         ]
       },
