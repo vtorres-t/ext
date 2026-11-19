@@ -651,27 +651,6 @@
         ]
       },
       {
-        "name": "DoujinsHell",
-        "packageName": "eu.kanade.tachiyomi.extension.es.doujinshell",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.doujinshell-v1.6.60.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/doujinshell/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.doujinshell-v1.6.60.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106060",
-        "versionName": "1.6.60",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "7008709488397053596",
-            "name": "DoujinsHell",
-            "language": "es",
-            "homeUrl": "https://doujinshell.net"
-          }
-        ]
-      },
-      {
         "name": "DragonTranslation.org",
         "packageName": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
         "resources": {
@@ -689,6 +668,27 @@
             "name": "DragonTranslation.org",
             "language": "es",
             "homeUrl": "https://dragontranslation.org"
+          }
+        ]
+      },
+      {
+        "name": "Dynasty",
+        "packageName": "eu.kanade.tachiyomi.extension.es.dynasty",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.dynasty-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/dynasty/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.dynasty-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1788469981763672104",
+            "name": "Dynasty",
+            "language": "es",
+            "homeUrl": "https://manhuako.net"
           }
         ]
       },
@@ -941,6 +941,27 @@
             "name": "HOMOcdrs",
             "language": "es",
             "homeUrl": "https://homocdrscan.blogspot.com"
+          }
+        ]
+      },
+      {
+        "name": "House Of Otakus",
+        "packageName": "eu.kanade.tachiyomi.extension.es.houseofotakus",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.houseofotakus-v1.6.59.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/houseofotakus/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.houseofotakus-v1.6.59.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106059",
+        "versionName": "1.6.59",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1968531533450563052",
+            "name": "House Of Otakus",
+            "language": "es",
+            "homeUrl": "https://houseofotakusv2.xyz"
           }
         ]
       },
@@ -1491,6 +1512,27 @@
         ]
       },
       {
+        "name": "Lolivault",
+        "packageName": "eu.kanade.tachiyomi.extension.es.lolivault",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.lolivault-v1.6.7.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.lolivault-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1420213267345607410",
+            "name": "Lolivault",
+            "language": "es",
+            "homeUrl": "https://lector.lolivault.net"
+          }
+        ]
+      },
+      {
         "name": "Manga Crab",
         "packageName": "eu.kanade.tachiyomi.extension.es.mangacrab",
         "resources": {
@@ -1529,6 +1571,27 @@
             "name": "MangaKo",
             "language": "es",
             "homeUrl": "https://mangako.xyz"
+          }
+        ]
+      },
+      {
+        "name": "MangaOni",
+        "packageName": "eu.kanade.tachiyomi.extension.es.mangamx",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.mangamx-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/mangamx/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.mangamx-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2202687009511923782",
+            "name": "MangaOni",
+            "language": "es",
+            "homeUrl": "https://manga-oni.com"
           }
         ]
       },
@@ -1978,6 +2041,27 @@
         ]
       },
       {
+        "name": "Nora no Fansub",
+        "packageName": "eu.kanade.tachiyomi.extension.es.noranofansub",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.noranofansub-v1.6.7.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/noranofansub/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.noranofansub-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "7799054035626535709",
+            "name": "Nora no Fansub",
+            "language": "es",
+            "homeUrl": "https://www.noranofansub.com"
+          }
+        ]
+      },
+      {
         "name": "Novelas Chafas",
         "packageName": "eu.kanade.tachiyomi.extension.es.novelaschafas",
         "resources": {
@@ -2100,6 +2184,27 @@
             "name": "Plot Twist No Fansub",
             "language": "es",
             "homeUrl": "https://plotnofansub.com"
+          }
+        ]
+      },
+      {
+        "name": "Pzykosis666HFansub",
+        "packageName": "eu.kanade.tachiyomi.extension.es.pzykosis666hfansub",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.pzykosis666hfansub-v1.6.7.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/lib-multisrc/foolslide/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.pzykosis666hfansub-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6241339222563280170",
+            "name": "Pzykosis666HFansub",
+            "language": "es",
+            "homeUrl": "https://lector.pzykosis666hfansub.com"
           }
         ]
       },
@@ -2707,13 +2812,13 @@
         "name": "Yupmanga",
         "packageName": "eu.kanade.tachiyomi.extension.es.yupmanga",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/2394958/tachiyomi-es.yupmanga-v1.6.2.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.yupmanga-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/yupmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/2394958/tachiyomi-es.yupmanga-v1.6.2.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.yupmanga-v1.6.3.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
