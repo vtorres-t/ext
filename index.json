@@ -11,9 +11,9 @@
         "name": "Comick (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicklive",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-all.comicklive-v1.6.7.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-all.comicklive-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/comicklive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/9b7cdf8/tachiyomi-all.comicklive-v1.6.7.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-all.comicklive-v1.6.7.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106007",
@@ -651,6 +651,27 @@
         ]
       },
       {
+        "name": "DoujinsHell",
+        "packageName": "eu.kanade.tachiyomi.extension.es.doujinshell",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.doujinshell-v1.6.60.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/doujinshell/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.doujinshell-v1.6.60.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106060",
+        "versionName": "1.6.60",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "7008709488397053596",
+            "name": "DoujinsHell",
+            "language": "es",
+            "homeUrl": "https://doujinshell.net"
+          }
+        ]
+      },
+      {
         "name": "DragonTranslation.org",
         "packageName": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
         "resources": {
@@ -668,27 +689,6 @@
             "name": "DragonTranslation.org",
             "language": "es",
             "homeUrl": "https://dragontranslation.org"
-          }
-        ]
-      },
-      {
-        "name": "Dynasty",
-        "packageName": "eu.kanade.tachiyomi.extension.es.dynasty",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.dynasty-v1.6.1.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/dynasty/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.dynasty-v1.6.1.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "1788469981763672104",
-            "name": "Dynasty",
-            "language": "es",
-            "homeUrl": "https://manhuako.net"
           }
         ]
       },
@@ -1221,13 +1221,13 @@
         "name": "Komiwa",
         "packageName": "eu.kanade.tachiyomi.extension.es.komiwa",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/cb58aca/tachiyomi-es.komiwa-v1.6.3.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.komiwa-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/komiwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/cb58aca/tachiyomi-es.komiwa-v1.6.3.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.komiwa-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1512,27 +1512,6 @@
         ]
       },
       {
-        "name": "Lolivault",
-        "packageName": "eu.kanade.tachiyomi.extension.es.lolivault",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.lolivault-v1.6.7.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.lolivault-v1.6.7.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "1420213267345607410",
-            "name": "Lolivault",
-            "language": "es",
-            "homeUrl": "https://lector.lolivault.net"
-          }
-        ]
-      },
-      {
         "name": "Manga Crab",
         "packageName": "eu.kanade.tachiyomi.extension.es.mangacrab",
         "resources": {
@@ -1704,9 +1683,9 @@
         "name": "Manhwa-Latino",
         "packageName": "eu.kanade.tachiyomi.extension.es.manhwalatino",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.manhwalatino-v1.6.70.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.manhwalatino-v1.6.70.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/manhwalatino/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.manhwalatino-v1.6.70.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.manhwalatino-v1.6.70.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106070",
@@ -1750,13 +1729,13 @@
         "name": "ManhwaShot",
         "packageName": "eu.kanade.tachiyomi.extension.es.manhwashot",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.manhwashot-v1.6.1.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.manhwashot-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/manhwashot/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.manhwashot-v1.6.1.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.manhwashot-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -2041,27 +2020,6 @@
         ]
       },
       {
-        "name": "Nora no Fansub",
-        "packageName": "eu.kanade.tachiyomi.extension.es.noranofansub",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.noranofansub-v1.6.7.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/noranofansub/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.noranofansub-v1.6.7.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "7799054035626535709",
-            "name": "Nora no Fansub",
-            "language": "es",
-            "homeUrl": "https://www.noranofansub.com"
-          }
-        ]
-      },
-      {
         "name": "Novelas Chafas",
         "packageName": "eu.kanade.tachiyomi.extension.es.novelaschafas",
         "resources": {
@@ -2184,27 +2142,6 @@
             "name": "Plot Twist No Fansub",
             "language": "es",
             "homeUrl": "https://plotnofansub.com"
-          }
-        ]
-      },
-      {
-        "name": "Pzykosis666HFansub",
-        "packageName": "eu.kanade.tachiyomi.extension.es.pzykosis666hfansub",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.pzykosis666hfansub-v1.6.7.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/lib-multisrc/foolslide/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/735a4b5/tachiyomi-es.pzykosis666hfansub-v1.6.7.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "6241339222563280170",
-            "name": "Pzykosis666HFansub",
-            "language": "es",
-            "homeUrl": "https://lector.pzykosis666hfansub.com"
           }
         ]
       },
@@ -2875,9 +2812,9 @@
         "name": "Zonatmo.to (unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.es.zonatmoto",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.zonatmoto-v1.6.2.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.zonatmoto-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/zonatmoto/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/33e2faf/tachiyomi-es.zonatmoto-v1.6.2.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.zonatmoto-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
