@@ -11,13 +11,13 @@
         "name": "Comick (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.extension.all.comicklive",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-all.comicklive-v1.6.7.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-all.comicklive-v1.6.8.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/comicklive/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-all.comicklive-v1.6.7.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-all.comicklive-v1.6.8.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106007",
-        "versionName": "1.6.7",
+        "versionCode": "106008",
+        "versionName": "1.6.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -693,6 +693,27 @@
         ]
       },
       {
+        "name": "Dynasty",
+        "packageName": "eu.kanade.tachiyomi.extension.es.dynasty",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.dynasty-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/dynasty/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.dynasty-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1788469981763672104",
+            "name": "Dynasty",
+            "language": "es",
+            "homeUrl": "https://manhuako.net"
+          }
+        ]
+      },
+      {
         "name": "El Vosque",
         "packageName": "eu.kanade.tachiyomi.extension.es.elvosque",
         "resources": {
@@ -1221,13 +1242,13 @@
         "name": "Komiwa",
         "packageName": "eu.kanade.tachiyomi.extension.es.komiwa",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.komiwa-v1.6.4.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.komiwa-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/komiwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4e2efe2/tachiyomi-es.komiwa-v1.6.4.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.komiwa-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1235,6 +1256,27 @@
             "name": "Komiwa",
             "language": "es",
             "homeUrl": "https://www.komiwa.net"
+          }
+        ]
+      },
+      {
+        "name": "Kumanga",
+        "packageName": "eu.kanade.tachiyomi.extension.es.kumanga",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.kumanga-v1.6.5.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/kumanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.kumanga-v1.6.5.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5818858964600650549",
+            "name": "Kumanga",
+            "language": "es",
+            "homeUrl": "https://www.kumanga.com"
           }
         ]
       },
@@ -1487,6 +1529,27 @@
             "name": "Lmtos",
             "language": "es",
             "homeUrl": "https://lmtos.net"
+          }
+        ]
+      },
+      {
+        "name": "Lolivault",
+        "packageName": "eu.kanade.tachiyomi.extension.es.lolivault",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.lolivault-v1.6.7.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.lolivault-v1.6.7.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1420213267345607410",
+            "name": "Lolivault",
+            "language": "es",
+            "homeUrl": "https://lector.lolivault.net"
           }
         ]
       },
@@ -2449,13 +2512,13 @@
         "name": "Aedex",
         "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/4de9c62/tachiyomi-es.templescanesp-v1.6.77.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.templescanesp-v1.6.78.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/aedex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/4de9c62/tachiyomi-es.templescanesp-v1.6.77.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/732e3ee/tachiyomi-es.templescanesp-v1.6.78.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106077",
-        "versionName": "1.6.77",
+        "versionCode": "106078",
+        "versionName": "1.6.78",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
