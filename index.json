@@ -396,9 +396,9 @@
         "name": "CapibaraTraductor",
         "packageName": "eu.kanade.tachiyomi.extension.es.capibaratraductor",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.capibaratraductor-v1.6.5.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.capibaratraductor-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/capibaratraductor/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.capibaratraductor-v1.6.5.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.capibaratraductor-v1.6.5.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106005",
@@ -417,13 +417,13 @@
         "name": "Catharsis World",
         "packageName": "eu.kanade.tachiyomi.extension.es.catharsisworld",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.catharsisworld-v1.6.8.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.catharsisworld-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.catharsisworld-v1.6.8.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.catharsisworld-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -438,9 +438,9 @@
         "name": "Catoons",
         "packageName": "eu.kanade.tachiyomi.extension.es.catmanhwas",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.catmanhwas-v1.6.2.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.catmanhwas-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/catmanhwas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.catmanhwas-v1.6.2.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.catmanhwas-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -477,6 +477,27 @@
         ]
       },
       {
+        "name": "Cerberus Series",
+        "packageName": "eu.kanade.tachiyomi.extension.es.cerberusseries",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.cerberusseries-v1.6.3.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/cerberusseries/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.cerberusseries-v1.6.3.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106003",
+        "versionName": "1.6.3",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1814471239661920836",
+            "name": "Cerberus Series",
+            "language": "es",
+            "homeUrl": "https://legionscans.com/wp"
+          }
+        ]
+      },
+      {
         "name": "ChoChoX",
         "packageName": "eu.kanade.tachiyomi.extension.es.chochox",
         "resources": {
@@ -501,9 +522,9 @@
         "name": "Code Arc Mangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.codearc",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.codearc-v1.6.4.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.codearc-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/codearc/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.codearc-v1.6.4.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.codearc-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -672,27 +693,6 @@
         ]
       },
       {
-        "name": "Dynasty",
-        "packageName": "eu.kanade.tachiyomi.extension.es.dynasty",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.dynasty-v1.6.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/dynasty/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.dynasty-v1.6.2.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "1788469981763672104",
-            "name": "Dynasty",
-            "language": "es",
-            "homeUrl": "https://manhuako.net"
-          }
-        ]
-      },
-      {
         "name": "El Vosque",
         "packageName": "eu.kanade.tachiyomi.extension.es.elvosque",
         "resources": {
@@ -717,9 +717,9 @@
         "name": "Emperor Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.emperorscan",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.emperorscan-v1.6.75.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.emperorscan-v1.6.75.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.emperorscan-v1.6.75.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.emperorscan-v1.6.75.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106075",
@@ -987,27 +987,6 @@
         ]
       },
       {
-        "name": "Ikigai Mangas",
-        "packageName": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.ikigaimangas-v1.6.44.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.ikigaimangas-v1.6.44.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106044",
-        "versionName": "1.6.44",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "7749406396573482811",
-            "name": "Ikigai Mangas",
-            "language": "es",
-            "homeUrl": "https://visorikigai.gettocaboca.com"
-          }
-        ]
-      },
-      {
         "name": "Ikuhentai",
         "packageName": "eu.kanade.tachiyomi.extension.es.ikuhentai",
         "resources": {
@@ -1221,9 +1200,9 @@
         "name": "Komiwa",
         "packageName": "eu.kanade.tachiyomi.extension.es.komiwa",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.komiwa-v1.6.6.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.komiwa-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/komiwa/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.komiwa-v1.6.6.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.komiwa-v1.6.6.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106006",
@@ -1242,9 +1221,9 @@
         "name": "Kumanga",
         "packageName": "eu.kanade.tachiyomi.extension.es.kumanga",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.kumanga-v1.6.6.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.kumanga-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/kumanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.kumanga-v1.6.6.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.kumanga-v1.6.6.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106006",
@@ -1747,27 +1726,6 @@
         ]
       },
       {
-        "name": "ManhwaWeb",
-        "packageName": "eu.kanade.tachiyomi.extension.es.manhwaweb",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.manhwaweb-v1.6.16.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/manhwaweb/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.manhwaweb-v1.6.16.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106016",
-        "versionName": "1.6.16",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "5943212552955476721",
-            "name": "ManhwaWeb",
-            "language": "es",
-            "homeUrl": "https://manhwaweb.com"
-          }
-        ]
-      },
-      {
         "name": "Mantraz Scan",
         "packageName": "eu.kanade.tachiyomi.extension.es.mantrazscan",
         "resources": {
@@ -2058,6 +2016,27 @@
             "name": "Olympus Scanlation",
             "language": "es",
             "homeUrl": "https://olympusxyz.com"
+          }
+        ]
+      },
+      {
+        "name": "Omniscient Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.es.omniscientscan",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.omniscientscan-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/omniscientscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.omniscientscan-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8770470826842748123",
+            "name": "Omniscient Scan",
+            "language": "es",
+            "homeUrl": "https://omniscan.site"
           }
         ]
       },
@@ -2379,6 +2358,27 @@
             "name": "SkyMangas",
             "language": "es",
             "homeUrl": "https://skymangas.com"
+          }
+        ]
+      },
+      {
+        "name": "Spicy Scan",
+        "packageName": "eu.kanade.tachiyomi.extension.es.spicyscan",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.spicyscan-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/spicyscan/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.spicyscan-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2665002677795338092",
+            "name": "Spicy Scan",
+            "language": "es",
+            "homeUrl": "https://spicyseries.com"
           }
         ]
       },
@@ -2728,9 +2728,9 @@
         "name": "Yupmanga",
         "packageName": "eu.kanade.tachiyomi.extension.es.yupmanga",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.yupmanga-v1.6.4.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.yupmanga-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/yupmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.yupmanga-v1.6.4.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/b4c1885/tachiyomi-es.yupmanga-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
