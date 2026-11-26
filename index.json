@@ -33,135 +33,6 @@
         ]
       },
       {
-        "name": "nHentai.com (unoriginal)",
-        "packageName": "eu.kanade.tachiyomi.extension.all.nhentaicom",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-all.nhentaicom-v1.6.3.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/all/nhentaicom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-all.nhentaicom-v1.6.3.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "9165839893600661480",
-            "name": "nHentai.com (unoriginal)",
-            "language": "all",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "8504927104562262528",
-            "name": "nHentai.com (unoriginal)",
-            "language": "zh",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "5591830863732393712",
-            "name": "nHentai.com (unoriginal)",
-            "language": "en",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "8148939977393580424",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ja",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "5817327335315373850",
-            "name": "nHentai.com (unoriginal)",
-            "language": "other",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "1773653553472615327",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ar",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "4984830439465026319",
-            "name": "nHentai.com (unoriginal)",
-            "language": "jv",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "5355858532116403799",
-            "name": "nHentai.com (unoriginal)",
-            "language": "bg",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "1144495813995437124",
-            "name": "nHentai.com (unoriginal)",
-            "language": "cs",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "1872394332504252034",
-            "name": "nHentai.com (unoriginal)",
-            "language": "uk",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "8189813976393792973",
-            "name": "nHentai.com (unoriginal)",
-            "language": "sk",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "5464986831390726554",
-            "name": "nHentai.com (unoriginal)",
-            "language": "eo",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "3640686393110022124",
-            "name": "nHentai.com (unoriginal)",
-            "language": "mn",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "6750311061190710079",
-            "name": "nHentai.com (unoriginal)",
-            "language": "la",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "8306394815737846919",
-            "name": "nHentai.com (unoriginal)",
-            "language": "ceb",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "4352420071178605258",
-            "name": "nHentai.com (unoriginal)",
-            "language": "tl",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "6423038744951581148",
-            "name": "nHentai.com (unoriginal)",
-            "language": "tr",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "1001519209586733699",
-            "name": "nHentai.com (unoriginal)",
-            "language": "sr",
-            "homeUrl": "https://nhentai.com"
-          },
-          {
-            "id": "6038464145206378323",
-            "name": "nHentai.com (unoriginal)",
-            "language": "el",
-            "homeUrl": "https://nhentai.com"
-          }
-        ]
-      },
-      {
         "name": "AKAYA",
         "packageName": "eu.kanade.tachiyomi.extension.es.akaya",
         "resources": {
@@ -291,9 +162,9 @@
         "name": "BarManga",
         "packageName": "eu.kanade.tachiyomi.extension.es.barmanga",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/f032440/tachiyomi-es.barmanga-v1.6.72.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/1f4ecef/tachiyomi-es.barmanga-v1.6.72.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/barmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/f032440/tachiyomi-es.barmanga-v1.6.72.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/1f4ecef/tachiyomi-es.barmanga-v1.6.72.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106072",
@@ -668,6 +539,27 @@
             "name": "DragonTranslation.org",
             "language": "es",
             "homeUrl": "https://dragontranslation.org"
+          }
+        ]
+      },
+      {
+        "name": "Dynasty",
+        "packageName": "eu.kanade.tachiyomi.extension.es.dynasty",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/1f4ecef/tachiyomi-es.dynasty-v1.6.2.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/dynasty/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/1f4ecef/tachiyomi-es.dynasty-v1.6.2.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "1788469981763672104",
+            "name": "Dynasty",
+            "language": "es",
+            "homeUrl": "https://manhuako.net"
           }
         ]
       },
@@ -1197,6 +1089,27 @@
         ]
       },
       {
+        "name": "Kumanga",
+        "packageName": "eu.kanade.tachiyomi.extension.es.kumanga",
+        "resources": {
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/1f4ecef/tachiyomi-es.kumanga-v1.6.6.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/kumanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/1f4ecef/tachiyomi-es.kumanga-v1.6.6.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "5818858964600650549",
+            "name": "Kumanga",
+            "language": "es",
+            "homeUrl": "https://www.kumanga.com"
+          }
+        ]
+      },
+      {
         "name": "Lector Asteria",
         "packageName": "eu.kanade.tachiyomi.extension.es.lectorasteria",
         "resources": {
@@ -1592,27 +1505,6 @@
             "name": "Manga  TV",
             "language": "es",
             "homeUrl": "https://mangatv.net"
-          }
-        ]
-      },
-      {
-        "name": "MangaVault",
-        "packageName": "eu.kanade.tachiyomi.extension.es.mangavault",
-        "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/f032440/tachiyomi-es.mangavault-v1.6.2.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/mangavault/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/f032440/tachiyomi-es.mangavault-v1.6.2.jar"
-        },
-        "extensionLib": "1.6",
-        "versionCode": "106002",
-        "versionName": "1.6.2",
-        "contentWarning": "CONTENT_WARNING_MIXED",
-        "sources": [
-          {
-            "id": "568182773829502484",
-            "name": "MangaVault",
-            "language": "es",
-            "homeUrl": "https://mangavault.lat"
           }
         ]
       },
