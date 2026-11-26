@@ -162,13 +162,13 @@
         "name": "BarManga",
         "packageName": "eu.kanade.tachiyomi.extension.es.barmanga",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/6a6d939/tachiyomi-es.barmanga-v1.6.72.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/0929253/tachiyomi-es.barmanga-v1.6.73.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/barmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/6a6d939/tachiyomi-es.barmanga-v1.6.72.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/0929253/tachiyomi-es.barmanga-v1.6.73.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106072",
-        "versionName": "1.6.72",
+        "versionCode": "106073",
+        "versionName": "1.6.73",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
