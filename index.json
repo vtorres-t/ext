@@ -2320,13 +2320,13 @@
         "name": "Aedex",
         "packageName": "eu.kanade.tachiyomi.extension.es.templescanesp",
         "resources": {
-          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.templescanesp-v1.6.79.apk",
+          "apkUrl": "https://github.com/vtorres-t/ext/releases/download/fee01a9/tachiyomi-es.templescanesp-v1.6.80.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/vtorres-t/extensions-source@main/src/es/aedex/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/e61aea8/tachiyomi-es.templescanesp-v1.6.79.jar"
+          "jarUrl": "https://github.com/vtorres-t/ext/releases/download/fee01a9/tachiyomi-es.templescanesp-v1.6.80.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106079",
-        "versionName": "1.6.79",
+        "versionCode": "106080",
+        "versionName": "1.6.80",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
